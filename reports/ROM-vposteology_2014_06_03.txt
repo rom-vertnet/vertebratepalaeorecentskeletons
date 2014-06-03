@@ -1,0 +1,142 @@
+Report for Institution Code ROM, Resource vposteology
+Usage stats for May, 2014, generated on 2014/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 55
+Number of records retrieved in searches: 173
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 2
+	Country: Canada ; Times: 6
+	Country: Mexico ; Times: 6
+	Country: Panama ; Times: 3
+	Country: Thailand ; Times: 4
+	Country: United States ; Times: 12
+	Country: Unknown ; Times: 22
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-05-02 ; Times: 1
+	Date: 2014-05-05 ; Times: 2
+	Date: 2014-05-06 ; Times: 1
+	Date: 2014-05-07 ; Times: 4
+	Date: 2014-05-09 ; Times: 1
+	Date: 2014-05-10 ; Times: 1
+	Date: 2014-05-11 ; Times: 2
+	Date: 2014-05-13 ; Times: 1
+	Date: 2014-05-14 ; Times: 2
+	Date: 2014-05-15 ; Times: 8
+	Date: 2014-05-16 ; Times: 17
+	Date: 2014-05-23 ; Times: 1
+	Date: 2014-05-25 ; Times: 1
+	Date: 2014-05-27 ; Times: 6
+	Date: 2014-05-29 ; Times: 6
+	Date: 2014-05-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Potamotrygon" ; Times: 2
+	Query: "Thamnophis sirtalis tetrataenia" ; Times: 1
+	Query: "Synbranchidae" ; Times: 2
+	Query: "odocoileus virginianus type:specimen stateprovince:"Florida"" ; Times: 1
+	Query: "priodontes maximus" ; Times: 1
+	Query: "thamnophis sirtalis tetrataenia" ; Times: 1
+	Query: "Varanus komodoensis" ; Times: 3
+	Query: "Thomomys idahoensis" ; Times: 1
+	Query: "salvelinus namaycush year >= 1800 year <= 1925" ; Times: 1
+	Query: "genus:Tarsius" ; Times: 1
+	Query: "Geochelone carbonaria" ; Times: 2
+	Query: "Tremarctos ornatus" ; Times: 2
+	Query: "country:"Mexico" genus:Odocoileus year >= 1970 year <= 2014" ; Times: 2
+	Query: "plestiodon obsoletus" ; Times: 1
+	Query: "PRIODONTES MAXIMUS" ; Times: 4
+	Query: "Leopardus jacobita" ; Times: 1
+	Query: "choloepus hoffmanni" ; Times: 1
+	Query: "Cetacea institutioncode:ROM" ; Times: 6
+	Query: "tremarctos ornatus" ; Times: 3
+	Query: "tayassu tajacu" ; Times: 10
+	Query: "Crocodylus acutus" ; Times: 1
+	Query: "Spermophilopsis leptodactylus" ; Times: 1
+	Query: "Camelus AND (NOT Aves)" ; Times: 1
+	Query: "Plestiodon copei" ; Times: 6
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 35 (out of 1679 download events in this period)
+Total number of records downloaded: 777 (out of 895475 records downloaded for all resources in this period)
+Total number of unique records downloaded: 758
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Chile ; Times: 1
+	Country: China ; Times: 1
+	Country: Indonesia ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: United States ; Times: 24
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-05-01 ; Times: 7
+	Date: 2014-05-02 ; Times: 1
+	Date: 2014-05-05 ; Times: 10
+	Date: 2014-05-06 ; Times: 2
+	Date: 2014-05-16 ; Times: 1
+	Date: 2014-05-17 ; Times: 2
+	Date: 2014-05-18 ; Times: 2
+	Date: 2014-05-21 ; Times: 1
+	Date: 2014-05-25 ; Times: 3
+	Date: 2014-05-26 ; Times: 1
+	Date: 2014-05-27 ; Times: 2
+	Date: 2014-05-29 ; Times: 1
+	Date: 2014-05-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: ""Arizona elegans"" ; Times: 1
+	Query: "Pteropus institutioncode:ROM" ; Times: 1
+	Query: "Eryx" ; Times: 1
+	Query: ""Aquila chrysaetos"" ; Times: 1
+	Query: "felis chaus" ; Times: 3
+	Query: ""Crotalus cerastes"" ; Times: 1
+	Query: "specificepithet:floridanus genus:sylvilagus year >= 1980 year <= 2014" ; Times: 1
+	Query: ""Athene cunicularia"" ; Times: 1
+	Query: "puma concolor type:specimen" ; Times: 1
+	Query: "Artiodactyla" ; Times: 1
+	Query: "Varanus komodoensis" ; Times: 1
+	Query: "Primates" ; Times: 1
+	Query: "genus:castor institutioncode:ROM" ; Times: 1
+	Query: "Squamata country:"Australia"" ; Times: 1
+	Query: ""Sauromalus obesus"" ; Times: 1
+	Query: "ursus" ; Times: 1
+	Query: "palenque" ; Times: 1
+	Query: "Monotremata" ; Times: 5
+	Query: "Phodopus campbelli" ; Times: 1
+	Query: "Micrurus fulvius stateprovince:"Florida"" ; Times: 1
+	Query: "phrynosoma" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "class:Mammalia palenque chiapas" ; Times: 1
+	Query: "sceloporus torquatus" ; Times: 1
+	Query: ""Masticophis flagellum"" ; Times: 2
+	Query: "tadarida" ; Times: 1
+	Query: "Plestiodon copei" ; Times: 1
+	Query: "Proboscidea" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 164
+Total number of records retrieved from searches: 360
+Number of download events that retrieved data from the resource: 118
+Total number of records downloaded: 1984
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 164
+Total number of records retrieved from searches: 360
+Number of download events that retrieved data from the resource: 118
+Total number of records downloaded: 1984
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
