@@ -1,0 +1,165 @@
+Report for Institution Code ROM, Resource vposteology
+Usage stats for August, 2014, generated on 2014/09/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 57
+Number of records retrieved in searches: 63
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Chile ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Egypt ; Times: 1
+	Country: Germany ; Times: 10
+	Country: Honduras ; Times: 6
+	Country: Mexico ; Times: 2
+	Country: Sweden ; Times: 6
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 28
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-08-07 ; Times: 6
+	Date: 2014-08-09 ; Times: 1
+	Date: 2014-08-14 ; Times: 2
+	Date: 2014-08-18 ; Times: 6
+	Date: 2014-08-19 ; Times: 8
+	Date: 2014-08-20 ; Times: 6
+	Date: 2014-08-22 ; Times: 7
+	Date: 2014-08-23 ; Times: 5
+	Date: 2014-08-24 ; Times: 1
+	Date: 2014-08-25 ; Times: 10
+	Date: 2014-08-26 ; Times: 2
+	Date: 2014-08-28 ; Times: 1
+	Date: 2014-08-29 ; Times: 1
+	Date: 2014-08-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "loxodonta africana" ; Times: 20
+	Query: "lepus callotis" ; Times: 3
+	Query: "alopias vulpinus" ; Times: 3
+	Query: "Vipera ammodytes" ; Times: 3
+	Query: "isistius" ; Times: 3
+	Query: "alopias pelagicus" ; Times: 8
+	Query: "isistius plutodus" ; Times: 3
+	Query: "Panthera onca" ; Times: 1
+	Query: "Agkistrodon himalayanus" ; Times: 2
+	Query: "Agkistrodon taylori" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "viscacia" ; Times: 1
+	Query: "python regius" ; Times: 1
+	Query: "Agkistrodon bilineatus" ; Times: 1
+	Query: "Ailurus fulgens type:specimen" ; Times: 1
+	Query: "Ailurus fulgens" ; Times: 1
+	Query: "Ochotona collaris" ; Times: 1
+	Query: "Vipera Russia" ; Times: 1
+	Query: "Lagidium viscacia" ; Times: 1
+	Query: "Acinonyx jubatus type:specimen" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 60 (out of 273 download events in this period)
+Total number of records downloaded: 662 (out of 1909881 records downloaded for all resources in this period)
+Total number of unique records downloaded: 565
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Germany ; Times: 4
+	Country: Israel ; Times: 1
+	Country: Mexico ; Times: 13
+	Country: United States ; Times: 37
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-08-04 ; Times: 2
+	Date: 2014-08-05 ; Times: 7
+	Date: 2014-08-06 ; Times: 1
+	Date: 2014-08-08 ; Times: 1
+	Date: 2014-08-13 ; Times: 2
+	Date: 2014-08-14 ; Times: 3
+	Date: 2014-08-16 ; Times: 2
+	Date: 2014-08-17 ; Times: 7
+	Date: 2014-08-18 ; Times: 2
+	Date: 2014-08-19 ; Times: 1
+	Date: 2014-08-20 ; Times: 1
+	Date: 2014-08-21 ; Times: 1
+	Date: 2014-08-22 ; Times: 10
+	Date: 2014-08-26 ; Times: 9
+	Date: 2014-08-27 ; Times: 5
+	Date: 2014-08-28 ; Times: 3
+	Date: 2014-08-29 ; Times: 1
+	Date: 2014-08-30 ; Times: 1
+	Date: 2014-08-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Coleonyx variegatus variegatus" ; Times: 1
+	Query: "tamiasciurus hudsonicus" ; Times: 1
+	Query: "Ondatra zibethicus" ; Times: 1
+	Query: "Martes pennanti type:specimen AND (NOT Canada NOT Alaska NOT Michigan)" ; Times: 1
+	Query: "Amphiuma tridactylum" ; Times: 2
+	Query: "Corvus corax" ; Times: 1
+	Query: "Agkistrodon taylori" ; Times: 1
+	Query: "neotoma fuscipes" ; Times: 2
+	Query: "sorex hoyi type:specimen" ; Times: 1
+	Query: "Ochotona collaris" ; Times: 1
+	Query: "condylura cristata type:specimen" ; Times: 1
+	Query: "Mustela nivalis type:specimen" ; Times: 1
+	Query: "Martes americana type:specimen" ; Times: 1
+	Query: "Sceloporus" ; Times: 4
+	Query: "urocitellus" ; Times: 1
+	Query: "Mephitis mephitis type:specimen" ; Times: 1
+	Query: "rHINEURA" ; Times: 1
+	Query: "Desmodus rotundus" ; Times: 1
+	Query: "amphisbaena" ; Times: 1
+	Query: "Ailurus fulgens" ; Times: 2
+	Query: "neotoma cinerea" ; Times: 1
+	Query: "cryptotis parva type:specimen" ; Times: 1
+	Query: "Mustela erminea" ; Times: 1
+	Query: "Ambystoma tigrinum" ; Times: 1
+	Query: "spermophilus beecheyi" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "Acinonyx jubatus type:specimen" ; Times: 1
+	Query: "Rhinella schneideri" ; Times: 1
+	Query: "ensatina eschscholtzii" ; Times: 1
+	Query: "Ambystoma" ; Times: 1
+	Query: "Anaxyrus woodhousii" ; Times: 1
+	Query: "Lithobates pipiens" ; Times: 2
+	Query: ""Urocitellus parryii" OR "Spermophilus parryii"" ; Times: 1
+	Query: "ochotona princeps" ; Times: 1
+	Query: "scalopus aquaticus type:specimen" ; Times: 1
+	Query: "Ailurus fulgens type:specimen" ; Times: 1
+	Query: "Sceloporus torquatus" ; Times: 2
+	Query: "Anaxyrus americanus" ; Times: 1
+	Query: "Spilogale putorius type:specimen" ; Times: 2
+	Query: "country:"brazil"" ; Times: 2
+	Query: "Peromyscus gossypinus type:specimen" ; Times: 1
+	Query: "eptesicus" ; Times: 1
+	Query: "Herpestidae type:specimen" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "castor canadensis" ; Times: 1
+	Query: "Ambystoma opacum" ; Times: 1
+	Query: "Alouatta" ; Times: 1
+	Query: "Dipodomys" ; Times: 1
+	Query: "myocastor coypus" ; Times: 1
+	Query: "alouatta seniculus" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 361
+Total number of records retrieved from searches: 3506
+Number of download events that retrieved data from the resource: 241
+Total number of records downloaded: 3292
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 361
+Total number of records retrieved from searches: 3506
+Number of download events that retrieved data from the resource: 241
+Total number of records downloaded: 3292
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
