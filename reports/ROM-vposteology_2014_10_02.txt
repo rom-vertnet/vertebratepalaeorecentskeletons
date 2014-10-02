@@ -1,0 +1,137 @@
+Report for Institution Code ROM, Resource vposteology
+Usage stats for September, 2014, generated on 2014/10/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 42
+Number of records retrieved in searches: 81
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Colombia ; Times: 2
+	Country: Germany ; Times: 7
+	Country: Mexico ; Times: 4
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 28
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-09-01 ; Times: 16
+	Date: 2014-09-02 ; Times: 2
+	Date: 2014-09-05 ; Times: 3
+	Date: 2014-09-10 ; Times: 3
+	Date: 2014-09-11 ; Times: 5
+	Date: 2014-09-15 ; Times: 5
+	Date: 2014-09-17 ; Times: 3
+	Date: 2014-09-20 ; Times: 2
+	Date: 2014-09-22 ; Times: 1
+	Date: 2014-09-24 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "alopias pelagicus" ; Times: 6
+	Query: "sphenodon (skeleton)" ; Times: 1
+	Query: "Choloepus didactylus" ; Times: 1
+	Query: "Tupinambis (Skeleton)" ; Times: 1
+	Query: "loxodonta" ; Times: 2
+	Query: "Andrias" ; Times: 1
+	Query: "Alouatta institutioncode:ROM" ; Times: 12
+	Query: "Cairina moschata" ; Times: 1
+	Query: "alouatta institutioncode:ROM" ; Times: 1
+	Query: "Alouatta" ; Times: 1
+	Query: "ailurus fulgens" ; Times: 3
+	Query: "Squatina californica" ; Times: 2
+	Query: "panthera onca" ; Times: 2
+	Query: "testudines (bone)" ; Times: 2
+	Query: "Bradypus tridactylus" ; Times: 1
+	Query: "Varanus niloticus (Skeleton)" ; Times: 2
+	Query: "Ameiva (Skeleton)" ; Times: 1
+	Query: "python regius" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 39 (out of 164 download events in this period)
+Total number of records downloaded: 990 (out of 2860493 records downloaded for all resources in this period)
+Total number of unique records downloaded: 696
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 12
+	Country: United States ; Times: 22
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-09-01 ; Times: 2
+	Date: 2014-09-02 ; Times: 1
+	Date: 2014-09-03 ; Times: 1
+	Date: 2014-09-04 ; Times: 3
+	Date: 2014-09-07 ; Times: 1
+	Date: 2014-09-10 ; Times: 3
+	Date: 2014-09-11 ; Times: 1
+	Date: 2014-09-12 ; Times: 3
+	Date: 2014-09-14 ; Times: 1
+	Date: 2014-09-15 ; Times: 2
+	Date: 2014-09-17 ; Times: 3
+	Date: 2014-09-18 ; Times: 1
+	Date: 2014-09-19 ; Times: 3
+	Date: 2014-09-20 ; Times: 6
+	Date: 2014-09-22 ; Times: 3
+	Date: 2014-09-23 ; Times: 4
+	Date: 2014-09-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "mammalia AND Alaska" ; Times: 1
+	Query: "nasua" ; Times: 1
+	Query: "testudines (bone OR skeleton OR shell OR skull)" ; Times: 1
+	Query: "Gavia immer type:specimen" ; Times: 1
+	Query: "erethizontidae" ; Times: 1
+	Query: "Bradypus tridactylus" ; Times: 1
+	Query: "sigmodon" ; Times: 1
+	Query: "richardson institutioncode:rom" ; Times: 1
+	Query: "tachyglossidae; skull" ; Times: 1
+	Query: "Ensatina" ; Times: 1
+	Query: "dasyprocta punctata" ; Times: 2
+	Query: "NASUA" ; Times: 1
+	Query: "Andrias" ; Times: 3
+	Query: "mammalia AND Oregon" ; Times: 1
+	Query: "Pyxicephalus" ; Times: 1
+	Query: "neotoma cinerea" ; Times: 1
+	Query: "Rhinoclemmys" ; Times: 1
+	Query: "Lynx rufus" ; Times: 1
+	Query: "larus delawarensis" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "sorex" ; Times: 1
+	Query: "sciurus niger" ; Times: 1
+	Query: "Choloepus didactylus" ; Times: 1
+	Query: "Phrynosoma" ; Times: 1
+	Query: "Desmodus rotundus" ; Times: 1
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "franklin institutioncode:rom" ; Times: 1
+	Query: "mammalia AND California" ; Times: 1
+	Query: "catharus fuscescens" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "agouti paca" ; Times: 1
+	Query: "peromyscus" ; Times: 2
+	Query: "panthera onca" ; Times: 1
+	Query: "Nasua nasua" ; Times: 1
+	Query: "Myrmecophaga tridactyla" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 403
+Total number of records retrieved from searches: 3587
+Number of download events that retrieved data from the resource: 280
+Total number of records downloaded: 4282
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 403
+Total number of records retrieved from searches: 3587
+Number of download events that retrieved data from the resource: 280
+Total number of records downloaded: 4282
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
