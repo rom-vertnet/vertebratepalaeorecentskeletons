@@ -1,0 +1,73 @@
+Report for Institution Code ROM, Resource vposteology
+Usage stats for November, 2014, generated on 2014/12/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 20
+Number of records retrieved in searches: 64
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Germany ; Times: 2
+	Country: United States ; Times: 17
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-11-07 ; Times: 1
+	Date: 2014-11-13 ; Times: 2
+	Date: 2014-11-19 ; Times: 1
+	Date: 2014-11-21 ; Times: 2
+	Date: 2014-11-24 ; Times: 11
+	Date: 2014-11-26 ; Times: 1
+	Date: 2014-11-29 ; Times: 1
+	Date: 2014-11-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "solenodon" ; Times: 1
+	Query: "Vipera aspis" ; Times: 1
+	Query: "Coronella austriaca" ; Times: 1
+	Query: "Eunectes" ; Times: 3
+	Query: "Epicrates" ; Times: 3
+	Query: "Acipenser fulvescens" ; Times: 2
+	Query: "Regina grahamii" ; Times: 1
+	Query: "python" ; Times: 1
+	Query: "Liasis" ; Times: 1
+	Query: "Leiopython" ; Times: 1
+	Query: "drymarchon couperi" ; Times: 1
+	Query: "Boa constrictor" ; Times: 1
+	Query: "heloderma horridum" ; Times: 1
+	Query: ""credit river"" ; Times: 1
+	Query: "varanus griseus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 0 download events in this period)
+Total number of records downloaded: 0 (out of 0 records downloaded for all resources in this period)
+Total number of unique records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 453
+Total number of records retrieved from searches: 3784
+Number of download events that retrieved data from the resource: 305
+Total number of records downloaded: 4583
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 453
+Total number of records retrieved from searches: 3784
+Number of download events that retrieved data from the resource: 305
+Total number of records downloaded: 4583
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
