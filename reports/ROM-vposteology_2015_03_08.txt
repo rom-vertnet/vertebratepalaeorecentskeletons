@@ -1,0 +1,157 @@
+Report for Institution Code ROM, Resource vposteology
+Usage stats for February, 2015, generated on 2015/03/08
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 26
+Number of records retrieved in searches: 108
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Canada ; Times: 2
+	Country: Mexico ; Times: 5
+	Country: United States ; Times: 14
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-02-05 ; Times: 1
+	Date: 2015-02-06 ; Times: 2
+	Date: 2015-02-07 ; Times: 2
+	Date: 2015-02-09 ; Times: 2
+	Date: 2015-02-10 ; Times: 2
+	Date: 2015-02-11 ; Times: 1
+	Date: 2015-02-17 ; Times: 4
+	Date: 2015-02-18 ; Times: 1
+	Date: 2015-02-19 ; Times: 1
+	Date: 2015-02-20 ; Times: 3
+	Date: 2015-02-24 ; Times: 6
+	Date: 2015-02-27 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "solenodon" ; Times: 1
+	Query: "Atropoides nummifer" ; Times: 3
+	Query: "Lepidosiren" ; Times: 2
+	Query: "Choloepus didactylus" ; Times: 2
+	Query: "Varanus salvadorii" ; Times: 2
+	Query: "aves institutioncode:rom year >= 2012 year <= 2012" ; Times: 2
+	Query: "varanus komodoensis" ; Times: 4
+	Query: "andrei" ; Times: 2
+	Query: "Lithobates pipiens country:"Canada" year >= 1993 year <= 2014" ; Times: 2
+	Query: "aves institutioncode:rom year >= 2013 year <= 2013" ; Times: 1
+	Query: "boidae skeleton type:specimen" ; Times: 1
+	Query: "aves institutioncode:rom year >= 2010 year <= 2012" ; Times: 1
+	Query: "sistrurus south carolina" ; Times: 1
+	Query: "Kinixys nogueyi" ; Times: 1
+	Query: "lepidosiren" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 52 (out of 326 download events in this period)
+Total number of records downloaded: 883 (out of 4108714 records downloaded for all resources in this period)
+Total number of unique records downloaded: 709
+Number of different countries: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 1
+	Country: Australia ; Times: 2
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 2
+	Country: Chile ; Times: 4
+	Country: Colombia ; Times: 4
+	Country: France ; Times: 2
+	Country: Mexico ; Times: 10
+	Country: South Africa ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 21
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-02-02 ; Times: 3
+	Date: 2015-02-03 ; Times: 3
+	Date: 2015-02-04 ; Times: 2
+	Date: 2015-02-05 ; Times: 2
+	Date: 2015-02-06 ; Times: 3
+	Date: 2015-02-07 ; Times: 1
+	Date: 2015-02-09 ; Times: 1
+	Date: 2015-02-10 ; Times: 1
+	Date: 2015-02-11 ; Times: 5
+	Date: 2015-02-12 ; Times: 2
+	Date: 2015-02-13 ; Times: 10
+	Date: 2015-02-14 ; Times: 1
+	Date: 2015-02-16 ; Times: 1
+	Date: 2015-02-18 ; Times: 3
+	Date: 2015-02-19 ; Times: 2
+	Date: 2015-02-23 ; Times: 4
+	Date: 2015-02-24 ; Times: 3
+	Date: 2015-02-25 ; Times: 3
+	Date: 2015-02-27 ; Times: 1
+	Date: 2015-02-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "trachemys scripta elegans" ; Times: 1
+	Query: "Pyxicephalus adspersus" ; Times: 1
+	Query: "Anura" ; Times: 1
+	Query: "galbula" ; Times: 1
+	Query: "canis lupus" ; Times: 1
+	Query: "Tupinambis" ; Times: 1
+	Query: "Leptodactylidae" ; Times: 2
+	Query: "taricha granulosa" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "Ctenosaura similis" ; Times: 1
+	Query: "(turdus OR zoothera)" ; Times: 1
+	Query: "crotalus mitchelli" ; Times: 1
+	Query: "Bastrop county" ; Times: 1
+	Query: "Boa constrictor" ; Times: 1
+	Query: "hylidae" ; Times: 1
+	Query: "sistrurus" ; Times: 2
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "farancia erytrogramma" ; Times: 1
+	Query: "Chalcides ocellatus" ; Times: 1
+	Query: "lampropeltis alterna" ; Times: 1
+	Query: "Typhlonectes natans" ; Times: 1
+	Query: "eleutherodactylus" ; Times: 1
+	Query: "Dipodomys merriami" ; Times: 1
+	Query: "crotalus viridis" ; Times: 1
+	Query: "trimorphodon biscutatus" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "gambelia wislizenii" ; Times: 1
+	Query: "crotalus scutulatus" ; Times: 1
+	Query: "Ambystoma country:"mexico"" ; Times: 1
+	Query: "amphibia type:specimen stateprovince:"Ontario" country:"Canada" institutioncode:ROM" ; Times: 1
+	Query: "crotalus ruber" ; Times: 1
+	Query: "aquila chrysaetos" ; Times: 1
+	Query: "Dendrobatidae" ; Times: 1
+	Query: "myrmecophaga" ; Times: 1
+	Query: "Viperidae" ; Times: 1
+	Query: "country:"Peru"" ; Times: 1
+	Query: "sceloporus torquatus" ; Times: 1
+	Query: "crotalus atrox" ; Times: 2
+	Query: "puma concolor" ; Times: 2
+	Query: "Heloderma" ; Times: 1
+	Query: "country:"ecuador"" ; Times: 1
+	Query: "Petrogale penicillata" ; Times: 1
+	Query: "nipissing" ; Times: 1
+	Query: "CHILE" ; Times: 1
+	Query: ""colinus virginianus" type:specimen" ; Times: 1
+	Query: "Nerodia sipedon" ; Times: 1
+	Query: "stateprovince:"Kentucky"" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 506
+Total number of records retrieved from searches: 4092
+Number of download events that retrieved data from the resource: 132
+Total number of records downloaded: 2122
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 554
+Total number of records retrieved from searches: 4159
+Number of download events that retrieved data from the resource: 493
+Total number of records downloaded: 7262
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
