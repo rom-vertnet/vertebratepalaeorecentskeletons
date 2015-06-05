@@ -1,0 +1,243 @@
+Report for Institution Code ROM, Resource vposteology
+Usage stats for May, 2015, generated on 2015/06/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 96
+Number of records retrieved in searches: 289
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 31
+	Country: Chile ; Times: 1
+	Country: France ; Times: 1
+	Country: Germany ; Times: 3
+	Country: Mexico ; Times: 3
+	Country: Sweden ; Times: 4
+	Country: United Kingdom ; Times: 3
+	Country: United States ; Times: 48
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-06 ; Times: 5
+	Date: 2015-05-07 ; Times: 4
+	Date: 2015-05-08 ; Times: 25
+	Date: 2015-05-11 ; Times: 1
+	Date: 2015-05-12 ; Times: 3
+	Date: 2015-05-14 ; Times: 3
+	Date: 2015-05-15 ; Times: 5
+	Date: 2015-05-18 ; Times: 2
+	Date: 2015-05-19 ; Times: 2
+	Date: 2015-05-20 ; Times: 4
+	Date: 2015-05-21 ; Times: 7
+	Date: 2015-05-22 ; Times: 2
+	Date: 2015-05-23 ; Times: 4
+	Date: 2015-05-24 ; Times: 1
+	Date: 2015-05-25 ; Times: 2
+	Date: 2015-05-26 ; Times: 1
+	Date: 2015-05-27 ; Times: 4
+	Date: 2015-05-28 ; Times: 9
+	Date: 2015-05-29 ; Times: 4
+	Date: 2015-05-30 ; Times: 7
+	Date: 2015-05-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Phrynosoma cornutum coahuila" ; Times: 1
+	Query: "county:"coahoma" stateprovince:"Mississippi"" ; Times: 1
+	Query: "specificepithet:guttata genus:clemmys institutioncode:rom" ; Times: 1
+	Query: "pseudocarcharias" ; Times: 2
+	Query: "Agkistrodon himalayanus" ; Times: 4
+	Query: "rom phascolarctos" ; Times: 2
+	Query: "thylacinus" ; Times: 1
+	Query: "hyaena hyaena" ; Times: 1
+	Query: "genus:priodontes" ; Times: 1
+	Query: "county:"Nippising" stateprovince:"Ontario" country:"Canada" year >= 1920 year <= 2014" ; Times: 2
+	Query: "lampropeltis triangulum annulata" ; Times: 1
+	Query: "python molurus" ; Times: 1
+	Query: "institutioncode:rom pholidota" ; Times: 2
+	Query: "genus:hylobates institutioncode:ROM" ; Times: 2
+	Query: "panthera uncia" ; Times: 7
+	Query: "microtus pennsylvanicus stateprovince:"Alberta" genus:Microtus" ; Times: 1
+	Query: "genus:puma (juvenile OR cub OR subadult OR sub-adult OR neonate)" ; Times: 1
+	Query: "country:"Mexico" specificepithet:flavescens genus:Kinosternon year >= 1960 year <= 2015" ; Times: 1
+	Query: "eunectes murinus" ; Times: 2
+	Query: "Bison bison "Bison bison" type:specimen specificepithet:Bison genus:Bison (Mandible) AND (NOT priscus)" ; Times: 1
+	Query: "county:"Nippising District" stateprovince:"Ontario" country:"Canada" year >= 1920 year <= 2014" ; Times: 2
+	Query: "(Trimeresurus gramineus)" ; Times: 3
+	Query: "gerrhonotus stateprovince:"texas"" ; Times: 2
+	Query: "epicrates maurus" ; Times: 1
+	Query: "Lichanura" ; Times: 3
+	Query: "Loxodonta africana" ; Times: 1
+	Query: ""URI:catalog: ROM: Vertebrate Palaeontology - Recent Osteological: 0304"" ; Times: 1
+	Query: "country:"Mexico" specificepithet:flavescens genus:Kinosternon year >= 1980 year <= 2015" ; Times: 1
+	Query: "genus:Puma (cub OR juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: "lagidium viscacia" ; Times: 1
+	Query: "Pongo institutioncode:ROM" ; Times: 6
+	Query: "mitsukurina" ; Times: 1
+	Query: "crocuta" ; Times: 1
+	Query: "Thamnophis sirtalis tetrataenia" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 1
+	Query: "Eublepharis macularius" ; Times: 3
+	Query: "orycteropus" ; Times: 1
+	Query: "microtus pennsylvanicus stateprovince:"alberta" genus:microtus" ; Times: 2
+	Query: "Glyptemys insculpta" ; Times: 1
+	Query: "genus:puma (cub OR neonate OR juvenile OR sub-adult OR subadult)" ; Times: 1
+	Query: "pan paniscus" ; Times: 2
+	Query: "genus:Puma (juvenile OR neonate OR cub OR subadult OR sub-adult)" ; Times: 1
+	Query: "Nippissing" ; Times: 1
+	Query: "genus:Pan institutioncode:ROM" ; Times: 11
+	Query: "genus:Pan paniscus" ; Times: 3
+	Query: "genus:Puma (neonate OR juvenile OR subadult OR sub-adult)" ; Times: 2
+	Query: "Cryptoprocta" ; Times: 1
+	Query: "genus:puma (neonate OR juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: "genus:Pongo institutioncode:ROM" ; Times: 3
+	Query: "ailurus (skull)" ; Times: 1
+	Query: "Neofelis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 92 (out of 976 download events in this period)
+Total number of records downloaded: 4189 (out of 7910366 records downloaded for all resources in this period)
+Total number of unique records downloaded: 976
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 6
+	Country: Chile ; Times: 5
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 15
+	Country: Netherlands ; Times: 1
+	Country: Panama ; Times: 2
+	Country: United Kingdom ; Times: 2
+	Country: United States ; Times: 56
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-05 ; Times: 2
+	Date: 2015-05-06 ; Times: 7
+	Date: 2015-05-07 ; Times: 8
+	Date: 2015-05-08 ; Times: 1
+	Date: 2015-05-09 ; Times: 6
+	Date: 2015-05-11 ; Times: 4
+	Date: 2015-05-12 ; Times: 6
+	Date: 2015-05-13 ; Times: 4
+	Date: 2015-05-15 ; Times: 1
+	Date: 2015-05-16 ; Times: 1
+	Date: 2015-05-18 ; Times: 1
+	Date: 2015-05-19 ; Times: 4
+	Date: 2015-05-20 ; Times: 2
+	Date: 2015-05-21 ; Times: 22
+	Date: 2015-05-22 ; Times: 7
+	Date: 2015-05-23 ; Times: 1
+	Date: 2015-05-25 ; Times: 1
+	Date: 2015-05-26 ; Times: 4
+	Date: 2015-05-27 ; Times: 2
+	Date: 2015-05-28 ; Times: 1
+	Date: 2015-05-29 ; Times: 6
+	Date: 2015-05-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "masticophis flagellum" ; Times: 1
+	Query: "Lichanura" ; Times: 1
+	Query: "trichechus manatus" ; Times: 1
+	Query: "Octodontidae" ; Times: 1
+	Query: "hydrophis" ; Times: 1
+	Query: "Capromyidae" ; Times: 1
+	Query: "typhlops" ; Times: 1
+	Query: "lampropeltis pyromelana" ; Times: 1
+	Query: "Etheostoma caeruleum" ; Times: 1
+	Query: "python molurus" ; Times: 1
+	Query: "hyla cinerea" ; Times: 1
+	Query: "peromyscus mexicanus" ; Times: 1
+	Query: "tomistoma" ; Times: 1
+	Query: "county:"Nipissing"" ; Times: 1
+	Query: "rhinocheilus lecontei" ; Times: 1
+	Query: "Malacochersus tornieri" ; Times: 1
+	Query: ""lynx rufus"" ; Times: 1
+	Query: "elapidae" ; Times: 3
+	Query: "naja" ; Times: 1
+	Query: "county:"Nippising District" stateprovince:"Ontario" country:"Canada" year >= 1920 year <= 2014" ; Times: 1
+	Query: "callisaurus draconoides" ; Times: 1
+	Query: "Tyrannidae" ; Times: 2
+	Query: "Peromyscus melanotis" ; Times: 1
+	Query: "Peromyscus californicus" ; Times: 1
+	Query: "Anolis carolinensis" ; Times: 1
+	Query: "Phyllostomidae" ; Times: 1
+	Query: "crotaphytus collaris" ; Times: 1
+	Query: "country:"Mexico" specificepithet:atrox genus:Crotalus" ; Times: 1
+	Query: "phrynosoma platyrhinos" ; Times: 1
+	Query: "country:"Mexico"" ; Times: 1
+	Query: "aspidoscelis tigris" ; Times: 1
+	Query: "lithobates catesbeianus" ; Times: 1
+	Query: "(Nipissing OR Nipising OR Nippising OR Nippissing)" ; Times: 2
+	Query: "Ondatra zibethicus" ; Times: 1
+	Query: "anaxyrus cognatus" ; Times: 1
+	Query: "Neotoma albigula" ; Times: 1
+	Query: "Lithobates catesbeianus type:specimen" ; Times: 1
+	Query: "Eumeces" ; Times: 1
+	Query: "pelamis" ; Times: 1
+	Query: "subocularis" ; Times: 1
+	Query: "bufo alvarius" ; Times: 2
+	Query: "anaxyrus terrestris" ; Times: 1
+	Query: "Canis latrans" ; Times: 2
+	Query: "Graptemys geographica" ; Times: 1
+	Query: "coleonyx variegatus" ; Times: 1
+	Query: "python reticulatus" ; Times: 2
+	Query: "crotalus cerastes" ; Times: 1
+	Query: "Ochotona" ; Times: 1
+	Query: "arizona elegans" ; Times: 1
+	Query: "county:"Nipissing" stateprovince:"Ontario" country:"Canada" year >= 1920 year <= 2014" ; Times: 1
+	Query: "lithobates sphenocephalus" ; Times: 1
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "gambelia wislizenii" ; Times: 1
+	Query: "crotalus scutulatus" ; Times: 2
+	Query: "salvadora hexalepis" ; Times: 1
+	Query: "Thryothorus ludovicianus" ; Times: 1
+	Query: "eunectes murinus" ; Times: 1
+	Query: "Plestiodon" ; Times: 1
+	Query: "genus:crotalus class:reptilia" ; Times: 1
+	Query: "Lagothrix lagotricha" ; Times: 1
+	Query: "gavialis" ; Times: 1
+	Query: "peromyscus pectoralis" ; Times: 2
+	Query: "Peromyscus melanophrys" ; Times: 1
+	Query: "tyto alba" ; Times: 1
+	Query: "ambystoma" ; Times: 1
+	Query: "martes americana" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "county:"Nipissing District" stateprovince:"Ontario" country:"Canada" year >= 1920 year <= 2014" ; Times: 1
+	Query: "Canis lupus lupus" ; Times: 1
+	Query: "crotalus atrox" ; Times: 1
+	Query: "Chinchillidae" ; Times: 1
+	Query: "thamnophis sirtalis" ; Times: 1
+	Query: "Bufo alvarius" ; Times: 1
+	Query: "Cistothorus palustris" ; Times: 1
+	Query: "agamidae" ; Times: 2
+	Query: "country:"Mexico" class:Aves" ; Times: 1
+	Query: "Hydrochoerus hydrochaeris" ; Times: 1
+	Query: "certhia americana" ; Times: 1
+	Query: "Caviidae" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "Peromyscus difficilis" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 621
+Total number of records retrieved from searches: 4428
+Number of download events that retrieved data from the resource: 260
+Total number of records downloaded: 6808
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 669
+Total number of records retrieved from searches: 4495
+Number of download events that retrieved data from the resource: 621
+Total number of records downloaded: 11948
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
