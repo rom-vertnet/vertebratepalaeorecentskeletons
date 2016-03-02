@@ -1,0 +1,173 @@
+Report for Institution Code ROM, Resource vposteology
+Usage stats for February 2016, generated on 2016/03/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 52
+Number of records retrieved in searches: 72
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Mexico ; Times: 22
+	Country: United States ; Times: 23
+	Country: Gabon ; Times: 1
+	Country: Switzerland ; Times: 1
+	Country: Germany ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-16 ; Times: 6
+	Date: 2016-02-21 ; Times: 4
+	Date: 2016-02-04 ; Times: 3
+	Date: 2016-02-08 ; Times: 4
+	Date: 2016-02-18 ; Times: 1
+	Date: 2016-02-19 ; Times: 8
+	Date: 2016-02-26 ; Times: 3
+	Date: 2016-02-25 ; Times: 2
+	Date: 2016-02-24 ; Times: 1
+	Date: 2016-02-01 ; Times: 1
+	Date: 2016-02-13 ; Times: 1
+	Date: 2016-02-10 ; Times: 1
+	Date: 2016-02-02 ; Times: 6
+	Date: 2016-02-05 ; Times: 1
+	Date: 2016-02-17 ; Times: 2
+	Date: 2016-02-07 ; Times: 1
+	Date: 2016-02-15 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "Thamnophis sirtalis tetrataenia" ; Times: 1
+	Query: "Sebastes rosaceus" ; Times: 1
+	Query: "vipera aspis" ; Times: 1
+	Query: "Trachemys scripta stateprovince:&#34;SOUTH CAROLINA&#34;" ; Times: 2
+	Query: "crotalus horridus stateprovince:&#34;SOUTH CAROLINA&#34;" ; Times: 1
+	Query: "Squatina californica" ; Times: 1
+	Query: "agkistrodon bilineatus" ; Times: 2
+	Query: "Varanus komodoensis" ; Times: 2
+	Query: "Lepidochelys kempi" ; Times: 4
+	Query: "Ailurus fulgens" ; Times: 3
+	Query: "Triakis semifasciata" ; Times: 1
+	Query: "Heloderma horridum" ; Times: 3
+	Query: "farancia erytrogramma" ; Times: 1
+	Query: "salvadora riverside" ; Times: 3
+	Query: "Chrysemys picta stateprovince:&#34;SOUTH CAROLINA&#34;" ; Times: 1
+	Query: "Sebastes nebulosus" ; Times: 1
+	Query: "farancia erytrogramma south carolina" ; Times: 1
+	Query: "Pituophis melanoleucus lodingi" ; Times: 1
+	Query: "Heterodon simus (North Carolina)" ; Times: 1
+	Query: "Panthera uncia" ; Times: 7
+	Query: "atropoides nummifer" ; Times: 1
+	Query: "type:specimen genus:sus (skeleton)" ; Times: 1
+	Query: "ROM 2403" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "crotalus willardi" ; Times: 2
+	Query: "(Osteolaemus OR Osteoblepharon)" ; Times: 1
+	Query: "ROM 2144" ; Times: 2
+	Query: "Heptranchias perlo" ; Times: 1
+	Query: "Rhizoprionodon terraenovae" ; Times: 1
+	Query: "Conepatus type:specimen (texas) AND (NOT ASNHC)" ; Times: 1
+	Query: "genus:Andrias specificepithet:davidianus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 87 (out of 512 download events in this period)
+Total number of records downloaded: 1904
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United Kingdom ; Times: 3
+	Country: Mexico ; Times: 31
+	Country: Unknown ; Times: 18
+	Country: South Africa ; Times: 1
+	Country: United States ; Times: 28
+	Country: Sweden ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-23 ; Times: 2
+	Date: 2016-02-22 ; Times: 2
+	Date: 2016-02-18 ; Times: 7
+	Date: 2016-02-19 ; Times: 14
+	Date: 2016-02-12 ; Times: 4
+	Date: 2016-02-13 ; Times: 3
+	Date: 2016-02-10 ; Times: 5
+	Date: 2016-02-11 ; Times: 1
+	Date: 2016-02-16 ; Times: 5
+	Date: 2016-02-17 ; Times: 6
+	Date: 2016-02-14 ; Times: 1
+	Date: 2016-02-15 ; Times: 5
+	Date: 2016-02-02 ; Times: 3
+	Date: 2016-02-09 ; Times: 1
+	Date: 2016-02-08 ; Times: 1
+	Date: 2016-02-21 ; Times: 1
+	Date: 2016-02-20 ; Times: 2
+	Date: 2016-02-27 ; Times: 1
+	Date: 2016-02-26 ; Times: 2
+	Date: 2016-02-25 ; Times: 2
+	Date: 2016-02-24 ; Times: 5
+	Date: 2016-02-01 ; Times: 1
+	Date: 2016-02-03 ; Times: 3
+	Date: 2016-02-28 ; Times: 1
+	Date: 2016-02-05 ; Times: 3
+	Date: 2016-02-04 ; Times: 5
+	Date: 2016-02-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "dermoptera" ; Times: 3
+	Query: "type:specimen genus:sus (skeleton)" ; Times: 1
+	Query: "Gymnophiona" ; Times: 1
+	Query: "Delphinidae" ; Times: 1
+	Query: "Thamnophis sirtalis tetrataenia" ; Times: 2
+	Query: "Cynops pyrrhogaster" ; Times: 1
+	Query: "sinaloa" ; Times: 1
+	Query: "vireo olivaceus type:specimen" ; Times: 1
+	Query: "castor canadensis" ; Times: 1
+	Query: "amia calva" ; Times: 1
+	Query: "genus:thamnophis" ; Times: 1
+	Query: "ototylomys" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "Strigidae" ; Times: 1
+	Query: "spilotes pullatus" ; Times: 1
+	Query: "Puma concolor" ; Times: 5
+	Query: "crotalus atrox" ; Times: 2
+	Query: "Varanus komodoensis" ; Times: 1
+	Query: "Philodryas" ; Times: 1
+	Query: "bothrops asper" ; Times: 1
+	Query: "Ailurus fulgens" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 18
+	Query: "puma concolor" ; Times: 8
+	Query: "vireo olivaceus" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1960 year &lt;= 1964" ; Times: 1
+	Query: "spermophilus tridecemlineatus" ; Times: 1
+	Query: "Meleagris gallopavo" ; Times: 1
+	Query: "Bos taurus" ; Times: 1
+	Query: "chelonia mydas" ; Times: 1
+	Query: "ochotona princeps" ; Times: 1
+	Query: "specificepithet:asio genus:Megascops" ; Times: 1
+	Query: "taricha torosa" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Ontario&#34; year &lt;= 1970" ; Times: 1
+	Query: "specificepithet:hudsonius genus:zapus stateprovince:&#34;ontario&#34;" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "rom tamiasciurus" ; Times: 1
+	Query: "crotalus scutulatus" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 2000 year &lt;= 2015" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1990 year &lt;= 1999" ; Times: 1
+	Query: "trachemys scripta type:specimen" ; Times: 1
+	Query: "Eira" ; Times: 1
+	Query: "genus:sorex (NOT institutioncode:USNM)" ; Times: 1
+	Query: "Panthera uncia" ; Times: 1
+	Query: "ahaetulla" ; Times: 2
+	Query: "Choloepus hoffmanni" ; Times: 1
+	Query: "PUMA CONCOLOR" ; Times: 2
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "Oryctolagus cuniculus" ; Times: 1
+	Query: "varanus niloticus" ; Times: 1
+	Query: "class:reptilia country:Haiti" ; Times: 1
+	Query: "Puma Concolor" ; Times: 1
+	Query: "heterodon simus" ; Times: 1
+	Query: "genus:martes continent:north america" ; Times: 1
+
+
+End of report.
