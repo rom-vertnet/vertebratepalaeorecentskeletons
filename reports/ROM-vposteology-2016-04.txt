@@ -1,0 +1,364 @@
+Report for Institution Code ROM, Resource vposteology
+Usage stats for April 2016, generated on 2016/05/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 408
+Number of records retrieved in searches: 2165
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 329
+	Country: Brazil ; Times: 15
+	Country: Mexico ; Times: 6
+	Country: Panama ; Times: 2
+	Country: United States ; Times: 41
+	Country: Colombia ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Russia ; Times: 8
+	Country: Spain ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-29 ; Times: 1
+	Date: 2016-04-13 ; Times: 229
+	Date: 2016-04-08 ; Times: 6
+	Date: 2016-04-25 ; Times: 1
+	Date: 2016-04-07 ; Times: 7
+	Date: 2016-04-26 ; Times: 35
+	Date: 2016-04-03 ; Times: 4
+	Date: 2016-04-14 ; Times: 64
+	Date: 2016-04-27 ; Times: 2
+	Date: 2016-04-18 ; Times: 5
+	Date: 2016-04-19 ; Times: 9
+	Date: 2016-04-05 ; Times: 4
+	Date: 2016-04-22 ; Times: 3
+	Date: 2016-04-20 ; Times: 1
+	Date: 2016-04-09 ; Times: 2
+	Date: 2016-04-17 ; Times: 1
+	Date: 2016-04-10 ; Times: 2
+	Date: 2016-04-11 ; Times: 24
+	Date: 2016-04-12 ; Times: 3
+	Date: 2016-04-06 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Bison bison Ontario" ; Times: 4
+	Query: "Haliaeetus leucocephalus Ontario" ; Times: 10
+	Query: "paleosuchus palpebrosus" ; Times: 1
+	Query: "thamnophis sauritus bedford" ; Times: 1
+	Query: "Puma concolor Ontario" ; Times: 10
+	Query: "Calidris canutus Ontario" ; Times: 10
+	Query: "Gulo Gulo Ontario" ; Times: 10
+	Query: "Ixobrychus exilis Ontario" ; Times: 10
+	Query: "Mustela nigripes ca" ; Times: 1
+	Query: "Eumeces schneideri" ; Times: 2
+	Query: "PSEUDOCARCHARIIDAE" ; Times: 1
+	Query: "type:specimen genus:Cacophis family:Elapidae institutioncode:ROM" ; Times: 1
+	Query: "Atropoides nummifer" ; Times: 1
+	Query: "type:specimen genus:Aspidelaps family:Elapidae institutioncode:ROM" ; Times: 1
+	Query: "genus:ceratophrys specificepithet:cranwelli" ; Times: 1
+	Query: "type:specimen genus:Vermicella institutioncode:ROM" ; Times: 1
+	Query: "type:specimen genus:Naja family:Elapidae institutioncode:ROM" ; Times: 1
+	Query: "type:specimen genus:Pseudechis institutioncode:ROM" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "type:specimen genus:Hemiaspis institutioncode:ROM" ; Times: 1
+	Query: "Myotis leibii Ontario" ; Times: 10
+	Query: "Gasterosteus Ontario" ; Times: 1
+	Query: "Dolichonyx oryzivorus Ontario" ; Times: 10
+	Query: "Spermophilus franklinii Ontario" ; Times: 10
+	Query: "Bison bison Canada 1" ; Times: 1
+	Query: "Melanerpes erythrocephalus Ontario" ; Times: 10
+	Query: "Hylocichla mustelina Ontario" ; Times: 10
+	Query: "genus:aspidelaps (skeleton)" ; Times: 1
+	Query: "ECHINORHINIDAE" ; Times: 1
+	Query: "type:specimen genus:Hydrophis institutioncode:ROM" ; Times: 1
+	Query: "Taxidea taxus Ontario" ; Times: 5
+	Query: "Mustela nigripes ontario" ; Times: 1
+	Query: "type:specimen family:Elapidae institutioncode:ROM" ; Times: 1
+	Query: "Lampropeltis triangulum (Illinois)" ; Times: 1
+	Query: "Varanus griseus" ; Times: 3
+	Query: "Contopus borealis Ontario" ; Times: 10
+	Query: "Pelecanus erythrorhynchos Ontario" ; Times: 10
+	Query: "Gasterosteus aculeatus Ontario" ; Times: 1
+	Query: "Mustela nigripes CA" ; Times: 1
+	Query: "pituophis lodingi" ; Times: 3
+	Query: "Chordeiles minor Ontario" ; Times: 10
+	Query: "type:specimen genus:Notechis institutioncode:ROM" ; Times: 1
+	Query: "Riparia riparia Ontario" ; Times: 10
+	Query: "mephitis macroura" ; Times: 1
+	Query: "Thamnophis sirtalis stateprovince:&#34;South Carolina&#34;" ; Times: 6
+	Query: "stateprovince:&#34;Arizona&#34; (willardi)" ; Times: 1
+	Query: "Bison bison Ontario 1" ; Times: 1
+	Query: "Pseudopus apodus" ; Times: 1
+	Query: "Asio flammeus Ontario" ; Times: 10
+	Query: "Chaetura pelagica Ontario" ; Times: 10
+	Query: "Actinemys marmorata" ; Times: 1
+	Query: "Vipera latastei" ; Times: 4
+	Query: "Monachus tropicalis" ; Times: 1
+	Query: "agkistrodon taylori" ; Times: 1
+	Query: "Chelydra serpentina Ontario" ; Times: 10
+	Query: "Tremarctos ornatus" ; Times: 1
+	Query: "Sturnella magna Ontario" ; Times: 10
+	Query: "type:specimen genus:Furina institutioncode:ROM" ; Times: 1
+	Query: "Gerrhosaurus major" ; Times: 5
+	Query: "Pica pica Ontario" ; Times: 10
+	Query: "type:specimen genus:Bungarus family:Elapidae institutioncode:ROM" ; Times: 1
+	Query: "type:specimen genus:Micrurus family:Elapidae institutioncode:ROM" ; Times: 1
+	Query: "kinixys homeana" ; Times: 3
+	Query: "Podiceps auritus Ontario" ; Times: 10
+	Query: "Euphagus carolinus Ontario" ; Times: 10
+	Query: "Athene cunicularia Ontario" ; Times: 10
+	Query: "Tyto alba Ontario" ; Times: 10
+	Query: "cypselurus comatus" ; Times: 3
+	Query: "Bison bison Canada" ; Times: 2
+	Query: "type:specimen genus:Cacophis institutioncode:ROM" ; Times: 1
+	Query: "type:specimen genus:Dendroaspis institutioncode:ROM" ; Times: 1
+	Query: "Aquila chrysaetos Ontario" ; Times: 10
+	Query: "Chrysemys picta" ; Times: 5
+	Query: "type:specimen genus:Dendroaspis family:Elapidae institutioncode:ROM" ; Times: 1
+	Query: "Ammodramus savannarum Ontario" ; Times: 10
+	Query: "lodingi (lodingi)" ; Times: 1
+	Query: "Acipenser fulvescens Ontario" ; Times: 20
+	Query: "Wilsonia canadensis  Ontario" ; Times: 10
+	Query: "coronella austriaca" ; Times: 1
+	Query: "mammal institutioncode:ROM" ; Times: 1
+	Query: "ammotragus" ; Times: 2
+	Query: "Urocyon cinereoargenteus Ontario" ; Times: 10
+	Query: "family:sciuridae continent:asia institutioncode:ROM" ; Times: 1
+	Query: "lampropeltis triangulum celaenops" ; Times: 1
+	Query: "Hirundo rustica  Ontario" ; Times: 10
+	Query: "lodingi" ; Times: 1
+	Query: "Contopus virens Ontario" ; Times: 10
+	Query: "Mustela nigripes Ontario" ; Times: 1
+	Query: "ALOPIAS VULPINUS" ; Times: 1
+	Query: "Scincidae preparations:skeleton" ; Times: 1
+	Query: "(mammal) institutioncode:ROM" ; Times: 1
+	Query: "Lacerta lepida" ; Times: 1
+	Query: "eublepharis" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 284 (out of 1312 download events in this period)
+Total number of records downloaded: 3030
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Portugal ; Times: 4
+	Country: Mexico ; Times: 12
+	Country: Unknown ; Times: 23
+	Country: Panama ; Times: 137
+	Country: United States ; Times: 101
+	Country: Chile ; Times: 1
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-03 ; Times: 2
+	Date: 2016-04-28 ; Times: 3
+	Date: 2016-04-07 ; Times: 4
+	Date: 2016-04-06 ; Times: 7
+	Date: 2016-04-05 ; Times: 6
+	Date: 2016-04-04 ; Times: 3
+	Date: 2016-04-21 ; Times: 6
+	Date: 2016-04-20 ; Times: 10
+	Date: 2016-04-09 ; Times: 3
+	Date: 2016-04-22 ; Times: 67
+	Date: 2016-04-25 ; Times: 6
+	Date: 2016-04-24 ; Times: 6
+	Date: 2016-04-27 ; Times: 10
+	Date: 2016-04-26 ; Times: 11
+	Date: 2016-04-08 ; Times: 8
+	Date: 2016-04-18 ; Times: 7
+	Date: 2016-04-19 ; Times: 59
+	Date: 2016-04-14 ; Times: 15
+	Date: 2016-04-15 ; Times: 7
+	Date: 2016-04-16 ; Times: 6
+	Date: 2016-04-17 ; Times: 5
+	Date: 2016-04-10 ; Times: 1
+	Date: 2016-04-11 ; Times: 3
+	Date: 2016-04-12 ; Times: 6
+	Date: 2016-04-13 ; Times: 6
+	Date: 2016-04-29 ; Times: 2
+	Date: 2016-04-23 ; Times: 15
+
+List of queries that retrieved data from the resource: 
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "MONACANTHIDAE" ; Times: 1
+	Query: "tamiasciurus hudsonicus" ; Times: 1
+	Query: "CALLIONYMIDAE" ; Times: 2
+	Query: "tamias striatus" ; Times: 1
+	Query: "OPHICHTHIDAE" ; Times: 1
+	Query: "type:specimen specificepithet:niger genus:Sciurus" ; Times: 1
+	Query: "SYNBRANCHIDAE" ; Times: 1
+	Query: "Bothrops asper" ; Times: 2
+	Query: "LUTJANIDAE" ; Times: 1
+	Query: "DORADIDAE" ; Times: 1
+	Query: "microtus pennsylvanicus" ; Times: 1
+	Query: "BELONIDAE" ; Times: 1
+	Query: "ACIPENSERIDAE" ; Times: 1
+	Query: "GOBIIDAE" ; Times: 1
+	Query: "type:specimen specificepithet:palustris genus:Sorex class:Mammalia institutioncode:ROM" ; Times: 1
+	Query: "TORPEDINIDAE" ; Times: 1
+	Query: "HEXANCHIDAE" ; Times: 1
+	Query: "LOBOTIDAE" ; Times: 1
+	Query: "COTTIDAE" ; Times: 3
+	Query: "LORICARIIDAE" ; Times: 1
+	Query: "genus:dasypus class:mammalia country:&#34;USA&#34;" ; Times: 1
+	Query: "Odocoileus" ; Times: 1
+	Query: "ACANTHURIDAE" ; Times: 2
+	Query: "PSEUDOCARCHARIIDAE" ; Times: 1
+	Query: "MUGILIDAE" ; Times: 1
+	Query: "Atropoides nummifer" ; Times: 1
+	Query: "POMACANTHIDAE" ; Times: 2
+	Query: "SOMNIOSIDAE" ; Times: 2
+	Query: "Crotalus atrox" ; Times: 1
+	Query: "FUNDULIDAE" ; Times: 1
+	Query: "MYLIOBATIDAE" ; Times: 1
+	Query: "ATHERINIDAE" ; Times: 1
+	Query: "farancia (North Carolina)" ; Times: 1
+	Query: "barbouri" ; Times: 1
+	Query: "CARCHARHINIDAE" ; Times: 1
+	Query: "POMACENTRIDAE" ; Times: 1
+	Query: "Dolichonyx oryzivorus" ; Times: 1
+	Query: "heterodontidae" ; Times: 3
+	Query: "ambystoma" ; Times: 1
+	Query: "Crotalus molossus" ; Times: 1
+	Query: "SERRANIDAE" ; Times: 1
+	Query: "BALISTIDAE" ; Times: 1
+	Query: "Crotalus durissus" ; Times: 1
+	Query: "CLUPEIDAE" ; Times: 2
+	Query: "SCATOPHAGIDAE" ; Times: 1
+	Query: "SPHYRAENIDAE" ; Times: 2
+	Query: "HOLOCENTRIDAE" ; Times: 1
+	Query: "ISTIOPHORIDAE" ; Times: 1
+	Query: "kinixys" ; Times: 1
+	Query: "Geomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "SCOMBRIDAE" ; Times: 1
+	Query: "&#34;Sciurus niger&#34; AND preparations:skeleton type:specimen" ; Times: 1
+	Query: "FISTULARIIDAE" ; Times: 1
+	Query: "CARANGIDAE" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "SPHYRNIDAE" ; Times: 1
+	Query: "LABRIDAE" ; Times: 1
+	Query: "TRIGLIDAE" ; Times: 1
+	Query: "sialia sialis" ; Times: 1
+	Query: "HEMISCYLLIIDAE" ; Times: 1
+	Query: "CYNOGLOSSIDAE" ; Times: 1
+	Query: "STROMATEIDAE" ; Times: 1
+	Query: "Ophisaurus ventralis" ; Times: 1
+	Query: "SCOMBERESOCIDAE" ; Times: 1
+	Query: "OSTRACIIDAE" ; Times: 2
+	Query: "SCORPAENIDAE" ; Times: 1
+	Query: "ECHINORHINIDAE" ; Times: 1
+	Query: "CENTROPOMIDAE" ; Times: 1
+	Query: "loxia curvirostra skeleton" ; Times: 1
+	Query: "GADIDAE" ; Times: 2
+	Query: "RHINOBATIDAE" ; Times: 1
+	Query: "DACTYLOPTERIDAE" ; Times: 1
+	Query: "APOGONIDAE" ; Times: 2
+	Query: "LAMNIDAE" ; Times: 1
+	Query: "MURAENIDAE" ; Times: 1
+	Query: "ARIOMMATIDAE" ; Times: 1
+	Query: "TETRAODONTIDAE" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus continent:North America" ; Times: 1
+	Query: "MICRODESMIDAE" ; Times: 1
+	Query: "Sciurus carolinensis AND preparations:skull type:specimen" ; Times: 1
+	Query: "POTAMOTRYGONIDAE" ; Times: 2
+	Query: "HEMIRAMPHIDAE" ; Times: 1
+	Query: "SOLEIDAE" ; Times: 1
+	Query: "CHAETODONTIDAE" ; Times: 2
+	Query: "Sturnus vulgaris" ; Times: 1
+	Query: "SCIAENIDAE" ; Times: 1
+	Query: "genus:Spilogale" ; Times: 1
+	Query: "MITSUKURINIDAE" ; Times: 1
+	Query: "LOPHIIDAE" ; Times: 1
+	Query: "ANGUILLIDAE" ; Times: 1
+	Query: "Crotalus lutosus" ; Times: 1
+	Query: "SCYLIORHINIDAE" ; Times: 1
+	Query: "Loricariidae" ; Times: 1
+	Query: "lutra lutra" ; Times: 1
+	Query: "OGCOCEPHALIDAE" ; Times: 1
+	Query: "panthera leo" ; Times: 1
+	Query: "Anniella pulchra" ; Times: 1
+	Query: "carcharhinidae" ; Times: 1
+	Query: "CICHLIDAE" ; Times: 2
+	Query: "Sciurus niger" ; Times: 1
+	Query: "CENTRISCIDAE" ; Times: 1
+	Query: "heterodontus francisci" ; Times: 1
+	Query: "CALLICHTHYIDAE" ; Times: 2
+	Query: "CORYPHAENIDAE" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 1
+	Query: "AMMODYTIDAE" ; Times: 1
+	Query: "RAJIDAE" ; Times: 1
+	Query: "POECILIIDAE" ; Times: 1
+	Query: "DASYATIDAE" ; Times: 1
+	Query: "SYNGNATHIDAE" ; Times: 1
+	Query: "ODONTASPIDIDAE" ; Times: 1
+	Query: "EXOCOETIDAE" ; Times: 1
+	Query: "CHARACIDAE" ; Times: 1
+	Query: "CHANIDAE" ; Times: 1
+	Query: "ELOPIDAE" ; Times: 1
+	Query: "BOTHIDAE" ; Times: 1
+	Query: "Leopardus" ; Times: 1
+	Query: "CENTROPHORIDAE" ; Times: 1
+	Query: "RACHYCENTRIDAE" ; Times: 1
+	Query: "MALACANTHIDAE" ; Times: 1
+	Query: "SQUALIDAE" ; Times: 1
+	Query: "thomomys bottae" ; Times: 3
+	Query: "ALOPIIDAE" ; Times: 1
+	Query: "SYNODONTIDAE" ; Times: 2
+	Query: "DALATIIDAE" ; Times: 1
+	Query: "varanus niloticus" ; Times: 1
+	Query: "cypselurus comatus" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "CIRRHITIDAE" ; Times: 1
+	Query: "SPARIDAE" ; Times: 1
+	Query: "POMATOMIDAE" ; Times: 2
+	Query: "BLENNIIDAE" ; Times: 2
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: "POLYPRIONIDAE" ; Times: 1
+	Query: "CHIMAERIDAE" ; Times: 1
+	Query: "TRICHIURIDAE" ; Times: 1
+	Query: "Sistrurus" ; Times: 1
+	Query: "XIPHIIDAE" ; Times: 1
+	Query: "ENGRAULIDAE" ; Times: 2
+	Query: "GERREIDAE" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 85
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "PLEURONECTIDAE" ; Times: 1
+	Query: "type:specimen specificepithet:carolinensis genus:Sciurus" ; Times: 1
+	Query: "&#34;Sciurus carolinensis&#34; AND preparations:skeleton type:specimen" ; Times: 1
+	Query: "KYPHOSIDAE" ; Times: 1
+	Query: "panthera pardus" ; Times: 1
+	Query: "Crotalus cerastes" ; Times: 1
+	Query: "ARIIDAE" ; Times: 1
+	Query: "SQUATINIDAE" ; Times: 1
+	Query: "SCARIDAE" ; Times: 1
+	Query: "ctenotus" ; Times: 1
+	Query: "TRIAKIDAE" ; Times: 1
+	Query: "LEPISOSTEIDAE" ; Times: 1
+	Query: "ECHENEIDAE" ; Times: 1
+	Query: "BATRACHOIDIDAE" ; Times: 1
+	Query: "Geomyidae" ; Times: 1
+	Query: "glaucomys" ; Times: 1
+	Query: "Lampropeltis triangulum (Illinois)" ; Times: 1
+	Query: "crotalus cerastes" ; Times: 1
+	Query: "Eublepharis" ; Times: 1
+	Query: "GINGLYMOSTOMATIDAE" ; Times: 1
+	Query: "PRISTIOPHORIDAE" ; Times: 1
+	Query: "MORONIDAE" ; Times: 1
+	Query: "PRISTIDAE" ; Times: 1
+	Query: "MULLIDAE" ; Times: 1
+	Query: "Lacerta lepida" ; Times: 1
+	Query: "urosaurus ornatus" ; Times: 1
+	Query: "PIMELODIDAE" ; Times: 1
+	Query: "genus:Ambystoma opacum" ; Times: 1
+	Query: "CONGRIDAE" ; Times: 1
+	Query: "EPHIPPIDAE" ; Times: 1
+	Query: "order:cetacea (orca)" ; Times: 1
+	Query: "chionactis occipitalis" ; Times: 1
+	Query: "PRIACANTHIDAE" ; Times: 1
+
+
+End of report.
