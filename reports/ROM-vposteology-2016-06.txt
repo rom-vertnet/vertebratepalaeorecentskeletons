@@ -1,0 +1,321 @@
+Report for Institution Code ROM, Resource vposteology
+Usage stats for June 2016, generated on 2016/07/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 458
+Number of records retrieved in searches: 2126
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 4
+	Country: Brazil ; Times: 3
+	Country: Israel ; Times: 1
+	Country: Portugal ; Times: 2
+	Country: Mexico ; Times: 57
+	Country: Unknown ; Times: 2
+	Country: India ; Times: 1
+	Country: United States ; Times: 388
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-25 ; Times: 314
+	Date: 2016-06-24 ; Times: 1
+	Date: 2016-06-23 ; Times: 4
+	Date: 2016-06-22 ; Times: 3
+	Date: 2016-06-21 ; Times: 17
+	Date: 2016-06-20 ; Times: 21
+	Date: 2016-06-05 ; Times: 9
+	Date: 2016-06-04 ; Times: 1
+	Date: 2016-06-07 ; Times: 3
+	Date: 2016-06-06 ; Times: 2
+	Date: 2016-06-01 ; Times: 30
+	Date: 2016-06-03 ; Times: 16
+	Date: 2016-06-02 ; Times: 5
+	Date: 2016-06-19 ; Times: 2
+	Date: 2016-06-16 ; Times: 3
+	Date: 2016-06-17 ; Times: 2
+	Date: 2016-06-14 ; Times: 5
+	Date: 2016-06-15 ; Times: 3
+	Date: 2016-06-12 ; Times: 1
+	Date: 2016-06-13 ; Times: 8
+	Date: 2016-06-10 ; Times: 2
+	Date: 2016-06-11 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Chelus fimbriatus" ; Times: 2
+	Query: "Ovis aries" ; Times: 2
+	Query: "Priodontes maximus" ; Times: 1
+	Query: "bison bison   " ; Times: 6
+	Query: "specificepithet:venenosa genus:Mycteroperca" ; Times: 9
+	Query: "Dasypus hybridus" ; Times: 1
+	Query: "morelia viridis" ; Times: 1
+	Query: "Euphractus sexcinctus" ; Times: 1
+	Query: "rom 2514" ; Times: 1
+	Query: "specificepithet:furcifer genus:Paranthias" ; Times: 6
+	Query: "alces alces   " ; Times: 6
+	Query: "trachemys scripta scripta stateprovince:&#34;south carolina&#34;" ; Times: 3
+	Query: "Crocodylus acutus" ; Times: 1
+	Query: "Crotalus willardi stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "platysternon" ; Times: 1
+	Query: "Indotestudo elongata" ; Times: 1
+	Query: "Bos taurus juvenile" ; Times: 2
+	Query: "type:specimen (Cebidae) institutioncode:ROM" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 6
+	Query: "Phrynops hilarii" ; Times: 1
+	Query: "Rattus norvegicus" ; Times: 3
+	Query: "specificepithet:tiburo genus:Sphyrna" ; Times: 1
+	Query: "crotalus cerberus" ; Times: 1
+	Query: "specificepithet:harengus genus:Clupea" ; Times: 29
+	Query: "specificepithet:scriptus genus:Aluterus" ; Times: 1
+	Query: "specificepithet:americanus genus:Menticirrhus" ; Times: 2
+	Query: "Axis axis" ; Times: 2
+	Query: "Heloderma horridum" ; Times: 1
+	Query: "Platysternon" ; Times: 1
+	Query: "Bubalus bubalis" ; Times: 8
+	Query: "Varanus griseus" ; Times: 1
+	Query: "Varanus niloticus " ; Times: 1
+	Query: "Panthera uncia" ; Times: 1
+	Query: "Felis catus" ; Times: 2
+	Query: "Leopardus colocolo colocolo" ; Times: 2
+	Query: "Carettochelys" ; Times: 1
+	Query: "dendroica magnolia type:specimen country:&#34;canada&#34; year &gt;= 1950 year &lt;= 2016" ; Times: 1
+	Query: "crotalus oreganus lutosus" ; Times: 1
+	Query: "Varanus flavescens" ; Times: 1
+	Query: "specificepithet:carpio genus:Cyprinus" ; Times: 84
+	Query: "Sphenodon" ; Times: 1
+	Query: "Cervus elaphus" ; Times: 3
+	Query: "Agkistrodon taylori" ; Times: 2
+	Query: "specificepithet:komodoensis" ; Times: 1
+	Query: "Thamnophis sirtalis stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "carettochelys (skeleton)" ; Times: 2
+	Query: "specificepithet:peruviana genus:Selene" ; Times: 1
+	Query: "Sus scrofa" ; Times: 4
+	Query: "specificepithet:barracuda genus:Sphyraena" ; Times: 8
+	Query: "agkistrodon bilineatus" ; Times: 2
+	Query: "catalognumber:7690" ; Times: 1
+	Query: "specificepithet:rostrata genus:Anguilla" ; Times: 18
+	Query: "Leopardus colocolo" ; Times: 8
+	Query: "specificepithet:marinus genus:Bagre" ; Times: 2
+	Query: "Chaetophractus villosus" ; Times: 1
+	Query: "crotalus atrox year &gt;= 2010 year &lt;= 2016" ; Times: 1
+	Query: "Reptilia 8223" ; Times: 1
+	Query: "specificepithet:itajara genus:Epinephelus" ; Times: 1
+	Query: "uta stansburiana Arizona year &gt;= 1985 year &lt;= 2016" ; Times: 1
+	Query: "Varanus indicus " ; Times: 1
+	Query: "crotalus pricei" ; Times: 1
+	Query: "specificepithet:horridum genus:heloderma country:&#34;Mexico&#34;" ; Times: 1
+	Query: "leopardus colocolo" ; Times: 3
+	Query: "catalognumber:8894" ; Times: 1
+	Query: "specificepithet:thazard genus:Auxis" ; Times: 1
+	Query: "specificepithet:albacares genus:Thunnus" ; Times: 91
+	Query: "cuon alpinus" ; Times: 7
+	Query: "specificepithet:obesus genus:Thunnus" ; Times: 17
+	Query: "latimeria" ; Times: 2
+	Query: "Agkistrodon bilineatus" ; Times: 1
+	Query: "specificepithet:punctatus genus:Ictalurus" ; Times: 6
+	Query: "Chrysemys picta" ; Times: 5
+	Query: "specificepithet:media genus:Sphyrna" ; Times: 2
+	Query: "Python molurus " ; Times: 2
+	Query: "trimeresurus gramineus type:specimen" ; Times: 1
+	Query: "specificepithet:californica genus:Squatina" ; Times: 2
+	Query: "Crotalus atrox institutioncode:ROM" ; Times: 1
+	Query: "Dasypus septemcinctus" ; Times: 1
+	Query: "Gopherus berlandieri" ; Times: 3
+	Query: "Lepidochelys kempi" ; Times: 1
+	Query: "specificepithet:balao genus:Hemiramphus" ; Times: 6
+	Query: "genus:bison" ; Times: 3
+	Query: "ROM 2398" ; Times: 1
+	Query: "trimeresurus fasciatus type:specimen" ; Times: 1
+	Query: "Lampropeltis triangulum hondurensis" ; Times: 1
+	Query: "specificepithet:pelamis genus:Katsuwonus" ; Times: 15
+	Query: "specificepithet:bahianus genus:Acanthurus" ; Times: 7
+	Query: "Cuon alpinus" ; Times: 1
+	Query: "atropoides nummifer" ; Times: 1
+	Query: "canis lupus   " ; Times: 4
+	Query: "ovis aries juvenile" ; Times: 1
+	Query: "specificepithet:canis genus:Mustelus" ; Times: 2
+	Query: "Oryctolagus cuniculus" ; Times: 2
+	Query: "Zaedyus pichiy" ; Times: 1
+	Query: "specificepithet:rochei genus:Auxis" ; Times: 2
+	Query: "Procyon lotor 1" ; Times: 2
+	Query: "Capra hircus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 223 (out of 1052 download events in this period)
+Total number of records downloaded: 6556
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 4
+	Country: Australia ; Times: 2
+	Country: Mexico ; Times: 106
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 1
+	Country: United States ; Times: 105
+	Country: Colombia ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-24 ; Times: 2
+	Date: 2016-06-09 ; Times: 2
+	Date: 2016-06-08 ; Times: 5
+	Date: 2016-06-21 ; Times: 4
+	Date: 2016-06-20 ; Times: 12
+	Date: 2016-06-05 ; Times: 8
+	Date: 2016-06-04 ; Times: 3
+	Date: 2016-06-07 ; Times: 9
+	Date: 2016-06-06 ; Times: 8
+	Date: 2016-06-01 ; Times: 6
+	Date: 2016-06-03 ; Times: 11
+	Date: 2016-06-02 ; Times: 13
+	Date: 2016-06-23 ; Times: 10
+	Date: 2016-06-22 ; Times: 5
+	Date: 2016-06-18 ; Times: 10
+	Date: 2016-06-19 ; Times: 5
+	Date: 2016-06-16 ; Times: 11
+	Date: 2016-06-17 ; Times: 14
+	Date: 2016-06-14 ; Times: 19
+	Date: 2016-06-15 ; Times: 25
+	Date: 2016-06-12 ; Times: 5
+	Date: 2016-06-13 ; Times: 27
+	Date: 2016-06-10 ; Times: 4
+	Date: 2016-06-11 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Bothriechis" ; Times: 1
+	Query: "pantherophis emoryi" ; Times: 1
+	Query: "Sorex cinereus" ; Times: 2
+	Query: "leopardus wiedii" ; Times: 1
+	Query: "plestiodon copei" ; Times: 1
+	Query: "VULPES VULPES" ; Times: 1
+	Query: "Ctenosaura similis" ; Times: 1
+	Query: "Trachemys" ; Times: 1
+	Query: "Chelonia mydas" ; Times: 1
+	Query: "trimorphodon" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "PRISTIS PRISTIS" ; Times: 1
+	Query: "type:specimen country:&#34;Canada&#34; institutioncode:ROM" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 49
+	Query: "puma concolor" ; Times: 6
+	Query: "Meleagris" ; Times: 1
+	Query: "Pseudemys" ; Times: 1
+	Query: "Loxodonta africana" ; Times: 2
+	Query: "Panthera onca" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "aspidoscelis" ; Times: 2
+	Query: "aegolius funereus" ; Times: 2
+	Query: "Sceloporus variabilis" ; Times: 1
+	Query: "Crocodylus acutus" ; Times: 1
+	Query: "dipodomys merriami" ; Times: 1
+	Query: "genus:lepidochelys" ; Times: 1
+	Query: "panthera onca" ; Times: 3
+	Query: "monodon monoceros" ; Times: 1
+	Query: "Marmota monax" ; Times: 1
+	Query: "Zapus hudsonius" ; Times: 1
+	Query: "Sorex hoyi" ; Times: 1
+	Query: "iguana" ; Times: 1
+	Query: "MUSTELA frenata" ; Times: 1
+	Query: "Panthera leo" ; Times: 1
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "erethizon" ; Times: 1
+	Query: "crotalus molossus" ; Times: 1
+	Query: "Rattus norvegicus" ; Times: 2
+	Query: "crotalus cerberus" ; Times: 1
+	Query: "deirochelys" ; Times: 2
+	Query: "peromyscus mexicanus" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "Aptenodytes forsteri" ; Times: 3
+	Query: "Equus grevyi" ; Times: 1
+	Query: "agkistrodon contortrix laticinctus" ; Times: 1
+	Query: "Gerrhonotus liocephalus" ; Times: 1
+	Query: "Martes americana" ; Times: 1
+	Query: "specificepithet:insculpta family:emydidae" ; Times: 1
+	Query: "Terrapene ornata" ; Times: 1
+	Query: "Heloderma horridum" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 3
+	Query: "columba livia" ; Times: 1
+	Query: "Aquila chrysaetos" ; Times: 1
+	Query: "Monodon monoceros" ; Times: 1
+	Query: "Eretmochelys imbricata" ; Times: 2
+	Query: "Bubalus bubalis" ; Times: 4
+	Query: "Varanus griseus" ; Times: 1
+	Query: "Pituophis deppei" ; Times: 1
+	Query: "ctenosaura pectinata" ; Times: 6
+	Query: "Gopherus" ; Times: 1
+	Query: "Spea bombifrons OR Scaphiopus bombifrons year &gt;= 1996 year &lt;= 2005" ; Times: 1
+	Query: "phrynosoma orbiculare" ; Times: 3
+	Query: "type:specimen class:Aves stateprovince:&#34;Iowa&#34;" ; Times: 1
+	Query: "Peromyscus mexicanus" ; Times: 1
+	Query: "Vulpes vulpes" ; Times: 1
+	Query: "Castor canadensis" ; Times: 1
+	Query: "Varanus flavescens" ; Times: 1
+	Query: "Phascolarctos" ; Times: 1
+	Query: "bufo bufo" ; Times: 1
+	Query: "panthera leo" ; Times: 5
+	Query: "Heterodon simus North Carolina" ; Times: 1
+	Query: "Mugil cephalus" ; Times: 1
+	Query: "microtus pinetorum" ; Times: 1
+	Query: "class:Reptilia country:&#34;Colombia&#34;" ; Times: 1
+	Query: "agkistrodon bilineatus" ; Times: 2
+	Query: "bothrops asper" ; Times: 1
+	Query: "Rhinoclemmys" ; Times: 1
+	Query: "Atelerix" ; Times: 2
+	Query: "iguana iguana" ; Times: 1
+	Query: "Tamandua mexicana" ; Times: 1
+	Query: "Dipodomys merriami" ; Times: 1
+	Query: "Leopardus colocolo" ; Times: 1
+	Query: "genus:kinixys" ; Times: 1
+	Query: "moloch horridus" ; Times: 1
+	Query: "Lepus americanus" ; Times: 1
+	Query: "aegolius acadicus" ; Times: 1
+	Query: "desmodus rotundus" ; Times: 1
+	Query: "crotalus atrox year &gt;= 2010 year &lt;= 2016" ; Times: 1
+	Query: "type:specimen genus:Anolis" ; Times: 1
+	Query: "odocoileus virginianus" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Hippopotamus amphibius" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:Microtus" ; Times: 1
+	Query: "order:Squamata class:Reptilia country:&#34;Indonesia&#34;" ; Times: 1
+	Query: "Spea bombifrons OR Scaphiopus bombifrons year &gt;= 1976 year &lt;= 2000" ; Times: 1
+	Query: "specificepithet:marmorata family:Emydidae" ; Times: 1
+	Query: "macropus rufus" ; Times: 2
+	Query: "Canis lupus" ; Times: 1
+	Query: "Glaucomys volans" ; Times: 1
+	Query: "order:Squamata class:Reptilia country:&#34;Papua new guinea&#34;" ; Times: 1
+	Query: "Chrysemys" ; Times: 1
+	Query: "amblyrhynchus" ; Times: 1
+	Query: "varanus niloticus" ; Times: 1
+	Query: "Phascolarctos cinereus" ; Times: 1
+	Query: "Varanus exanthematicus" ; Times: 1
+	Query: "leopardus" ; Times: 2
+	Query: "specificepithet:guttata family:emydidae" ; Times: 1
+	Query: "nasua nasua" ; Times: 1
+	Query: "Cuora" ; Times: 2
+	Query: "ORCINUS ORCA" ; Times: 1
+	Query: "Graptemys" ; Times: 1
+	Query: "Columba livia" ; Times: 1
+	Query: "Emydura" ; Times: 1
+	Query: "trimeresurus gramineus type:specimen" ; Times: 1
+	Query: "PANTHERA ONCA" ; Times: 1
+	Query: "Iguana iguana AND (NOT California NOT Fiji NOT Florida NOT Arizona NOT Nevada NOT Sinaloa )" ; Times: 1
+	Query: "aegolius Acadicus" ; Times: 1
+	Query: "Puma concolor" ; Times: 3
+	Query: "Lepidochelys kempi" ; Times: 1
+	Query: "Chelydra" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "peromyscus gossypinus" ; Times: 1
+	Query: "Staurotypus triporcatus" ; Times: 1
+	Query: "uta stansburiana Arizona year &gt;= 1985 year &lt;= 2016" ; Times: 1
+	Query: "trimeresurus fasciatus type:specimen" ; Times: 1
+	Query: "Varanus niloticus" ; Times: 1
+	Query: "panthera pardus" ; Times: 1
+	Query: "canis latrans" ; Times: 3
+	Query: "Martes pennanti" ; Times: 1
+	Query: "micrurus fulvius year &gt;= 1950 year &lt;= 2000" ; Times: 1
+	Query: "Wilsonia citrina" ; Times: 1
+	Query: "Lynx canadensis" ; Times: 1
+	Query: "Ornithorhynchus anatinus" ; Times: 1
+
+
+End of report.
