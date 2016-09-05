@@ -1,0 +1,304 @@
+Report for Institution Code ROM, Resource vposteology
+Usage stats for August 2016, generated on 2016/09/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 237
+Number of records retrieved in searches: 1018
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 9
+	Country: Australia ; Times: 3
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 15
+	Country: France ; Times: 3
+	Country: United States ; Times: 199
+	Country: Germany ; Times: 1
+	Country: Russia ; Times: 1
+	Country: Ecuador ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-10 ; Times: 2
+	Date: 2016-08-11 ; Times: 1
+	Date: 2016-08-12 ; Times: 1
+	Date: 2016-08-13 ; Times: 2
+	Date: 2016-08-29 ; Times: 3
+	Date: 2016-08-28 ; Times: 3
+	Date: 2016-08-16 ; Times: 6
+	Date: 2016-08-25 ; Times: 5
+	Date: 2016-08-19 ; Times: 29
+	Date: 2016-08-27 ; Times: 1
+	Date: 2016-08-26 ; Times: 4
+	Date: 2016-08-21 ; Times: 7
+	Date: 2016-08-20 ; Times: 130
+	Date: 2016-08-30 ; Times: 8
+	Date: 2016-08-31 ; Times: 11
+	Date: 2016-08-18 ; Times: 3
+	Date: 2016-08-23 ; Times: 8
+	Date: 2016-08-24 ; Times: 7
+	Date: 2016-08-14 ; Times: 1
+	Date: 2016-08-15 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:bonasus genus:Rhinoptera" ; Times: 2
+	Query: "Bothriopsis bilineata" ; Times: 4
+	Query: "specificepithet:barracuda genus:Sphyraena" ; Times: 2
+	Query: "ROM 5596" ; Times: 3
+	Query: "felis chaus" ; Times: 1
+	Query: "specificepithet:steindachneri genus:Haemulon" ; Times: 1
+	Query: "specificepithet:olivaris genus:Pylodictis" ; Times: 1
+	Query: "specificepithet:venenosa genus:Mycteroperca" ; Times: 1
+	Query: "anguis fragilis" ; Times: 1
+	Query: "specificepithet:plumieri genus:Haemulon" ; Times: 2
+	Query: "leopardus colocolo peru" ; Times: 1
+	Query: "Trachemys scripta stateprovince:&#34;south carolina&#34;" ; Times: 3
+	Query: "specificepithet:lalandi genus:Seriola" ; Times: 1
+	Query: "specificepithet:saurus genus:Oligoplites" ; Times: 1
+	Query: "specificepithet:cepedianum genus:Dorosoma" ; Times: 4
+	Query: "specificepithet:carcharias genus:Carcharodon" ; Times: 2
+	Query: "specificepithet:furcifer genus:Paranthias" ; Times: 1
+	Query: "chelonoidis" ; Times: 5
+	Query: "specificepithet:sordidus genus:Citharichthys" ; Times: 1
+	Query: "specificepithet:brevipinna genus:Carcharhinus" ; Times: 1
+	Query: "specificepithet:japonicus genus:Scomber" ; Times: 2
+	Query: "specificepithet:nigromaculatus genus:Pomoxis" ; Times: 3
+	Query: "specificepithet:erectus genus:Hippocampus" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 2
+	Query: "specificepithet:catesbeianus genus:Lithobates" ; Times: 1
+	Query: "Halichoeres scapularis rom" ; Times: 1
+	Query: "pardofelis temminckii" ; Times: 1
+	Query: "specificepithet:maximus genus:Lachnolaimus" ; Times: 2
+	Query: "otocolobus manul" ; Times: 1
+	Query: "specificepithet:alletteratus genus:Euthynnus" ; Times: 1
+	Query: "varanus dumerili type:specimen" ; Times: 1
+	Query: "specificepithet:bipinnulata genus:Elagatis" ; Times: 1
+	Query: "genus:pseudopus" ; Times: 1
+	Query: "trachemys scripta stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "specificepithet:harengus genus:Clupea" ; Times: 5
+	Query: "ovis dalli zoo" ; Times: 1
+	Query: "specificepithet:lagocephalus genus:Lagocephalus" ; Times: 1
+	Query: "specificepithet:brachyurus genus:Carcharhinus" ; Times: 1
+	Query: "pigeon lake ontario" ; Times: 1
+	Query: "specificepithet:afer genus:Alphestes" ; Times: 1
+	Query: "specificepithet:scriptus genus:Aluterus" ; Times: 2
+	Query: "specificepithet:americanus genus:Menticirrhus" ; Times: 2
+	Query: "class:Osteichthyes type:specimen tissue:1" ; Times: 1
+	Query: "Heloderma horridum" ; Times: 1
+	Query: "specificepithet:acronotus genus:Carcharhinus" ; Times: 1
+	Query: "dendroica magnolia country:&#34;Canada&#34; month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "specificepithet:saxatilis genus:Morone" ; Times: 1
+	Query: "neofelis nebulosa" ; Times: 1
+	Query: "specificepithet:oxyrinchus genus:Isurus" ; Times: 3
+	Query: "specificepithet:sapidissima genus:Alosa" ; Times: 1
+	Query: "specificepithet:mydas genus:Chelonia" ; Times: 2
+	Query: "specificepithet:gladius genus:Xiphias" ; Times: 1
+	Query: "ovis zoo" ; Times: 1
+	Query: "Panthera uncia" ; Times: 1
+	Query: "specificepithet:limbatus genus:Carcharhinus" ; Times: 2
+	Query: "specificepithet:undulatus genus:Micropogonias" ; Times: 2
+	Query: "Gopherus berlandieri" ; Times: 1
+	Query: "CA 5051" ; Times: 1
+	Query: "specificepithet:albacares genus:Thunnus" ; Times: 2
+	Query: "anaxyrus terrestris country:&#34;USA&#34; (county) year &gt;= 1700 year &lt;= 2016" ; Times: 1
+	Query: "specificepithet:flavolineatum genus:Haemulon" ; Times: 2
+	Query: "Trimeresurus fasciatus" ; Times: 1
+	Query: "Varanus flavescens" ; Times: 2
+	Query: "specificepithet:mykiss genus:Oncorhynchus" ; Times: 3
+	Query: "specificepithet:carpio genus:Cyprinus" ; Times: 24
+	Query: "type:specimen genus:apteryx" ; Times: 1
+	Query: "herpestes urva" ; Times: 1
+	Query: "specificepithet:rivoliana genus:Seriola" ; Times: 1
+	Query: "genus:dasypus institutioncode:ROM" ; Times: 3
+	Query: "colocolo en peru" ; Times: 1
+	Query: "specificepithet:nothus genus:Cynoscion" ; Times: 1
+	Query: "specificepithet:acanthias genus:Squalus" ; Times: 4
+	Query: "specificepithet:holocanthus genus:Diodon" ; Times: 1
+	Query: "trimeresurus gramineus" ; Times: 1
+	Query: "specificepithet:reidi genus:Hippocampus" ; Times: 1
+	Query: "varanus flavescens" ; Times: 1
+	Query: "specificepithet:xanthurus genus:Leiostomus" ; Times: 1
+	Query: "trachemys scripta scripta south carolina" ; Times: 1
+	Query: "Actinemys marmorata" ; Times: 1
+	Query: "specificepithet:superciliosus genus:Alopias" ; Times: 1
+	Query: "specificepithet:rostrata genus:Anguilla" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 4
+	Query: "type:specimen genus:apteryx institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:crumenophthalmus genus:Selar" ; Times: 1
+	Query: "specificepithet:parra genus:Haemulon" ; Times: 1
+	Query: "specificepithet:francisci genus:Heterodontus" ; Times: 1
+	Query: "specificepithet:cyanopterus genus:Lutjanus" ; Times: 1
+	Query: "specificepithet:nebulosus genus:Cynoscion" ; Times: 2
+	Query: "specificepithet:marinus genus:Bagre" ; Times: 2
+	Query: "specificepithet:falciformis genus:Carcharhinus" ; Times: 2
+	Query: "specificepithet:galeus genus:Galeorhinus" ; Times: 1
+	Query: "specificepithet:rufus genus:Bodianus" ; Times: 1
+	Query: "specificepithet:hippurus genus:Coryphaena" ; Times: 1
+	Query: "specificepithet:nigricans genus:Acanthurus" ; Times: 1
+	Query: "specificepithet:synagris genus:Lutjanus" ; Times: 1
+	Query: "type:specimen family:rheidae institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:chanos genus:Chanos" ; Times: 1
+	Query: "ROM ophisaurus" ; Times: 1
+	Query: "specificepithet:crysos genus:Caranx" ; Times: 1
+	Query: "specificepithet:osseus genus:Lepisosteus" ; Times: 4
+	Query: "specificepithet:chirurgus genus:Acanthurus" ; Times: 2
+	Query: "leopardus colocolo" ; Times: 2
+	Query: "specificepithet:brevirostris genus:Negaprion" ; Times: 1
+	Query: "specificepithet:thazard genus:Auxis" ; Times: 2
+	Query: "specificepithet:tiburo genus:Sphyrna" ; Times: 1
+	Query: "specificepithet:hippos genus:Caranx" ; Times: 1
+	Query: "specificepithet:faber genus:Chaetodipterus" ; Times: 3
+	Query: "specificepithet:auratus genus:Carassius" ; Times: 3
+	Query: "specificepithet:obesus genus:Thunnus" ; Times: 1
+	Query: "specificepithet:caretta genus:Caretta" ; Times: 2
+	Query: "specificepithet:ruber genus:Caranx" ; Times: 2
+	Query: "specificepithet:cromis genus:Pogonias" ; Times: 1
+	Query: "specificepithet:brasiliensis genus:Hemiramphus" ; Times: 1
+	Query: "specificepithet:punctatus genus:Ictalurus" ; Times: 3
+	Query: "specificepithet:lepturus genus:Trichiurus" ; Times: 1
+	Query: "specificepithet:analis genus:Lutjanus" ; Times: 1
+	Query: "specificepithet:salar genus:Salmo" ; Times: 1
+	Query: "specificepithet:media genus:Sphyrna" ; Times: 1
+	Query: "Varanus dumerili" ; Times: 2
+	Query: "specificepithet:cephalus genus:Mugil" ; Times: 6
+	Query: "specificepithet:californica genus:Squatina" ; Times: 1
+	Query: "specificepithet:melanops genus:Sebastes" ; Times: 1
+	Query: "Sistrurus stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "varanus rudicollis" ; Times: 1
+	Query: "specificepithet:balao genus:Hemiramphus" ; Times: 1
+	Query: "prionailurus planiceps" ; Times: 1
+	Query: "specificepithet:annularis genus:Pomoxis" ; Times: 3
+	Query: "catalognumber:1726" ; Times: 1
+	Query: "varanus rudicollis type:specimen" ; Times: 1
+	Query: "specificepithet:pelamis genus:Katsuwonus" ; Times: 1
+	Query: "specificepithet:bahianus genus:Acanthurus" ; Times: 1
+	Query: "specificepithet:secunda genus:Uraspis" ; Times: 1
+	Query: "Reptilia stateprovince:&#34;Louisiana&#34; institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:solandri genus:Acanthocybium" ; Times: 1
+	Query: "specificepithet:canis genus:Mustelus" ; Times: 2
+	Query: "genus:Sistrurus stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "specificepithet:hybridus genus:Dasypus" ; Times: 3
+	Query: "specificepithet:rochei genus:Auxis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 117 (out of 924 download events in this period)
+Total number of records downloaded: 905
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 7
+	Country: Netherlands ; Times: 4
+	Country: Mexico ; Times: 31
+	Country: Unknown ; Times: 6
+	Country: United States ; Times: 64
+	Country: Austria ; Times: 1
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-10 ; Times: 1
+	Date: 2016-08-11 ; Times: 5
+	Date: 2016-08-12 ; Times: 2
+	Date: 2016-08-13 ; Times: 4
+	Date: 2016-08-14 ; Times: 2
+	Date: 2016-08-15 ; Times: 1
+	Date: 2016-08-16 ; Times: 7
+	Date: 2016-08-17 ; Times: 2
+	Date: 2016-08-18 ; Times: 10
+	Date: 2016-08-19 ; Times: 4
+	Date: 2016-08-30 ; Times: 9
+	Date: 2016-08-31 ; Times: 17
+	Date: 2016-08-29 ; Times: 10
+	Date: 2016-08-28 ; Times: 4
+	Date: 2016-08-25 ; Times: 10
+	Date: 2016-08-24 ; Times: 4
+	Date: 2016-08-27 ; Times: 4
+	Date: 2016-08-26 ; Times: 10
+	Date: 2016-08-21 ; Times: 3
+	Date: 2016-08-20 ; Times: 2
+	Date: 2016-08-23 ; Times: 1
+	Date: 2016-08-22 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Mecca" ; Times: 1
+	Query: "gavia" ; Times: 1
+	Query: "Varanus flavescens" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Utah&#34;" ; Times: 2
+	Query: "Empidonax flaviventris year &gt;= 1980" ; Times: 1
+	Query: "Guanajuato" ; Times: 6
+	Query: "Anolis" ; Times: 1
+	Query: "microtus longicaudus" ; Times: 1
+	Query: "crotalus" ; Times: 1
+	Query: "canis lupus" ; Times: 2
+	Query: "specificepithet:cinerea genus:Neotoma stateprovince:&#34;Utah&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "type:specimen (anaxyrus)" ; Times: 1
+	Query: "microtus californicus" ; Times: 1
+	Query: "Varanus bengalensis bengalensis type:specimen" ; Times: 1
+	Query: "artibeus lituratus" ; Times: 1
+	Query: "Sternotherus minor" ; Times: 1
+	Query: "specificepithet:ordii genus:Dipodomys stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "Mitchelli" ; Times: 1
+	Query: "varanus dumerili type:specimen" ; Times: 1
+	Query: "Crotalus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "Gerrhonotus liocephalus" ; Times: 1
+	Query: "Chondrichthyes" ; Times: 1
+	Query: "Lithobates septentrionalis" ; Times: 1
+	Query: "anolis sagrei" ; Times: 1
+	Query: "Actinemys marmorata" ; Times: 1
+	Query: "microtus pennsylvanicus" ; Times: 1
+	Query: "chiroptera stateprovince:&#34;Oaxaca&#34;" ; Times: 1
+	Query: "microtus pinetorum" ; Times: 1
+	Query: "Arizona elegans" ; Times: 1
+	Query: "poecilia reticulata" ; Times: 1
+	Query: "acinonyx jubatus" ; Times: 1
+	Query: "bufo" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "Pseudemys" ; Times: 1
+	Query: "specificepithet:longicaudus genus:Microtus stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 24
+	Query: "Pituophis catenifer" ; Times: 2
+	Query: "microtus montanus" ; Times: 1
+	Query: "&#34;mustela putorius&#34;" ; Times: 1
+	Query: "Empidonax minimus year &gt;= 1980" ; Times: 1
+	Query: "phrynosoma" ; Times: 1
+	Query: "specificepithet:megalotis genus:Reithrodontomys stateprovince:&#34;California&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "macaca skull type:specimen" ; Times: 1
+	Query: "anolis cristatellus" ; Times: 1
+	Query: "varanus flavescens" ; Times: 1
+	Query: "anolis carolinensis" ; Times: 1
+	Query: "Spea hammondi" ; Times: 1
+	Query: "lEOPARDUS WIEDII" ; Times: 1
+	Query: "Papio skull type:specimen" ; Times: 1
+	Query: "Lithobates sylvaticus" ; Times: 1
+	Query: "Callipepla californica" ; Times: 1
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "Anniella pulchra" ; Times: 1
+	Query: "ambystoma tigrinum" ; Times: 1
+	Query: "Coluber constrictor" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "cercocebus skull type:specimen" ; Times: 1
+	Query: "cercocebus" ; Times: 1
+	Query: "ambystoma" ; Times: 1
+	Query: "Bothriopsis bilineata" ; Times: 2
+	Query: "Buteo swainsoni" ; Times: 1
+	Query: "varanus rudicollis type:specimen" ; Times: 2
+	Query: "guanajuato" ; Times: 3
+	Query: "specificepithet:domesticus genus:passer" ; Times: 1
+	Query: "specificepithet:cinerea genus:Neotoma stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "varanus bengalensis" ; Times: 1
+	Query: "lanius ludovicianus" ; Times: 1
+	Query: "lutra" ; Times: 1
+	Query: "crotalus mitchelli" ; Times: 1
+	Query: "Coccyzus americanus" ; Times: 1
+	Query: "Apodidae" ; Times: 1
+	Query: "Agkistrodon stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "GUANAJUATO" ; Times: 4
+	Query: "specificepithet:hybridus genus:Dasypus" ; Times: 1
+	Query: "Sphyrapicus varius year &gt;= 1980" ; Times: 1
+	Query: "Hydromantes" ; Times: 1
+	Query: "mammalia Cryptotis" ; Times: 2
+
+
+End of report.
