@@ -1,0 +1,80 @@
+Report for Institution Code ROM, Resource vposteology
+Usage stats for November 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 45
+Number of records retrieved in searches: 125
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 33
+	Country: Unknown ; Times: 7
+	Country: France ; Times: 2
+	Country: Denmark ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-11-28 ; Times: 7
+	Date: 2017-11-29 ; Times: 15
+	Date: 2017-11-26 ; Times: 7
+	Date: 2017-11-27 ; Times: 9
+	Date: 2017-11-24 ; Times: 3
+	Date: 2017-11-25 ; Times: 2
+	Date: 2017-11-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Apteryx sex:Female" ; Times: 3
+	Query: "specificepithet:ornatus genus:Tremarctos" ; Times: 1
+	Query: "Tayassuidae tayassu tajacu skeleton" ; Times: 1
+	Query: "sistrurus catenatus catenatus specificepithet:catenatus genus:sistrurus (ontario ) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Myrmecophagidae skeleton tridactyla" ; Times: 1
+	Query: "genus:Apteryx sex:Female preparations:skeleton" ; Times: 1
+	Query: "panthera tigris skeleton" ; Times: 1
+	Query: "Hemitheconyx" ; Times: 2
+	Query: "Elephas maximus India" ; Times: 1
+	Query: "Mullus surmuletus" ; Times: 1
+	Query: "Mullus auratus" ; Times: 1
+	Query: "neusticurus rudis" ; Times: 2
+	Query: "Mustelidae skeleton Gulo gulo" ; Times: 1
+	Query: "Centropomus undecimalis" ; Times: 2
+	Query: "Pseudupeneus maculatus" ; Times: 1
+	Query: "Parupeneus barberinus" ; Times: 3
+	Query: "Pseudupeneus prayensis" ; Times: 1
+	Query: "class:reptilia locality:calcutta" ; Times: 1
+	Query: "Parupeneus heptacanthus" ; Times: 3
+	Query: "genus:python country:&#34;india&#34;" ; Times: 4
+	Query: "Zaedyus pichiy" ; Times: 9
+	Query: "Mulloidichthys martinicus" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 1101 download events in this period)
+Total number of records downloaded: 200
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Costa Rica ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-11-26 ; Times: 2
+	Date: 2017-11-27 ; Times: 1
+	Date: 2017-11-30 ; Times: 1
+	Date: 2017-11-28 ; Times: 1
+	Date: 2017-11-29 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "family:salmonidae" ; Times: 1
+	Query: "genus: Sylvilagus floridanus" ; Times: 1
+	Query: "Sylvilagus floridanus" ; Times: 1
+	Query: "bison" ; Times: 1
+	Query: "vntype:specimen specificepithet:europaeus genus:Erinaceus" ; Times: 1
+	Query: "vntype:specimen family:Rhacophoridae basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "crotalus horridus" ; Times: 1
+	Query: "Phrynosoma modestum" ; Times: 1
+
+
+End of report.
