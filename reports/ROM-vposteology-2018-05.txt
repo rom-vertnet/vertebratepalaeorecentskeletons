@@ -1,0 +1,230 @@
+Report for Institution Code ROM, Resource vposteology
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 104
+Number of records retrieved in searches: 323
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 10
+	Country: United States ; Times: 76
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 1
+	Country: France ; Times: 5
+	Country: United Kingdom ; Times: 2
+	Country: Spain ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-29 ; Times: 1
+	Date: 2018-05-21 ; Times: 1
+	Date: 2018-05-22 ; Times: 10
+	Date: 2018-05-23 ; Times: 11
+	Date: 2018-05-24 ; Times: 12
+	Date: 2018-05-25 ; Times: 2
+	Date: 2018-05-06 ; Times: 4
+	Date: 2018-05-07 ; Times: 4
+	Date: 2018-05-04 ; Times: 2
+	Date: 2018-05-05 ; Times: 1
+	Date: 2018-05-02 ; Times: 6
+	Date: 2018-05-03 ; Times: 5
+	Date: 2018-05-01 ; Times: 7
+	Date: 2018-05-08 ; Times: 10
+	Date: 2018-05-31 ; Times: 3
+	Date: 2018-05-30 ; Times: 6
+	Date: 2018-05-15 ; Times: 1
+	Date: 2018-05-14 ; Times: 4
+	Date: 2018-05-17 ; Times: 2
+	Date: 2018-05-16 ; Times: 10
+	Date: 2018-05-19 ; Times: 1
+	Date: 2018-05-18 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Andrias davidianus" ; Times: 2
+	Query: "specificepithet:willardi genus:Crotalus county:&#34;cochise&#34; stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "genus:ursus institutioncode:ROM" ; Times: 3
+	Query: "specificepithet:punctatus genus:Anaxyrus institutioncode:ROM" ; Times: 4
+	Query: "specificepithet:flavipes genus:tringa year &gt;= 1990 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:planirostris genus:Eleutherodactylus institutioncode:ROM" ; Times: 3
+	Query: "specificepithet:cinerea genus:Hyla institutioncode:ROM" ; Times: 3
+	Query: "country:Ecuador scientificname:Eira barbara " ; Times: 1
+	Query: "Agkistrodon taylori" ; Times: 1
+	Query: "Lepidobatrachus laevis" ; Times: 1
+	Query: "specificepithet:lagopus genus:Alopex year &gt;= 2000 year &lt;= 2009" ; Times: 1
+	Query: "Lampropeltis annulata" ; Times: 1
+	Query: "specificepithet:willardi genus:Crotalus stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "specificepithet:lagopus genus:Alopex year &gt;= 2000 year &lt;= 2009 institutioncode:ROM" ; Times: 1
+	Query: "barisia skeleton" ; Times: 1
+	Query: "Royal Ontario Museum Aves Recent" ; Times: 1
+	Query: "genus:glyptemys sex:male OR female" ; Times: 1
+	Query: "Paleosuchus palpebrosus" ; Times: 4
+	Query: "sterna maxima skeleton vntype:specimen continent:north america" ; Times: 1
+	Query: "atropoides" ; Times: 1
+	Query: "eunectes murinus" ; Times: 2
+	Query: "heloderma horridum" ; Times: 1
+	Query: "specificepithet:bufo genus:Bufo institutioncode:ROM" ; Times: 3
+	Query: "Priodontes" ; Times: 2
+	Query: "specificepithet:marina genus:Rhinella institutioncode:ROM" ; Times: 3
+	Query: "specificepithet:funereus genus:Aegolius class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:funereus genus:Aegolius class:Aves institutioncode:ROM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:caerulea genus:Litoria institutioncode:ROM" ; Times: 3
+	Query: "country:Ecuador scientificname:Dasyprocta fuliginosa " ; Times: 1
+	Query: "specificepithet:Flavipes genus:Tringa class:Aves year &gt;= 1990 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Atropoides nummifer" ; Times: 1
+	Query: "specificepithet:orientalis genus:Bombina institutioncode:ROM" ; Times: 3
+	Query: "genus:naja preparations:skeleton" ; Times: 2
+	Query: "Platysternon" ; Times: 2
+	Query: "sterna maxima skeleton vntype:specimen continent:america" ; Times: 1
+	Query: "specificepithet:belliana nogueyi genus:Kinixys" ; Times: 3
+	Query: "specificepithet:domesticus genus:Canis" ; Times: 1
+	Query: "country:Ecuador scientificname:Potos flavus " ; Times: 3
+	Query: "specificepithet:pipa genus:Pipa institutioncode:ROM" ; Times: 3
+	Query: "specificepithet:lagopus genus:Alopex year &gt;= 1990 year &lt;= 1999 institutioncode:ROM" ; Times: 1
+	Query: "family:Sphenodontidae preparations:skeleton" ; Times: 1
+	Query: "specificepithet:laevis genus:Lepidobatrachus institutioncode:ROM" ; Times: 3
+	Query: "echinorhinus" ; Times: 1
+	Query: "(Muntiacus) institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:olivacea genus:Gastrophryne institutioncode:ROM" ; Times: 3
+	Query: "genus:Priodontes basisofrecord:PreservedSpecimen" ; Times: 6
+	Query: "genus:alligator sex:male OR female" ; Times: 1
+	Query: "specificepithet:formosa class:Aves institutioncode:ROM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Priodontes" ; Times: 2
+	Query: "vntype:specimen specificepithet:hasitata genus:Pterodroma institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:lagopus genus:Alopex year &gt;= 1990 year &lt;= 1999" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1960 year &lt;= 1969 institutioncode:ROM" ; Times: 1
+	Query: "genus:Theraps" ; Times: 1
+	Query: "Zaedyus pichiy" ; Times: 6
+	Query: "Lutra lutra" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "family:Acrochordidae preparations:skeleton" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 79 (out of 1178 download events in this period)
+Total number of records downloaded: 552
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 24
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Thailand ; Times: 2
+	Country: United States ; Times: 30
+	Country: Spain ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-28 ; Times: 1
+	Date: 2018-05-20 ; Times: 1
+	Date: 2018-05-21 ; Times: 2
+	Date: 2018-05-22 ; Times: 1
+	Date: 2018-05-23 ; Times: 1
+	Date: 2018-05-25 ; Times: 1
+	Date: 2018-05-06 ; Times: 2
+	Date: 2018-05-07 ; Times: 12
+	Date: 2018-05-04 ; Times: 3
+	Date: 2018-05-02 ; Times: 3
+	Date: 2018-05-03 ; Times: 1
+	Date: 2018-05-01 ; Times: 6
+	Date: 2018-05-08 ; Times: 2
+	Date: 2018-05-09 ; Times: 9
+	Date: 2018-05-31 ; Times: 3
+	Date: 2018-05-30 ; Times: 7
+	Date: 2018-05-15 ; Times: 1
+	Date: 2018-05-14 ; Times: 1
+	Date: 2018-05-17 ; Times: 1
+	Date: 2018-05-16 ; Times: 4
+	Date: 2018-05-11 ; Times: 2
+	Date: 2018-05-10 ; Times: 2
+	Date: 2018-05-13 ; Times: 2
+	Date: 2018-05-19 ; Times: 2
+	Date: 2018-05-18 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "Andrias davidianus" ; Times: 1
+	Query: "Staurotypus triporcatus" ; Times: 1
+	Query: "Batrachoseps attenuatus" ; Times: 1
+	Query: "Ambystoma laterale" ; Times: 1
+	Query: "Macropus rufogriseus" ; Times: 1
+	Query: "genus:farancia sex:male OR female" ; Times: 1
+	Query: "Thamnophis eques" ; Times: 1
+	Query: "pituophis deppei" ; Times: 1
+	Query: "Cynops pyrrhogaster" ; Times: 1
+	Query: "Amphiuma tridactylum" ; Times: 1
+	Query: "specificepithet:callotis genus:Lepus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Agkistrodon taylori" ; Times: 1
+	Query: "genus:aspidoscelis sex:male OR female" ; Times: 3
+	Query: "Bothrops asper" ; Times: 1
+	Query: "Orcinus orca" ; Times: 1
+	Query: "vntype:specimen class:amphibia county:&#34;Pickens&#34; stateprovince:&#34;south carolina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:mollissima genus:Somateria" ; Times: 1
+	Query: "dermochelys coriacea" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 3
+	Query: "Lampropeltis annulata" ; Times: 1
+	Query: "Calotes mystaceus" ; Times: 1
+	Query: "Gerrhonotus liocephalus" ; Times: 1
+	Query: "crocodylus niloticus" ; Times: 1
+	Query: "specificepithet:dorsalis genus:Dipsosaurus" ; Times: 1
+	Query: "genus:urocyon" ; Times: 1
+	Query: "Paleosuchus palpebrosus" ; Times: 1
+	Query: "Caretta caretta" ; Times: 1
+	Query: "Chelonia mydas" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "Calotes versicolor" ; Times: 1
+	Query: "genus:sonora sex:male OR female" ; Times: 1
+	Query: "Ambystoma opacum" ; Times: 1
+	Query: "specificepithet:punctatus genus:Anaxyrus" ; Times: 1
+	Query: "Ambystoma tigrinum" ; Times: 1
+	Query: "sistrurus" ; Times: 1
+	Query: "Desmognathus monticola" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "Boa constrictor" ; Times: 1
+	Query: "L. catesbeianus" ; Times: 1
+	Query: "callitrichidae" ; Times: 1
+	Query: "Spea bombifrons" ; Times: 1
+	Query: "Atropoides nummifer" ; Times: 1
+	Query: "percina" ; Times: 1
+	Query: "genus:pseudemys sex:male OR female" ; Times: 1
+	Query: "ensatina" ; Times: 1
+	Query: "Eretmochelys imbricata" ; Times: 1
+	Query: "Thamnophis marcianus" ; Times: 1
+	Query: "phrynosoma cornutum" ; Times: 1
+	Query: "morone americana" ; Times: 1
+	Query: "genus:cophosaurus sex:male OR female" ; Times: 1
+	Query: "specificepithet:onca genus:panthera basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Barisia imbricata" ; Times: 1
+	Query: "Arctocephalus pusillus" ; Times: 1
+	Query: "Crotalus scutulatus" ; Times: 1
+	Query: "macropus giganteus" ; Times: 1
+	Query: "genus:nerodia sex:male OR female" ; Times: 1
+	Query: "xiphias" ; Times: 1
+	Query: "Glyptemys insculpta" ; Times: 1
+	Query: "Necturus maculosus" ; Times: 1
+	Query: "genus:agkistrodon" ; Times: 1
+	Query: "Trichosurus vulpecula" ; Times: 1
+	Query: "Platysternon" ; Times: 1
+	Query: "genus:alligator sex:male OR female" ; Times: 1
+	Query: "sterna maxima skeleton vntype:specimen" ; Times: 1
+	Query: "Crotalus molossus" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 1
+	Query: "genus:ursus institutioncode:ROM" ; Times: 1
+	Query: "vntype:specimen class:amphibia county:&#34;Pickens&#34; stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "macropus rufus" ; Times: 1
+	Query: "phrynosoma orbiculare" ; Times: 1
+	Query: "Desmognathus quadramaculatus" ; Times: 1
+	Query: "sistrurus tergeminus" ; Times: 1
+	Query: "genus:Atropoides OR Cerrophidion OR Bothriechis OR Lachesis OR Mixcoatlus OR Ophryacus OR porthidium" ; Times: 1
+	Query: "specificepithet:dorsatum genus:Erethizon" ; Times: 1
+	Query: "crotalus horridus" ; Times: 1
+
+
+End of report.
