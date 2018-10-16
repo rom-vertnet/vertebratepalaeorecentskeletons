@@ -1,0 +1,431 @@
+Report for Institution Code ROM, Resource vposteology
+Usage stats for March 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 902
+Number of records retrieved in searches: 2838
+Number of different countries where searches have been originated: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 21
+	Country: Turkey ; Times: 2
+	Country: Madagascar ; Times: 3
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 16
+	Country: Unknown ; Times: 20
+	Country: Israel ; Times: 1
+	Country: France ; Times: 16
+	Country: United Kingdom ; Times: 21
+	Country: Sweden ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Denmark ; Times: 161
+	Country: Belgium ; Times: 6
+	Country: United States ; Times: 625
+	Country: Russia ; Times: 1
+	Country: Brazil ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-28 ; Times: 27
+	Date: 2018-03-29 ; Times: 12
+	Date: 2018-03-26 ; Times: 125
+	Date: 2018-03-14 ; Times: 3
+	Date: 2018-03-13 ; Times: 20
+	Date: 2018-03-12 ; Times: 10
+	Date: 2018-03-11 ; Times: 3
+	Date: 2018-03-10 ; Times: 3
+	Date: 2018-03-31 ; Times: 2
+	Date: 2018-03-30 ; Times: 3
+	Date: 2018-03-19 ; Times: 5
+	Date: 2018-03-18 ; Times: 3
+	Date: 2018-03-01 ; Times: 25
+	Date: 2018-03-02 ; Times: 62
+	Date: 2018-03-03 ; Times: 20
+	Date: 2018-03-04 ; Times: 5
+	Date: 2018-03-05 ; Times: 64
+	Date: 2018-03-06 ; Times: 46
+	Date: 2018-03-07 ; Times: 172
+	Date: 2018-03-08 ; Times: 3
+	Date: 2018-03-09 ; Times: 3
+	Date: 2018-03-24 ; Times: 3
+	Date: 2018-03-25 ; Times: 21
+	Date: 2018-03-22 ; Times: 19
+	Date: 2018-03-23 ; Times: 19
+	Date: 2018-03-20 ; Times: 64
+	Date: 2018-03-21 ; Times: 42
+	Date: 2018-03-27 ; Times: 118
+
+List of queries that retrieved data from the resource: 
+	Query: "Crotalus horridus stateprovince:&#34;South Carolina&#34; year &gt;= 1970 year &lt;= 2018" ; Times: 1
+	Query: "genus:Hiodon specificepithet:alosoides" ; Times: 2
+	Query: "genus:Myoxocephalus specificepithet:scorpius" ; Times: 2
+	Query: "genus:Piaractus specificepithet:brachypomus" ; Times: 5
+	Query: "genus:Heloderma specificepithet:horridum" ; Times: 5
+	Query: "genus:Crocuta specificepithet:crocuta" ; Times: 2
+	Query: "Priodontes maximus" ; Times: 2
+	Query: "iptrecordid:&#34;URI:catalog:ROM:Vertebrate Palaeontology-Recent Osteological:1149&#34;" ; Times: 4
+	Query: "genus:Sphenodon specificepithet:punctatus" ; Times: 5
+	Query: "genus:Artediellus specificepithet:uncinatus" ; Times: 5
+	Query: "specificepithet:carbonaria genus:Chelonoidis" ; Times: 2
+	Query: "specificepithet:nasua genus:Nasua" ; Times: 1
+	Query: "python molurus" ; Times: 1
+	Query: "genus:rhea institutioncode:ROM" ; Times: 1
+	Query: "genus:Phrynops specificepithet:hilarii" ; Times: 5
+	Query: "genus:Cerastes specificepithet:cerastes" ; Times: 5
+	Query: "genus:Poecilia specificepithet:reticulata" ; Times: 2
+	Query: "iptrecordid:&#34;URI:catalog:ROM:Vertebrate Palaeontology-Recent Osteological:1143&#34;" ; Times: 4
+	Query: "genus:pantherophis stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "genus:Ceratotherium specificepithet:simum" ; Times: 5
+	Query: "genus:Melopsittacus specificepithet:undulatus" ; Times: 2
+	Query: "genus:Erpeton specificepithet:tentaculatum" ; Times: 5
+	Query: "iptrecordid:&#34;URI:catalog:ROM:Vertebrate Palaeontology-Recent Osteological:1133&#34;" ; Times: 4
+	Query: "genus:Solenodon specificepithet:paradoxus" ; Times: 6
+	Query: "iptrecordid:&#34;URI:catalog:ROM:Vertebrate Palaeontology-Recent Osteological:9072&#34;" ; Times: 4
+	Query: "specificepithet:viscacia genus:Lagidium" ; Times: 1
+	Query: "genus:Canis specificepithet:mesomelas" ; Times: 2
+	Query: "iptrecordid:&#34;URI:catalog:ROM:Vertebrate Palaeontology-Recent Osteological:1123&#34;" ; Times: 4
+	Query: "Vipera russelli" ; Times: 2
+	Query: "genus:Farancia specificepithet:erytrogramma" ; Times: 2
+	Query: "specificepithet:triseriata genus:Pseudacris institutioncode:ROM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Astronotus ocellatus 1" ; Times: 2
+	Query: "genus:Acreichthys specificepithet:tomentosus" ; Times: 5
+	Query: "genus:Hemitheconyx specificepithet:caudicinctus" ; Times: 5
+	Query: "genus:Dermochelys specificepithet:coriacea" ; Times: 6
+	Query: "specificepithet:maximus genus:Priodontes" ; Times: 1
+	Query: "specificepithet:triseriata genus:Pseudacris stateprovince:&#34;Ontario&#34; institutioncode:ROM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Batrachoides specificepithet:surinamensis" ; Times: 5
+	Query: "genus:Setifer specificepithet:setosus" ; Times: 2
+	Query: "specificepithet:tetradactyla genus:Tamandua" ; Times: 1
+	Query: "genus:Aotus specificepithet:trivirgatus" ; Times: 7
+	Query: "genus:Pongo specificepithet:pygmaeus" ; Times: 7
+	Query: "iptrecordid:&#34;URI:catalog:ROM:Vertebrate Palaeontology-Recent Osteological:0365&#34;" ; Times: 4
+	Query: "specificepithet:tridactyla genus:Myrmecophaga" ; Times: 1
+	Query: "genus:Varanus specificepithet:prasinus" ; Times: 5
+	Query: "paleosuchus" ; Times: 1
+	Query: "Setifer setosus" ; Times: 3
+	Query: "Ocyurus chrysurus" ; Times: 2
+	Query: "genus:Papio specificepithet:ursinus" ; Times: 7
+	Query: "iptrecordid:&#34;URI:catalog:ROM:Vertebrate Palaeontology-Recent Osteological:1140&#34;" ; Times: 4
+	Query: "genus:Macrochelys specificepithet:temminckii" ; Times: 2
+	Query: "genus:Choloepus specificepithet:didactylus " ; Times: 5
+	Query: "genus:Tantilla specificepithet:coronata" ; Times: 2
+	Query: "specificepithet:didactylus genus:Choloepus" ; Times: 1
+	Query: "genus:Lasiurus specificepithet:seminolus" ; Times: 2
+	Query: "genus:Acrochordus specificepithet:javanicus" ; Times: 5
+	Query: "genus:Lasionycteris month &gt;= 12 month &lt;= 12" ; Times: 1
+	Query: "specificepithet:pardalis genus:Leopardus" ; Times: 1
+	Query: "iptrecordid:&#34;URI:catalog:ROM:Vertebrate Palaeontology-Recent Osteological:1128&#34;" ; Times: 4
+	Query: "genus:Epicrates specificepithet:angulifer" ; Times: 5
+	Query: "gazella egypt" ; Times: 2
+	Query: "genus:Cyclura specificepithet:cornuta" ; Times: 5
+	Query: "iptrecordid:&#34;URI:catalog:ROM:Vertebrate Palaeontology-Recent Osteological:1131&#34;" ; Times: 4
+	Query: "genus:Acinonyx specificepithet:jubatus" ; Times: 5
+	Query: "iptrecordid:&#34;URI:catalog:ROM:Vertebrate Palaeontology-Recent Osteological:9073&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;URI:catalog:ROM:Vertebrate Palaeontology-Recent Osteological:1124&#34;" ; Times: 4
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 8
+	Query: "specificepithet:flavus genus:Potos" ; Times: 1
+	Query: "genus:Lampropeltis specificepithet:pyromelana" ; Times: 6
+	Query: "genus:Lagothrix specificepithet:lagotricha" ; Times: 7
+	Query: "specificepithet:turcicus genus:Hemidactylus country:&#34;USA&#34;" ; Times: 1
+	Query: "genus:Pristis specificepithet:pectinata" ; Times: 5
+	Query: "genus:Mesocricetus specificepithet:auratus" ; Times: 5
+	Query: "Osteoglossum bicirrhosum" ; Times: 1
+	Query: "genus:Eunectes specificepithet:murinus" ; Times: 5
+	Query: "genus:Corucia specificepithet:zebrata" ; Times: 5
+	Query: "genus:Notropis specificepithet:heterolepis" ; Times: 2
+	Query: "genus:Metynnis specificepithet:hypsauchen" ; Times: 5
+	Query: "genus:Hyaena specificepithet:hyaena" ; Times: 5
+	Query: "specificepithet:tridactylus genus:Bradypus" ; Times: 1
+	Query: "genus:Macaca specificepithet:cyclopis" ; Times: 5
+	Query: "genus:Papio specificepithet:cynocephalus" ; Times: 5
+	Query: "Protopterus aethiopicus" ; Times: 1
+	Query: "genus:Potos specificepithet:flavus" ; Times: 2
+	Query: "genus:Pyxicephalus specificepithet:adspersus" ; Times: 5
+	Query: "iptrecordid:&#34;URI:catalog:ROM:Vertebrate Palaeontology-Recent Osteological:1135&#34;" ; Times: 4
+	Query: "genus:Tarsius specificepithet:syrichta" ; Times: 8
+	Query: "genus:Euphractus specificepithet:sexcinctus" ; Times: 5
+	Query: "genus:Acrantophis specificepithet:dumerili" ; Times: 5
+	Query: "genus:Charadrius class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America institutioncode:ROM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "iptrecordid:&#34;URI:catalog:ROM:Vertebrate Palaeontology-Recent Osteological:1129&#34;" ; Times: 4
+	Query: "genus:Drymarchon specificepithet:corais" ; Times: 2
+	Query: "genus:Cynocephalus specificepithet:volans" ; Times: 9
+	Query: "order:Rheiformes hassex:1" ; Times: 2
+	Query: "genus:Petaurista  specificepithet:petaurista" ; Times: 3
+	Query: "iptrecordid:&#34;URI:catalog:ROM:Vertebrate Palaeontology-Recent Osteological:1145&#34;" ; Times: 4
+	Query: "genus:Varanus specificepithet:niloticus" ; Times: 2
+	Query: "specificepithet:nigrescens genus:Cryptotis" ; Times: 1
+	Query: "genus:Opsanus specificepithet:pardus" ; Times: 5
+	Query: "genus:Cercocebus specificepithet:torquatus" ; Times: 7
+	Query: "genus:Eutamias specificepithet:minimus" ; Times: 6
+	Query: "genus:Dasypus specificepithet:hybridus" ; Times: 5
+	Query: "Lithobates pipiens" ; Times: 3
+	Query: "iptrecordid:&#34;URI:catalog:ROM:Vertebrate Palaeontology-Recent Osteological:1119&#34;" ; Times: 4
+	Query: "genus:Perodicticus specificepithet:potto" ; Times: 2
+	Query: "genus:Erythrocebus specificepithet:patas" ; Times: 7
+	Query: "genus:Sphoeroides specificepithet:maculatus" ; Times: 2
+	Query: "Amphisbaena alba" ; Times: 2
+	Query: "priodontes" ; Times: 1
+	Query: "genus:Sphoeroides specificepithet:nephelus" ; Times: 2
+	Query: "genus:sistrurus stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:Osteoglossum specificepithet:bicirrhosum" ; Times: 5
+	Query: "genus:Struthio specificepithet:camelus" ; Times: 5
+	Query: "iptrecordid:&#34;URI:catalog:ROM:Vertebrate Palaeontology-Recent Osteological:0353&#34;" ; Times: 4
+	Query: "genus:Centrochelys" ; Times: 3
+	Query: "genus:Gavialis specificepithet:gangeticus" ; Times: 5
+	Query: "iptrecordid:&#34;URI:catalog:ROM:Vertebrate Palaeontology-Recent Osteological:1134&#34;" ; Times: 4
+	Query: "genus:Caiman stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "genus:Bagre specificepithet:marinus" ; Times: 2
+	Query: "specificepithet:durissus genus:Crotalus continent:South America" ; Times: 1
+	Query: "iptrecordid:&#34;URI:catalog:ROM:Vertebrate Palaeontology-Recent Osteological:1150&#34;" ; Times: 4
+	Query: "cuora amboinensis" ; Times: 1
+	Query: "genus:Hylobates specificepithet:lar" ; Times: 3
+	Query: "Python molurus" ; Times: 1
+	Query: "genus:Spheniscus specificepithet:magellanicus" ; Times: 5
+	Query: "genus:Atelerix" ; Times: 3
+	Query: "genus:Procavia specificepithet:capensis" ; Times: 2
+	Query: "iptrecordid:&#34;URI:catalog:ROM:Vertebrate Palaeontology-Recent Osteological:1122&#34;" ; Times: 4
+	Query: "genus:Bradypus specificepithet:tridactylus " ; Times: 6
+	Query: "iguana institutioncode:ROM" ; Times: 8
+	Query: "specificepithet:jobiensis genus:Varanus" ; Times: 1
+	Query: "specificepithet:barbara genus:Eira" ; Times: 1
+	Query: "genus:Lasiurus specificepithet:intermedius" ; Times: 2
+	Query: "genus:Lepidosiren specificepithet:paradoxa" ; Times: 5
+	Query: "Thamnophis sirtalis tetrataenia" ; Times: 1
+	Query: "genus:micrurus stateprovince:&#34;south carolina&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;URI:catalog:ROM:Vertebrate Palaeontology-Recent Osteological:1138&#34;" ; Times: 4
+	Query: "genus:Colossoma specificepithet:macropomum" ; Times: 5
+	Query: "genus:Dispholidus specificepithet:typus" ; Times: 3
+	Query: "specificepithet:aureus genus:Canis institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:punctata genus:Dasyprocta" ; Times: 1
+	Query: "specificepithet:septentrionalis genus:Osteopilus county:&#34;charlotte&#34; stateprovince:&#34;florida&#34;" ; Times: 1
+	Query: "genus:Zaedyus specificepithet:pichiy" ; Times: 5
+	Query: "genus:Phascolarctos specificepithet:cinereus" ; Times: 2
+	Query: "genus:Myoxocephalus specificepithet:quadricornis" ; Times: 5
+	Query: "Clarias batrachus 1" ; Times: 1
+	Query: "genus:Gerrhosaurus specificepithet:validus" ; Times: 5
+	Query: "iptrecordid:&#34;URI:catalog:ROM:Vertebrate Palaeontology-Recent Osteological:1127&#34;" ; Times: 4
+	Query: "(Lithobates catesbeianus)" ; Times: 3
+	Query: "iptrecordid:&#34;URI:catalog:ROM:Vertebrate Palaeontology-Recent Osteological:1136&#34;" ; Times: 4
+	Query: "Ovibos moschatus" ; Times: 5
+	Query: "agkistrodon taylori" ; Times: 1
+	Query: "genus:Thamnodynastes specificepithet:strigatus" ; Times: 5
+	Query: "specificepithet:mesomelas genus:Canis institutioncode:ROM" ; Times: 2
+	Query: "Varanus komodoensis" ; Times: 1
+	Query: "genus:Oxymonacanthus specificepithet:longirostris" ; Times: 5
+	Query: "genus:Clarias specificepithet:batrachus" ; Times: 5
+	Query: "iptrecordid:&#34;URI:catalog:ROM:Vertebrate Palaeontology-Recent Osteological:1147&#34;" ; Times: 4
+	Query: "specificepithet:lepidus genus:Crotalus stateprovince:&#34;coahuila&#34;" ; Times: 1
+	Query: "iptrecordid:&#34;URI:catalog:ROM:Vertebrate Palaeontology-Recent Osteological:1137&#34;" ; Times: 4
+	Query: "genus:Crotalus specificepithet:durissus" ; Times: 2
+	Query: "Tremarctos ornatus" ; Times: 1
+	Query: "genus:Aulonocara" ; Times: 3
+	Query: "genus:Lepisosteus specificepithet:platyrhincus" ; Times: 2
+	Query: "genus:Hemitripterus specificepithet:americanus" ; Times: 5
+	Query: "Leopardus colocolo" ; Times: 1
+	Query: "genus:Spilotes specificepithet:pullatus" ; Times: 2
+	Query: "Monopterus albus 1" ; Times: 1
+	Query: "genus:Varanus specificepithet:rudicollis" ; Times: 5
+	Query: "genus:Haplochromis" ; Times: 1
+	Query: "Chamaeleo pumilus" ; Times: 2
+	Query: "(Lithobates sylvaticus)" ; Times: 3
+	Query: "genus:Polypterus specificepithet:senegalus" ; Times: 5
+	Query: "sebastes hopkinsi" ; Times: 1
+	Query: "Paleosuchus" ; Times: 3
+	Query: "genus:Felis specificepithet:catus" ; Times: 2
+	Query: "genus:Lemur specificepithet:catta" ; Times: 12
+	Query: "latimeria" ; Times: 1
+	Query: "genus:Phyllomedusa specificepithet:bicolor" ; Times: 5
+	Query: "genus:Lepidobatrachus specificepithet:laevis" ; Times: 5
+	Query: "genus:Orcinus specificepithet:orca" ; Times: 2
+	Query: "Centropomus undecimalis" ; Times: 8
+	Query: "Ovibos moschatus moschatus" ; Times: 5
+	Query: "genus:Dracaena specificepithet:guianensis" ; Times: 5
+	Query: "specificepithet:didactylus genus:Cyclopes" ; Times: 1
+	Query: "genus:Gorilla specificepithet:gorilla" ; Times: 2
+	Query: "genus:Tenrec specificepithet:ecaudatus" ; Times: 2
+	Query: "specificepithet:rufus genus:Canis institutioncode:ROM" ; Times: 1
+	Query: "genus:Galago specificepithet:moholi" ; Times: 6
+	Query: "genus:Basiliscus specificepithet:plumifrons" ; Times: 5
+	Query: "iptrecordid:&#34;URI:catalog:ROM:Vertebrate Palaeontology-Recent Osteological:1120&#34;" ; Times: 4
+	Query: "agkistrodon bilineatus taylori" ; Times: 1
+	Query: "crotalus cerberus" ; Times: 1
+	Query: "genus:Epinephelus specificepithet:nigritus" ; Times: 6
+	Query: "genus:bungarus institutioncode:ROM" ; Times: 6
+	Query: "iptrecordid:&#34;URI:catalog:ROM:Vertebrate Palaeontology-Recent Osteological:1144&#34;" ; Times: 3
+	Query: "varanus griseus" ; Times: 2
+	Query: "genus:Nyctereutes" ; Times: 3
+	Query: "specificepithet:nigripes genus:mustela" ; Times: 1
+	Query: "specificepithet:onca genus:Panthera" ; Times: 1
+	Query: "specificepithet:hoffmanni genus:Choloepus" ; Times: 1
+	Query: "Alopias pelagicus" ; Times: 3
+	Query: "specificepithet:ornatus genus:Tremarctos" ; Times: 1
+	Query: "specificepithet:nigripes genus:Mustela" ; Times: 1
+	Query: "Eunectes murinus" ; Times: 2
+	Query: "genus:Boa specificepithet:constrictor" ; Times: 2
+	Query: "genus:Chaetophractus specificepithet:villosus" ; Times: 5
+	Query: "genus:Rhinecanthus specificepithet:aculeatus" ; Times: 2
+	Query: "genus:Urogale specificepithet:everetti" ; Times: 5
+	Query: "genus:Cynops specificepithet:pyrrhogaster" ; Times: 2
+	Query: "genus:Ateles specificepithet:geoffroyi" ; Times: 2
+	Query: "catalognumber:7360" ; Times: 1
+	Query: "Ceratophrys cranwelli" ; Times: 3
+	Query: "specificepithet:mexicana genus:Tamandua" ; Times: 1
+	Query: "specificepithet:fuliginosa genus:Dasyprocta" ; Times: 1
+	Query: "genus:Hybognathus specificepithet:hankinsoni" ; Times: 2
+	Query: "genus:Propithecus specificepithet:verreauxi" ; Times: 12
+	Query: "Lepidosiren paradoxa" ; Times: 5
+	Query: "genus:Heloderma specificepithet:suspectum" ; Times: 2
+	Query: "specificepithet:wiedii genus:Leopardus" ; Times: 1
+	Query: "genus:Pan specificepithet:paniscus" ; Times: 5
+	Query: "genus:Salarias specificepithet:fasciatus" ; Times: 2
+	Query: "specificepithet:durissus genus:crotalus year &gt;= 1990" ; Times: 2
+	Query: "genus:Leopardus specificepithet:pardalis" ; Times: 5
+	Query: "Dasypus septemcinctus" ; Times: 1
+	Query: "genus:Rhineura specificepithet:floridana" ; Times: 2
+	Query: "Panthera tigris " ; Times: 1
+	Query: "iptrecordid:&#34;URI:catalog:ROM:Vertebrate Palaeontology-Recent Osteological:1148&#34;" ; Times: 4
+	Query: "scientificname:mustela nigripes" ; Times: 2
+	Query: "genus:Petaurista specificepithet:petaurista" ; Times: 2
+	Query: "genus:Saimiri specificepithet:sciureus" ; Times: 5
+	Query: "genus:gorilla" ; Times: 1
+	Query: "genus:Megalops specificepithet:atlanticus" ; Times: 5
+	Query: "genus:Cordylus specificepithet:cordylus" ; Times: 5
+	Query: "genus:Bos specificepithet:taurus" ; Times: 5
+	Query: "genus:Lagocephalus specificepithet:lagocephalus" ; Times: 5
+	Query: "specificepithet:horridum genus:Heloderma country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Corallus specificepithet:caninus" ; Times: 5
+	Query: "Leopardus jacobita" ; Times: 1
+	Query: "iptrecordid:&#34;URI:catalog:ROM:Vertebrate Palaeontology-Recent Osteological:1132&#34;" ; Times: 4
+	Query: "genus:Clinostomus specificepithet:elongatus" ; Times: 2
+	Query: "genus:Cairina specificepithet: moschata" ; Times: 3
+	Query: "specificepithet:lanatus genus:Caluromys" ; Times: 1
+	Query: "genus:gorilla specificepithet:gorilla" ; Times: 1
+	Query: "iptrecordid:&#34;URI:catalog:ROM:Vertebrate Palaeontology-Recent Osteological:1139&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;URI:catalog:ROM:Vertebrate Palaeontology-Recent Osteological:1125&#34;" ; Times: 4
+	Query: "neusticurus rudis" ; Times: 4
+	Query: "genus:sistrurus stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "genus:Platysternon specificepithet:megacephalum" ; Times: 6
+	Query: "genus:Cuora specificepithet:amboinensis" ; Times: 2
+	Query: "genus:Leioheterodon specificepithet:modestus" ; Times: 5
+	Query: "genus:Gekko stateprovince:&#34;florida&#34;" ; Times: 1
+	Query: "genus:Sanzinia specificepithet:madagascariensis" ; Times: 5
+	Query: "iptrecordid:&#34;URI:catalog:ROM:Vertebrate Palaeontology-Recent Osteological:1141&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;URI:catalog:ROM:Vertebrate Palaeontology-Recent Osteological:1109&#34;" ; Times: 4
+	Query: "order:pholidota institutioncode:ROM" ; Times: 1
+	Query: "genus:Orthriophis specificepithet:taeniurus" ; Times: 5
+	Query: "iptrecordid:&#34;URI:catalog:ROM:Vertebrate Palaeontology-Recent Osteological:1126&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;URI:catalog:ROM:Vertebrate Palaeontology-Recent Osteological:1142&#34;" ; Times: 4
+	Query: "genus:Neofelis specificepithet:nebulosa" ; Times: 5
+	Query: "Cichla ocellaris 1" ; Times: 1
+	Query: "iptrecordid:&#34;URI:catalog:ROM:Vertebrate Palaeontology-Recent Osteological:9071&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;URI:catalog:ROM:Vertebrate Palaeontology-Recent Osteological:1146&#34;" ; Times: 4
+	Query: "specificepithet:macroura genus:Mephitis" ; Times: 1
+	Query: "genus:Gerrhosaurus specificepithet:major" ; Times: 5
+	Query: "Hoplosternum littorale 1" ; Times: 1
+	Query: "Zaedyus pichiy" ; Times: 22
+	Query: "iptrecordid:&#34;URI:catalog:ROM:Vertebrate Palaeontology-Recent Osteological:1130&#34;" ; Times: 4
+	Query: "genus:Choloepus specificepithet:hoffmanni" ; Times: 2
+	Query: "genus:Arothron specificepithet:nigropunctatus" ; Times: 2
+	Query: "iptrecordid:&#34;URI:catalog:ROM:Vertebrate Palaeontology-Recent Osteological:1121&#34;" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 62 (out of 1284 download events in this period)
+Total number of records downloaded: 286
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 22
+	Country: Unknown ; Times: 6
+	Country: France ; Times: 1
+	Country: United States ; Times: 23
+	Country: Germany ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Belgium ; Times: 2
+	Country: Argentina ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-08 ; Times: 1
+	Date: 2018-03-13 ; Times: 1
+	Date: 2018-03-10 ; Times: 2
+	Date: 2018-03-02 ; Times: 3
+	Date: 2018-03-23 ; Times: 5
+	Date: 2018-03-12 ; Times: 2
+	Date: 2018-03-01 ; Times: 2
+	Date: 2018-03-15 ; Times: 4
+	Date: 2018-03-03 ; Times: 1
+	Date: 2018-03-04 ; Times: 1
+	Date: 2018-03-05 ; Times: 2
+	Date: 2018-03-06 ; Times: 3
+	Date: 2018-03-29 ; Times: 12
+	Date: 2018-03-26 ; Times: 5
+	Date: 2018-03-09 ; Times: 2
+	Date: 2018-03-24 ; Times: 3
+	Date: 2018-03-18 ; Times: 6
+	Date: 2018-03-14 ; Times: 2
+	Date: 2018-03-30 ; Times: 1
+	Date: 2018-03-20 ; Times: 3
+	Date: 2018-03-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:perspicillata genus:Carollia country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:mexicanus genus:Peromyscus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "vntype:specimen (pan troglodytes)" ; Times: 1
+	Query: "Cygnus cygnus" ; Times: 1
+	Query: "Thamnophis sirtalis tetrataenia" ; Times: 1
+	Query: "Lepidobatrachus" ; Times: 1
+	Query: "specificepithet:canadensis genus:Perisoreus institutioncode:ROM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:suspectum genus:Heloderma country:&#34;mexico&#34;" ; Times: 1
+	Query: "genus:Monachus" ; Times: 1
+	Query: "Neotoma micropus" ; Times: 2
+	Query: "Cygnus olor" ; Times: 1
+	Query: "(didelphis) institutioncode:ROM" ; Times: 1
+	Query: "Mustela nigripes" ; Times: 1
+	Query: "crotalus lepidus" ; Times: 2
+	Query: "vntype:specimen family:Otariidae basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "python regius" ; Times: 1
+	Query: "agkistrodon taylori" ; Times: 1
+	Query: "vntype:specimen specificepithet:sialis genus:Sialia institutioncode:ROM" ; Times: 1
+	Query: "Ceratophrys" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "Bassariscus" ; Times: 1
+	Query: "specificepithet:rufus genus:Canis basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen family:Odobenidae basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Pterois volitans" ; Times: 1
+	Query: "specificepithet:fulvescens genus:Reithrodontomys country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Kinixys vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:turcicus genus:Hemidactylus country:&#34;USA&#34;" ; Times: 1
+	Query: "genus:Carollia country:&#34;Mexico&#34;" ; Times: 1
+	Query: "aplodontia rufa" ; Times: 3
+	Query: "Leopardus colocolo" ; Times: 2
+	Query: "vntype:specimen specificepithet:lutris genus:Enhydra basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "phrynosoma cornutum" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "genus:Reithrodontomys country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Artibeus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:ustulatus genus:catharus institutioncode:ROM" ; Times: 1
+	Query: "genus:Chinchilla order:Rodentia class:Mammalia" ; Times: 1
+	Query: "vntype:specimen family:Manidae basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:lituratus genus:Artibeus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "vntype:specimen genus:toxostoma institutioncode:ROM" ; Times: 1
+	Query: "Hippopotamus amphibius" ; Times: 1
+	Query: "specificepithet:subrufa genus:Carollia country:&#34;Mexico&#34;" ; Times: 1
+	Query: "plestiodon laticeps" ; Times: 1
+	Query: "vntype:specimen specificepithet:maritimus genus:Ursus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "crotalus pricei" ; Times: 1
+	Query: "class:Mammalia Didelphis marsupialis" ; Times: 1
+	Query: "Talpa" ; Times: 1
+	Query: "specificepithet:alnorum genus:empidonax country:&#34;Canada&#34;" ; Times: 1
+	Query: "specificepithet:phaeotis genus:Artibeus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:melanophrys genus:Peromyscus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "family:Soricidae country:&#34;USA&#34;" ; Times: 1
+	Query: "agkistrodon bilineatus taylori" ; Times: 1
+	Query: "gazella egypt" ; Times: 2
+	Query: "vntype:specimen specificepithet:minimus genus:catharus institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:jamaicensis genus:Artibeus country:&#34;Mexico&#34;" ; Times: 1
+
+
+End of report.
