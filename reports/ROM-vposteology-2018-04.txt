@@ -1,0 +1,315 @@
+Report for Institution Code ROM, Resource vposteology
+Usage stats for April 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 160
+Number of records retrieved in searches: 447
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 30
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 6
+	Country: France ; Times: 20
+	Country: United States ; Times: 95
+	Country: Germany ; Times: 1
+	Country: Belgium ; Times: 2
+	Country: Argentina ; Times: 1
+	Country: Venezuela ; Times: 2
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-29 ; Times: 5
+	Date: 2018-04-28 ; Times: 1
+	Date: 2018-04-23 ; Times: 4
+	Date: 2018-04-22 ; Times: 5
+	Date: 2018-04-21 ; Times: 1
+	Date: 2018-04-20 ; Times: 2
+	Date: 2018-04-27 ; Times: 9
+	Date: 2018-04-26 ; Times: 9
+	Date: 2018-04-25 ; Times: 4
+	Date: 2018-04-01 ; Times: 9
+	Date: 2018-04-03 ; Times: 12
+	Date: 2018-04-02 ; Times: 3
+	Date: 2018-04-05 ; Times: 7
+	Date: 2018-04-04 ; Times: 5
+	Date: 2018-04-07 ; Times: 2
+	Date: 2018-04-06 ; Times: 1
+	Date: 2018-04-09 ; Times: 14
+	Date: 2018-04-08 ; Times: 4
+	Date: 2018-04-12 ; Times: 13
+	Date: 2018-04-13 ; Times: 3
+	Date: 2018-04-10 ; Times: 3
+	Date: 2018-04-11 ; Times: 1
+	Date: 2018-04-16 ; Times: 1
+	Date: 2018-04-17 ; Times: 9
+	Date: 2018-04-14 ; Times: 3
+	Date: 2018-04-15 ; Times: 2
+	Date: 2018-04-18 ; Times: 12
+	Date: 2018-04-19 ; Times: 16
+
+List of queries that retrieved data from the resource: 
+	Query: "mirounga angustirostris" ; Times: 1
+	Query: "Siniperca chuatsi" ; Times: 1
+	Query: "Lampropeltis triangulum syspila" ; Times: 1
+	Query: "specificepithet:leibii genus:Myotis institutioncode:ROM" ; Times: 1
+	Query: "genus:Agkistrodon country:&#34;Mexico&#34;" ; Times: 2
+	Query: "specificepithet:nippon genus:Cervus" ; Times: 1
+	Query: "family:Pythonidae preparations:skeleton" ; Times: 1
+	Query: "specificepithet:lincolnii stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:komodoensis genus:Varanus preparations:skeleton" ; Times: 1
+	Query: "specificepithet:excubitor genus:Lanius class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:columbianus genus:Cygnus class:Aves institutioncode:ROM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Eutamias" ; Times: 3
+	Query: "specificepithet:savannarum class:Aves county:&#34;Toronto&#34; stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:calyptratus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:procyonoides genus:Nyctereutes year &gt;= 1981 year &lt;= 2000" ; Times: 1
+	Query: "specificepithet:canadensis genus:Branta class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America institutioncode:ROM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:adamanteus genus:Crotalus preparations:skeleton" ; Times: 2
+	Query: "specificepithet:alnorum genus:Empidonax class:Aves county:&#34;Toronto&#34; stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "axis axis cervidae" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Guayas&#34; country:&#34;Ecuador&#34; AND (NOT MCZ NOT USNM NOT KU NOT AMNH) institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:buccinator genus:Cygnus class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:alterna genus:Lampropeltis" ; Times: 2
+	Query: "county:&#34;Chesterfield&#34; (Amphibia AND &#34;South Carolina&#34; AND Chesterfield)" ; Times: 1
+	Query: "specificepithet:aura genus:Cathartes class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Glyptemys sex:male OR female" ; Times: 1
+	Query: "genus:glyptemys sex:male OR female" ; Times: 1
+	Query: "specificepithet:cooperi genus:Contopus class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Guayas&#34; country:&#34;Ecuador&#34; institutioncode:ROM" ; Times: 1
+	Query: "colinus vntype:specimen country:&#34;Canada&#34; institutioncode:ROM" ; Times: 3
+	Query: "Chelonoidis carbonarius" ; Times: 1
+	Query: "specificepithet:peregrina class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "lampropeltis pyromelana" ; Times: 1
+	Query: "specificepithet:noctivagans genus:lasionycteris continent:North America month &gt;= 1 month &lt;= 3" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Caprimulgus class:Aves institutioncode:ROM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen class:Amphibia county:&#34;Chesterfield&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:hyemalis genus:Junco class:Aves county:&#34;Toronto&#34; stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:flavifrons genus:Vireo class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Sebastes hopkinsi" ; Times: 1
+	Query: "vntype:specimen genus:Chelonoidis nigra basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Atropoides country:&#34;Mexico&#34;" ; Times: 1
+	Query: "sceloporus variabilis skeleton" ; Times: 1
+	Query: "specificepithet:rubra genus:Piranga class:Aves institutioncode:ROM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Petrosaurus sex:male OR female" ; Times: 1
+	Query: "country:Ecuador scientificname:Dasyprocta fuliginosa " ; Times: 2
+	Query: "leiocephalus skeleton" ; Times: 5
+	Query: "specificepithet:funereus institutioncode:ROM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:ruficapilla class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:virens genus:Dendroica class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:alnorum genus:Empidonax class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America institutioncode:ROM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:funereus genus:Aegolius class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:nachtriebi genus:Margariscus" ; Times: 1
+	Query: "monachus tropicalis" ; Times: 1
+	Query: "specificepithet:columbianus genus:Cygnus class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "neusticurus rudis" ; Times: 7
+	Query: "genus:Chamaeleo preparations:skeleton" ; Times: 7
+	Query: "genus:Lithobates country:&#34;USA&#34;" ; Times: 1
+	Query: "genus:sistrurus stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "specificepithet:carolinus genus:Melanerpes class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:porosus genus:Crocodylus preparations:skeleton" ; Times: 2
+	Query: "amazona festiva" ; Times: 2
+	Query: "family:Crotalidae stateprovince:&#34;Arizona&#34; (canyon)" ; Times: 1
+	Query: "specificepithet:celata class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:emydoidea sex:male OR female" ; Times: 1
+	Query: "specificepithet:erythrorhynchos genus:Pelecanus institutioncode:ROM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "desmodus stateprovince:&#34;nuevo leon&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "specificepithet:traillii genus:Empidonax class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America institutioncode:ROM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "lasionycteris month &gt;= 1 month &lt;= 2" ; Times: 1
+	Query: "Chelonoidis nigra" ; Times: 2
+	Query: "specificepithet:borealis genus:lasiurus continent:North America month &gt;= 1 month &lt;= 3" ; Times: 1
+	Query: "genus:alligator sex:male OR female" ; Times: 1
+	Query: "lasionycteris year &gt;= 1977 year &lt;= 2016 month &gt;= 1 month &lt;= 2" ; Times: 3
+	Query: "lasionycteris year &gt;= 1977 year &lt;= 2016 month &gt;= 12" ; Times: 4
+	Query: "specificepithet:ustulatus genus:Catharus class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "genus:Lichanura sex:male OR female" ; Times: 2
+	Query: "lampropeltis triangulum celaenops" ; Times: 1
+	Query: "Zaedyus pichiy" ; Times: 22
+	Query: "specificepithet:agilis genus:Oporornis class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Pelecanus preparations:skeleton" ; Times: 3
+	Query: "specificepithet:Couperi genus:Drymarchon" ; Times: 12
+	Query: "genus:Alligator sex:male OR female" ; Times: 3
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 5
+	Query: "specificepithet:savannarum genus:Ammodramus class:Aves county:&#34;Toronto&#34; stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Guayas&#34; country:&#34;Ecuador&#34; AND (NOT MCZ NOT USNM NOT KU NOT AMNH)" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 153 (out of 1359 download events in this period)
+Total number of records downloaded: 1513
+Number of different countries: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 21
+	Country: Colombia ; Times: 3
+	Country: Mexico ; Times: 8
+	Country: Unknown ; Times: 1
+	Country: Finland ; Times: 1
+	Country: India ; Times: 1
+	Country: United States ; Times: 103
+	Country: Germany ; Times: 2
+	Country: Chile ; Times: 2
+	Country: Argentina ; Times: 7
+	Country: New Zealand ; Times: 1
+	Country: Spain ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-29 ; Times: 4
+	Date: 2018-04-28 ; Times: 1
+	Date: 2018-04-23 ; Times: 19
+	Date: 2018-04-22 ; Times: 17
+	Date: 2018-04-21 ; Times: 1
+	Date: 2018-04-20 ; Times: 15
+	Date: 2018-04-27 ; Times: 2
+	Date: 2018-04-26 ; Times: 3
+	Date: 2018-04-25 ; Times: 4
+	Date: 2018-04-24 ; Times: 17
+	Date: 2018-04-03 ; Times: 10
+	Date: 2018-04-02 ; Times: 1
+	Date: 2018-04-05 ; Times: 6
+	Date: 2018-04-04 ; Times: 2
+	Date: 2018-04-06 ; Times: 3
+	Date: 2018-04-09 ; Times: 6
+	Date: 2018-04-16 ; Times: 2
+	Date: 2018-04-12 ; Times: 7
+	Date: 2018-04-13 ; Times: 2
+	Date: 2018-04-10 ; Times: 13
+	Date: 2018-04-30 ; Times: 2
+	Date: 2018-04-17 ; Times: 7
+	Date: 2018-04-15 ; Times: 1
+	Date: 2018-04-18 ; Times: 3
+	Date: 2018-04-19 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:sternotherus sex:male OR female" ; Times: 1
+	Query: "oncorhynchus kisutch" ; Times: 1
+	Query: "heloderma" ; Times: 2
+	Query: "Anaxyrus punctatus" ; Times: 1
+	Query: "family:Tenrecidae" ; Times: 1
+	Query: "Esox lucius" ; Times: 1
+	Query: "genus:Crotaphytus sex:Male OR Female" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 1
+	Query: "genus:Sonora sex:male OR female" ; Times: 2
+	Query: "Spheniscidae" ; Times: 2
+	Query: "genus:crotalus sex:male OR female" ; Times: 1
+	Query: "Puma yagouaroundi" ; Times: 1
+	Query: "Hyla cinerea" ; Times: 1
+	Query: "genus:Farancia sex:male OR female" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "genus:Ophisaurus sex:male OR female" ; Times: 1
+	Query: "specificepithet:canadensis genus:Castor" ; Times: 2
+	Query: "genus:pituophis sex:male OR female" ; Times: 1
+	Query: "Anaxyrus speciosus" ; Times: 1
+	Query: "oncorhynchus tshawytscha" ; Times: 1
+	Query: "Meleagris gallopavo" ; Times: 1
+	Query: "Poecilia reticulata" ; Times: 1
+	Query: "protonotaria citrea" ; Times: 1
+	Query: "genus:Pantherophis sex:male OR female" ; Times: 2
+	Query: "genus:tantilla sex:male OR female" ; Times: 2
+	Query: "lasionycteris year &gt;= 1977 year &lt;= 2016 month &gt;= 12" ; Times: 2
+	Query: "genus:anniella stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:acutipennis genus:Chordeiles" ; Times: 1
+	Query: "Clarias batrachus" ; Times: 1
+	Query: "family:Crotalidae stateprovince:&#34;Arizona&#34; (canyon)" ; Times: 1
+	Query: "genus:Phrynosoma sex:Male OR Female" ; Times: 1
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "genus:thamnophis sex:male OR female" ; Times: 1
+	Query: "genus:Callisaurus sex:male OR female" ; Times: 3
+	Query: "Salvelinus namaycush" ; Times: 2
+	Query: "Bubo scandiacus" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "Pylodictis olivaris" ; Times: 2
+	Query: "Coragyps atratus" ; Times: 1
+	Query: "genus:Pseudemys sex:male OR female" ; Times: 2
+	Query: "genus:holbrookia sex:male OR female" ; Times: 1
+	Query: "spea hammondi" ; Times: 1
+	Query: "genus:Trachemys sex:male OR female" ; Times: 1
+	Query: "genus:Graptemys sex:male OR female" ; Times: 1
+	Query: "Terrapene ornata" ; Times: 1
+	Query: "oryctolagus" ; Times: 1
+	Query: "Protonotaria citrea" ; Times: 2
+	Query: "oncorhynchus nerka" ; Times: 1
+	Query: "genus:Hypsiglena sex:male OR female" ; Times: 1
+	Query: "specificepithet:leucopus genus:peromyscus" ; Times: 1
+	Query: "genus:Apalone sex:male OR female" ; Times: 1
+	Query: "bothrops atrox" ; Times: 2
+	Query: "genus:sistrurus sex:male OR female" ; Times: 1
+	Query: "genus:Sternotherus sex:male OR female" ; Times: 1
+	Query: "genus:Uta sex:male OR female" ; Times: 1
+	Query: "Osteopilus septentrionalis" ; Times: 1
+	Query: "uromastyx" ; Times: 1
+	Query: "genus:mus country:&#34;canada&#34;" ; Times: 1
+	Query: "agouti paca" ; Times: 1
+	Query: "genus:alligator sex:male OR female" ; Times: 1
+	Query: "genus:chrysemys sex:male OR female" ; Times: 2
+	Query: "panthera tigris" ; Times: 1
+	Query: "Pterygoplichthys pardalis" ; Times: 1
+	Query: "genus:diadophis sex:male OR female" ; Times: 1
+	Query: "genus:Heterodon sex:Male OR Female" ; Times: 1
+	Query: "genus:Alligator sex:male OR female" ; Times: 1
+	Query: "thylacinus" ; Times: 1
+	Query: "lepus europaeus" ; Times: 1
+	Query: "genus:lampropeltis sex:male OR female" ; Times: 1
+	Query: "Ctenopharyngodon idella" ; Times: 1
+	Query: "genus:storeria sex:male OR female" ; Times: 1
+	Query: "genus:Regina sex:male OR female" ; Times: 1
+	Query: "genus:Micrurus sex:male OR female" ; Times: 1
+	Query: "genus:Kinosternon sex:male OR female" ; Times: 1
+	Query: "genus:Lasiurus" ; Times: 1
+	Query: "salvelinus namaycush" ; Times: 1
+	Query: "specificepithet:adamanteus genus:Crotalus" ; Times: 1
+	Query: "Hyla chrysoscelis" ; Times: 1
+	Query: "Cichla ocellaris" ; Times: 1
+	Query: "genus:Lampropeltis sex:male OR female" ; Times: 1
+	Query: "bothrops asper" ; Times: 1
+	Query: "Salvelinus fontinalis" ; Times: 1
+	Query: "Cyprinus carpio" ; Times: 1
+	Query: "Ameiurus nebulosus" ; Times: 1
+	Query: "Phoxinus phoxinus" ; Times: 1
+	Query: "Spea bombifrons" ; Times: 1
+	Query: "genus:masticophis sex:male OR female" ; Times: 1
+	Query: "Carassius auratus" ; Times: 1
+	Query: "oncorhynchus mykiss" ; Times: 1
+	Query: "genus:Aspidoscelis sex:male OR female" ; Times: 3
+	Query: "genus:anolis sex:male OR female" ; Times: 1
+	Query: "specificepithet:brasiliensis genus:tadarida country:&#34;Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "family:Colubridae stateprovince:&#34;California&#34; (canyon)" ; Times: 1
+	Query: "Lates niloticus" ; Times: 1
+	Query: "genus:emydoidea sex:male OR female" ; Times: 1
+	Query: "genus:malaclemys sex:male OR female" ; Times: 1
+	Query: "lasionycteris year &gt;= 1977 year &lt;= 2016 month &gt;= 1 month &lt;= 2" ; Times: 2
+	Query: "genus:opheodrys sex:male OR female" ; Times: 1
+	Query: "(salvelinus fontinalis)" ; Times: 1
+	Query: "genus:Crotalus sex:Male OR Female" ; Times: 1
+	Query: "genus:gopherus sex:male OR female" ; Times: 1
+	Query: "genus:heloderma sex:male OR female" ; Times: 1
+	Query: "genus:terrapene sex:male OR female" ; Times: 1
+	Query: "Gastrophryne olivacea" ; Times: 1
+	Query: "genus:Opheodrys sex:male OR female" ; Times: 2
+	Query: "genus:Chelydra sex:male OR female" ; Times: 1
+	Query: "specificepithet:adamanteus genus:Crotalus preparations:skeleton" ; Times: 2
+	Query: "Anaxyrus debilis" ; Times: 1
+	Query: "salmo salar" ; Times: 1
+	Query: "genus:apalone sex:male OR female" ; Times: 2
+	Query: "genus:Coluber sex:male OR female" ; Times: 1
+	Query: "genus:Scincella sex:male OR female" ; Times: 3
+	Query: "amia calva" ; Times: 1
+	Query: "genus:Sauromalus sex:Male OR Female" ; Times: 1
+	Query: "genus:Anolis sex:male OR female" ; Times: 1
+	Query: "Oreochromis niloticus" ; Times: 1
+	Query: "Monopterus albus" ; Times: 1
+	Query: "Anaxyrus woodhousii" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "genus:Sceloporus sex:male OR female" ; Times: 1
+	Query: "Rhinella marina" ; Times: 2
+	Query: "Progne subis" ; Times: 1
+	Query: "genus:callisaurus sex:male OR female" ; Times: 1
+	Query: "order:Rodentia county:&#34;Kern&#34;" ; Times: 1
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "genus:drymarchon sex:male OR female" ; Times: 1
+	Query: "genus:Deirochelys sex:male OR female" ; Times: 1
+	Query: "genus:agkistrodon sex:male OR female" ; Times: 2
+
+
+End of report.
