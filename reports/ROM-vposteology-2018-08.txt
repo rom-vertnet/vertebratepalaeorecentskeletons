@@ -1,0 +1,270 @@
+Report for Institution Code ROM, Resource vposteology
+Usage stats for August 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 95
+Number of records retrieved in searches: 209
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Mexico ; Times: 14
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 64
+	Country: Sweden ; Times: 4
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Russia ; Times: 2
+	Country: Spain ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-30 ; Times: 1
+	Date: 2018-08-31 ; Times: 8
+	Date: 2018-08-09 ; Times: 2
+	Date: 2018-08-14 ; Times: 2
+	Date: 2018-08-15 ; Times: 4
+	Date: 2018-08-12 ; Times: 1
+	Date: 2018-08-10 ; Times: 3
+	Date: 2018-08-11 ; Times: 1
+	Date: 2018-08-03 ; Times: 1
+	Date: 2018-08-17 ; Times: 6
+	Date: 2018-08-22 ; Times: 11
+	Date: 2018-08-27 ; Times: 13
+	Date: 2018-08-26 ; Times: 3
+	Date: 2018-08-25 ; Times: 1
+	Date: 2018-08-24 ; Times: 8
+	Date: 2018-08-23 ; Times: 1
+	Date: 2018-08-08 ; Times: 6
+	Date: 2018-08-21 ; Times: 1
+	Date: 2018-08-20 ; Times: 6
+	Date: 2018-08-05 ; Times: 1
+	Date: 2018-08-04 ; Times: 3
+	Date: 2018-08-07 ; Times: 3
+	Date: 2018-08-01 ; Times: 3
+	Date: 2018-08-29 ; Times: 5
+	Date: 2018-08-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "latimeria vntype:specimen" ; Times: 2
+	Query: "Balistes capriscus" ; Times: 2
+	Query: "Sphenodon" ; Times: 2
+	Query: "Xanthichthys auromarginatus" ; Times: 1
+	Query: "latimeria" ; Times: 2
+	Query: "Centropomus undecimalis" ; Times: 3
+	Query: "Agkistrodon bilineatus" ; Times: 1
+	Query: "Agkistrodon taylori" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Guerrero&#34; country:&#34;Mexico&#34; institutioncode:ROM" ; Times: 2
+	Query: "genus:Dispholidus specificepithet:typus" ; Times: 4
+	Query: "Bothrops ammodytoides" ; Times: 1
+	Query: "Melichthys vidua" ; Times: 1
+	Query: "genus:zaedyus preparations:skeleton" ; Times: 2
+	Query: "Agkistrodon piscivorus conanti stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Balistoides conspicillum" ; Times: 1
+	Query: "Crotalus Willardi meridionalis" ; Times: 1
+	Query: "genus:Pituophis institutioncode:ROM" ; Times: 1
+	Query: "Rhinecanthus aculeatus aculeatus" ; Times: 1
+	Query: "Rhinecanthus rectangulus" ; Times: 1
+	Query: "Crotalus vegrandis" ; Times: 2
+	Query: "specificepithet:maurus genus:Epicrates" ; Times: 1
+	Query: "Agkistrodon piscivorus conanti stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "Testudo graeca" ; Times: 1
+	Query: "Colossoma macropomum" ; Times: 1
+	Query: "catalognumber:9519 institutioncode:ROM" ; Times: 1
+	Query: "otopharynx lithobates" ; Times: 1
+	Query: "country:Ecuador scientificname:Potos flavus " ; Times: 3
+	Query: "specificepithet:willardi genus:Crotalus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Agkistrodon piscivorus conanti county:&#34;Hernando&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Dasyprocta fuliginosa " ; Times: 2
+	Query: "Atropoides nummifer" ; Times: 1
+	Query: "Balistes vetula" ; Times: 1
+	Query: "genus:Glyptemys sex:male OR female" ; Times: 1
+	Query: "genus:Eutamias specificepithet:minimus" ; Times: 4
+	Query: "specificepithet:ruber genus:Sphyrapicus country:&#34;Canada&#34;" ; Times: 1
+	Query: "Canthidermis sufflamen" ; Times: 1
+	Query: "Canis rufus" ; Times: 1
+	Query: "lampropeltis triangulum celaenops" ; Times: 2
+	Query: "Channa micropeltes" ; Times: 2
+	Query: "specificepithet:triangulum genus:Lampropeltis year &gt;= 2000 year &lt;= 2018" ; Times: 2
+	Query: "&#34;Rhinecanthus aculeatus&#34;" ; Times: 1
+	Query: "specificepithet:marmorata genus:Actinemys hassex:1" ; Times: 1
+	Query: "genus:Cairina specificepithet: moschata" ; Times: 3
+	Query: "Balistoides niger" ; Times: 1
+	Query: "tamandua mexicana" ; Times: 6
+	Query: "country:Ecuador scientificname:Eira barbara " ; Times: 4
+	Query: "Varanus salvator" ; Times: 1
+	Query: "&#34;Channa micropeltes&#34;" ; Times: 1
+	Query: "Rhinecanthus aculeatus" ; Times: 1
+	Query: "Barisia imbricata" ; Times: 2
+	Query: "Gopherus berlandieri" ; Times: 5
+	Query: "Lampropeltis triangulum celaenops" ; Times: 1
+	Query: "specificepithet:catenatus genus:Sistrurus year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "genus:Epinephelus specificepithet:nigritus" ; Times: 3
+	Query: "Ocyurus chrysurus" ; Times: 1
+	Query: "specificepithet:savannarum genus:Ammodramus class:Aves county:&#34;Toronto&#34; stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 126 (out of 1416 download events in this period)
+Total number of records downloaded: 1206
+Number of different countries: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Mexico ; Times: 38
+	Country: Indonesia ; Times: 1
+	Country: United States ; Times: 30
+	Country: Malaysia ; Times: 1
+	Country: Germany ; Times: 2
+	Country: United Kingdom ; Times: 3
+	Country: Peru ; Times: 2
+	Country: Colombia ; Times: 9
+	Country: Spain ; Times: 34
+	Country: Bulgaria ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-30 ; Times: 1
+	Date: 2018-08-31 ; Times: 1
+	Date: 2018-08-19 ; Times: 4
+	Date: 2018-08-16 ; Times: 2
+	Date: 2018-08-09 ; Times: 21
+	Date: 2018-08-14 ; Times: 7
+	Date: 2018-08-15 ; Times: 9
+	Date: 2018-08-13 ; Times: 1
+	Date: 2018-08-10 ; Times: 11
+	Date: 2018-08-08 ; Times: 10
+	Date: 2018-08-03 ; Times: 2
+	Date: 2018-08-17 ; Times: 2
+	Date: 2018-08-06 ; Times: 1
+	Date: 2018-08-27 ; Times: 1
+	Date: 2018-08-26 ; Times: 1
+	Date: 2018-08-25 ; Times: 4
+	Date: 2018-08-24 ; Times: 9
+	Date: 2018-08-23 ; Times: 9
+	Date: 2018-08-22 ; Times: 5
+	Date: 2018-08-21 ; Times: 4
+	Date: 2018-08-20 ; Times: 5
+	Date: 2018-08-07 ; Times: 8
+	Date: 2018-08-11 ; Times: 1
+	Date: 2018-08-01 ; Times: 4
+	Date: 2018-08-29 ; Times: 1
+	Date: 2018-08-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:pricei genus:Crotalus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Crotalus lepidus" ; Times: 1
+	Query: "&#34;Rhinecanthus aculeatus&#34;" ; Times: 1
+	Query: "Hemidactylus mabouia" ; Times: 1
+	Query: "leopardus wiedii" ; Times: 1
+	Query: "Buteo swainsoni" ; Times: 1
+	Query: "genus:Coluber OR Masticophis sex:male OR female" ; Times: 1
+	Query: "genus:Sonora sex:male OR female" ; Times: 1
+	Query: "Bothrops asper" ; Times: 1
+	Query: "Hemidactylus turcicus turcicus" ; Times: 1
+	Query: "Bothrops ammodytoides" ; Times: 1
+	Query: "Agkistrodon conanti" ; Times: 1
+	Query: "Epicrates cenchria" ; Times: 1
+	Query: "Atropoides mexicanus" ; Times: 1
+	Query: "Pseudemys concinna" ; Times: 1
+	Query: "Crotalus vegrandis" ; Times: 1
+	Query: "colinus institutioncode:ROM" ; Times: 1
+	Query: "Agkistrodon piscivorus" ; Times: 1
+	Query: "panthera" ; Times: 1
+	Query: "puma concolor" ; Times: 4
+	Query: "gambelia" ; Times: 1
+	Query: "genus:Emydoidea OR Emys sex:male OR female" ; Times: 1
+	Query: "Bothrops leucurus" ; Times: 1
+	Query: "Euphagus cyanocephalus" ; Times: 1
+	Query: "Crotalus atrox" ; Times: 1
+	Query: "Sceloporus torquatus torquatus" ; Times: 1
+	Query: "Sistrurus tergeminus" ; Times: 1
+	Query: "Sistrurus miliarius" ; Times: 1
+	Query: "Crotalus adamanteus" ; Times: 1
+	Query: "Bothrops neuwiedi" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "emydoidea blandingii" ; Times: 2
+	Query: "genus:Leiolopisma OR Scincella sex:male OR female" ; Times: 1
+	Query: "rhinella marina" ; Times: 1
+	Query: "oaxaca" ; Times: 1
+	Query: "Crotalus durissus" ; Times: 1
+	Query: "genus:Pantherophis OR Elaphe sex:male OR female" ; Times: 1
+	Query: "Trachemys scripta" ; Times: 1
+	Query: "Sistrurus catenatus" ; Times: 1
+	Query: "hELODERMA" ; Times: 1
+	Query: "specificepithet:suspectum genus:Heloderma sex:male OR female" ; Times: 1
+	Query: "genus:madatyphlops OR typhlops" ; Times: 1
+	Query: "locality:Medicine Hat collectioncode:Vertebrate Palaeontology institutioncode:ROM" ; Times: 1
+	Query: "Sceloporus spinosus spinosus" ; Times: 1
+	Query: "saimiri sciureus" ; Times: 1
+	Query: "Puma yagouaroundi" ; Times: 1
+	Query: "Pelamis" ; Times: 1
+	Query: "Astronotus ocellatus" ; Times: 1
+	Query: "Crotalus viridis" ; Times: 1
+	Query: "Atropoides nummifer" ; Times: 1
+	Query: "Crotalus cerberus" ; Times: 1
+	Query: "Heloderma horridum" ; Times: 3
+	Query: "sistrurus" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "bradypus tridactylus" ; Times: 2
+	Query: "genus:Gopherus sex:male OR female" ; Times: 1
+	Query: "genus:Lichanura OR Charina sex:male OR female" ; Times: 1
+	Query: "order:Chiroptera country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Crotalus oreganus" ; Times: 1
+	Query: "Circus cyaneus" ; Times: 1
+	Query: "&#34;Channa micropeltes&#34;" ; Times: 1
+	Query: "Gopherus berlandieri" ; Times: 1
+	Query: "Bothriechis schlegelii" ; Times: 2
+	Query: "genus:Opheodrys OR Liochlorophis sex:male OR female" ; Times: 1
+	Query: "felis catus" ; Times: 1
+	Query: "genus:Cnemidophorus OR Aspidoscelis sex:male OR female" ; Times: 1
+	Query: "genus:Rhineura" ; Times: 1
+	Query: "alvarius" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 1
+	Query: "Agkistrodon contortrix" ; Times: 1
+	Query: "Sceloporus variabilis variabilis" ; Times: 1
+	Query: "Anisotremus virginicus" ; Times: 1
+	Query: "Agkistrodon laticinctus" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "Strix varia" ; Times: 1
+	Query: "specificepithet:turcicus genus:hemidactylus" ; Times: 1
+	Query: "Crotalus molossus" ; Times: 1
+	Query: "Crotalus ruber" ; Times: 1
+	Query: "genus:Sauromalus sex:male OR female" ; Times: 2
+	Query: "Sturnella neglecta" ; Times: 1
+	Query: "Saimiri sciureus" ; Times: 1
+	Query: "Passerculus sandwichensis" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "Bothrops atrox" ; Times: 1
+	Query: "Agkistrodon bilineatus" ; Times: 1
+	Query: "Crotalus scutulatus" ; Times: 1
+	Query: "Asio flammeus" ; Times: 5
+	Query: "Crotalus pricei" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "Falco sparverius" ; Times: 1
+	Query: "genus:Scincella sex:male OR female" ; Times: 1
+	Query: "genus:Apalone OR Trionyx sex:male OR female" ; Times: 1
+	Query: "Crotalus cerastes" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 2
+	Query: "Colossoma macropomum" ; Times: 1
+	Query: "family:Colubridae" ; Times: 2
+	Query: "Anolis sagrei" ; Times: 1
+	Query: "sistrurus tergeminus" ; Times: 1
+	Query: "Crotalus willardi" ; Times: 1
+	Query: "Ammodramus savannarum" ; Times: 1
+	Query: "Hydrophis ornatus" ; Times: 1
+	Query: "Crotalus horridus" ; Times: 1
+	Query: "aquila chrysaetos" ; Times: 1
+	Query: "Bartramia longicauda" ; Times: 1
+	Query: "genus:Eumeces OR Plestiodon sex:male OR female" ; Times: 1
+	Query: "Heloderma" ; Times: 1
+	Query: "Basiliscus vittatus" ; Times: 1
+	Query: "Lachesis muta" ; Times: 1
+	Query: "Bothrops alternatus" ; Times: 1
+	Query: "Hydrochoerus hydrochaeris" ; Times: 1
+
+
+End of report.
