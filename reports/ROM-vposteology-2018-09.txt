@@ -1,0 +1,200 @@
+Report for Institution Code ROM, Resource vposteology
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 68
+Number of records retrieved in searches: 276
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 9
+	Country: Brazil ; Times: 6
+	Country: Mexico ; Times: 8
+	Country: Iceland ; Times: 3
+	Country: Sweden ; Times: 9
+	Country: United States ; Times: 27
+	Country: Austria ; Times: 1
+	Country: Germany ; Times: 4
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-24 ; Times: 4
+	Date: 2018-09-03 ; Times: 2
+	Date: 2018-09-27 ; Times: 2
+	Date: 2018-09-06 ; Times: 5
+	Date: 2018-09-21 ; Times: 3
+	Date: 2018-09-04 ; Times: 2
+	Date: 2018-09-05 ; Times: 5
+	Date: 2018-09-08 ; Times: 1
+	Date: 2018-09-28 ; Times: 2
+	Date: 2018-09-29 ; Times: 1
+	Date: 2018-09-30 ; Times: 3
+	Date: 2018-09-11 ; Times: 3
+	Date: 2018-09-10 ; Times: 2
+	Date: 2018-09-13 ; Times: 5
+	Date: 2018-09-12 ; Times: 5
+	Date: 2018-09-14 ; Times: 1
+	Date: 2018-09-17 ; Times: 1
+	Date: 2018-09-16 ; Times: 7
+	Date: 2018-09-19 ; Times: 2
+	Date: 2018-09-18 ; Times: 1
+	Date: 2018-09-02 ; Times: 3
+	Date: 2018-09-01 ; Times: 3
+	Date: 2018-09-20 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:1157 &#34;marmota monax&#34;" ; Times: 1
+	Query: "Agkistrodon county:&#34;Berkeley&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Dispholidus typus" ; Times: 1
+	Query: "Agkistrodon himalayanus" ; Times: 2
+	Query: "specificepithet:nigripes genus:Mustela" ; Times: 3
+	Query: "cryptoprocta" ; Times: 1
+	Query: "catalognumber:1678 institutioncode:ROM" ; Times: 1
+	Query: "Centropomus undecimalis" ; Times: 1
+	Query: "country:Ecuador scientificname:Eira barbara " ; Times: 1
+	Query: "Drymarchon florida" ; Times: 1
+	Query: "genus:Dispholidus specificepithet:typus" ; Times: 1
+	Query: "specificepithet:Simus genus:Heterodon stateprovince:&#34;South Carolina&#34; country:&#34;USA&#34;" ; Times: 1
+	Query: "gerrhonotus skeleton" ; Times: 1
+	Query: "skeleton vntype:specimen genus:Alosa" ; Times: 1
+	Query: "specificepithet:serripennis class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:Willardi genus:Crotalus stateprovince:&#34;Arizona&#34;" ; Times: 3
+	Query: "Polyodon spathula" ; Times: 1
+	Query: "Vipera vntype:specimen country:&#34;Russia&#34;" ; Times: 1
+	Query: "Ctenopharyngodon idella" ; Times: 1
+	Query: "Agkistrodon county:&#34;Barnwell&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Pavo cristatus" ; Times: 2
+	Query: "catalognumber:5472 institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:serripennis genus:Stelgidopteryx class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Lampropeltis triangulum annulata" ; Times: 1
+	Query: "family:colubridae preparations:skeleton institutioncode:ROM" ; Times: 1
+	Query: "genus:Agkistrodon county:&#34;Berkeley&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Acipenser transmontanus" ; Times: 1
+	Query: "Atropoides nummifer" ; Times: 1
+	Query: "family:Xenodontidae" ; Times: 1
+	Query: "genus:Agkistrodon county:&#34;Aiken&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:Eutamias specificepithet:minimus" ; Times: 1
+	Query: "Coragyps atratus preparations:skeleton" ; Times: 1
+	Query: "genus:Cairina specificepithet: moschata" ; Times: 1
+	Query: "genus:Epinephelus specificepithet:nigritus" ; Times: 1
+	Query: "Rhacodactylus ciliatus" ; Times: 1
+	Query: "Poecilia reticulata" ; Times: 1
+	Query: "torpedo californica" ; Times: 1
+	Query: "catalognumber:5939 &#34;procyon lotor&#34;" ; Times: 1
+	Query: "catalognumber:5619 &#34;procyon lotor&#34;" ; Times: 1
+	Query: "Heterodon simus" ; Times: 1
+	Query: "Ocyurus chrysurus" ; Times: 2
+	Query: "boa constrictor belize" ; Times: 1
+	Query: "genus:Agkistrodon county:&#34;Barnwell&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:gerrhonotus preparations:skeleton" ; Times: 2
+	Query: "catalognumber:5981 &#34;marmota monax&#34;" ; Times: 1
+	Query: "Paleosuchus palpebrosus" ; Times: 4
+	Query: "Crotalus cerberus" ; Times: 1
+	Query: "Agkistrodon county:&#34;Aiken&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:tigris genus:Panthera institutioncode:ROM" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 5
+	Query: "Saimiri sciureus" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 72 (out of 846 download events in this period)
+Total number of records downloaded: 495
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 30
+	Country: Indonesia ; Times: 2
+	Country: United States ; Times: 31
+	Country: Germany ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-11 ; Times: 2
+	Date: 2018-09-30 ; Times: 1
+	Date: 2018-09-22 ; Times: 2
+	Date: 2018-09-14 ; Times: 1
+	Date: 2018-09-10 ; Times: 1
+	Date: 2018-09-27 ; Times: 2
+	Date: 2018-09-05 ; Times: 1
+	Date: 2018-09-13 ; Times: 8
+	Date: 2018-09-24 ; Times: 2
+	Date: 2018-09-25 ; Times: 2
+	Date: 2018-09-26 ; Times: 1
+	Date: 2018-09-12 ; Times: 1
+	Date: 2018-09-06 ; Times: 2
+	Date: 2018-09-21 ; Times: 3
+	Date: 2018-09-17 ; Times: 10
+	Date: 2018-09-16 ; Times: 1
+	Date: 2018-09-19 ; Times: 5
+	Date: 2018-09-18 ; Times: 16
+	Date: 2018-09-28 ; Times: 3
+	Date: 2018-09-04 ; Times: 5
+	Date: 2018-09-07 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Mimus polyglottos" ; Times: 1
+	Query: "DRYOCOPUS PILEATUS" ; Times: 1
+	Query: "family:Dipsadidae" ; Times: 1
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: "Crotaphytus collaris" ; Times: 2
+	Query: "Holbrookia maculata" ; Times: 1
+	Query: "Zaglossus OR Tachyglossus" ; Times: 1
+	Query: "Bothrops asper" ; Times: 1
+	Query: "Ameiva undulata" ; Times: 2
+	Query: "county:&#34;pennington&#34; stateprovince:&#34;south dakota&#34;" ; Times: 1
+	Query: "Herpestes auropunctatus" ; Times: 1
+	Query: "vntype:specimen genus:vulpes year &gt;= 2000 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "passerculus sandwichensis" ; Times: 1
+	Query: "Sus scrofa" ; Times: 1
+	Query: "Dipsadidae" ; Times: 1
+	Query: "&#34;Salvelinus alpinus&#34;" ; Times: 1
+	Query: "specificepithet:mitchelli genus:Crotalus" ; Times: 1
+	Query: "Coleonyx variegatus" ; Times: 1
+	Query: "bothrops atrox" ; Times: 1
+	Query: "amphiuma tridactylum" ; Times: 4
+	Query: "Conophis lineatus" ; Times: 2
+	Query: "macrochelys temminckii" ; Times: 2
+	Query: "Melopsittacus" ; Times: 1
+	Query: "Lampropeltis triangulum annulata" ; Times: 1
+	Query: "terrapene carolina carolina" ; Times: 1
+	Query: "orcinus orca" ; Times: 1
+	Query: "Anniella pulchra" ; Times: 1
+	Query: "genus:canis preparations:skull institutioncode:ROM" ; Times: 1
+	Query: "Caluromys lanatus" ; Times: 1
+	Query: "Atropoides nummifer" ; Times: 1
+	Query: "eleutherodactylus" ; Times: 1
+	Query: "aplodontia rufa" ; Times: 1
+	Query: "Coragyps atratus preparations:skeleton" ; Times: 1
+	Query: "specificepithet:asio genus:Megascops basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Urosaurus ornatus" ; Times: 1
+	Query: "Petaurus breviceps" ; Times: 2
+	Query: "Ornithorhynchus" ; Times: 1
+	Query: "specificepithet:ruber genus:Crotalus" ; Times: 1
+	Query: "Uta stansburiana" ; Times: 1
+	Query: "sphyrapicus varius" ; Times: 1
+	Query: "Aquila chrysaetos preparations:skeleton" ; Times: 1
+	Query: "Chamaeleonidae" ; Times: 1
+	Query: "tamandua mexicana" ; Times: 3
+	Query: "Trachemys scripta elegans" ; Times: 2
+	Query: "didelphis virginiana" ; Times: 1
+	Query: "Phrynosoma platyrhinos" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "specificepithet:sirtalis genus:thamnophis" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 3
+	Query: "deirochelys" ; Times: 1
+	Query: "Pituophis catenifer sayi" ; Times: 1
+	Query: "Lachesis muta" ; Times: 1
+	Query: "buteo jamaicensis" ; Times: 1
+	Query: "Eleutherodactylus planirostris" ; Times: 1
+	Query: "didelphis marsupialis" ; Times: 2
+	Query: "glyptemys insculpta" ; Times: 1
+	Query: "class:Mammalia (baculum)" ; Times: 1
+	Query: "pseudorca crassidens" ; Times: 1
+
+
+End of report.
