@@ -1,0 +1,183 @@
+Report for Institution Code ROM, Resource vposteology
+Usage stats for July 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 110
+Number of records retrieved in searches: 256
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 6
+	Country: Unknown ; Times: 7
+	Country: United States ; Times: 88
+	Country: China ; Times: 2
+	Country: Peru ; Times: 2
+	Country: Russia ; Times: 4
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-07 ; Times: 1
+	Date: 2018-07-27 ; Times: 1
+	Date: 2018-07-02 ; Times: 6
+	Date: 2018-07-29 ; Times: 1
+	Date: 2018-07-08 ; Times: 2
+	Date: 2018-07-04 ; Times: 3
+	Date: 2018-07-05 ; Times: 4
+	Date: 2018-07-06 ; Times: 6
+	Date: 2018-07-21 ; Times: 2
+	Date: 2018-07-01 ; Times: 9
+	Date: 2018-07-24 ; Times: 2
+	Date: 2018-07-03 ; Times: 45
+	Date: 2018-07-12 ; Times: 1
+	Date: 2018-07-11 ; Times: 9
+	Date: 2018-07-10 ; Times: 1
+	Date: 2018-07-17 ; Times: 1
+	Date: 2018-07-16 ; Times: 2
+	Date: 2018-07-31 ; Times: 2
+	Date: 2018-07-30 ; Times: 6
+	Date: 2018-07-19 ; Times: 2
+	Date: 2018-07-18 ; Times: 1
+	Date: 2018-07-23 ; Times: 2
+	Date: 2018-07-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:cinereoargenteus genus:Urocyon AND (NOT captive NOT zoo) year &gt;= 1960 year &lt;= 1969 institutioncode:ROM" ; Times: 1
+	Query: "platysternon megacephalum" ; Times: 1
+	Query: "specificepithet:zerda genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil) year &gt;= 1990 year &lt;= 1999" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil ) year &gt;= 1970 year &lt;= 1979 institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis stateprovince:&#34;Ontario&#34;" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 5
+	Query: "Drymarchon florida" ; Times: 1
+	Query: "specificepithet:californica genus:myliobatis" ; Times: 3
+	Query: "Gadus morhua" ; Times: 1
+	Query: "specificepithet:velox genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil) year &gt;= 1990 year &lt;= 1999" ; Times: 1
+	Query: "Latimeria" ; Times: 2
+	Query: "genus:Myrmecophaga preparations:skeleton" ; Times: 1
+	Query: "genus:zaedyus preparations:skeleton" ; Times: 11
+	Query: "Mustela nigripes" ; Times: 1
+	Query: "genus:zaedyus preparations:skeleton institutioncode:ROM" ; Times: 1
+	Query: "Lutra canadensis" ; Times: 3
+	Query: "atropoides" ; Times: 3
+	Query: "Elephas maximus" ; Times: 1
+	Query: "Oregon vntype:specimen specificepithet:elaphus genus:Cervus" ; Times: 1
+	Query: "Cairina moschata" ; Times: 2
+	Query: "agkistrodon taylori" ; Times: 1
+	Query: "genus:Didelphis stateprovince:&#34;Ontario&#34; institutioncode:ROM" ; Times: 1
+	Query: "vntype:specimen specificepithet:lupus genus:Canis year &gt;= 1990 year &lt;= 1999 institutioncode:ROM" ; Times: 1
+	Query: "country:Ecuador scientificname:Potos flavus " ; Times: 1
+	Query: "specificepithet:willardi genus:Crotalus country:&#34;USA&#34;" ; Times: 1
+	Query: "specificepithet:procyonoides genus:Nyctereutes (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1980 year &lt;= 1989" ; Times: 1
+	Query: "country:Ecuador scientificname:Dasyprocta fuliginosa " ; Times: 2
+	Query: "Crotalus pricei" ; Times: 1
+	Query: "genus:chaetophractus preparations:skeleton" ; Times: 13
+	Query: "Conolophus" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil ) year &gt;= 1980 year &lt;= 1989 institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis year &gt;= 2000 year &lt;= 2009 institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil) year &gt;= 1990 year &lt;= 1999 institutioncode:ROM" ; Times: 1
+	Query: "vntype:specimen specificepithet:mesomelas genus:Canis family:Canidae (skull OR skeleton) institutioncode:ROM" ; Times: 1
+	Query: "Phrynosoma orbiculare" ; Times: 1
+	Query: "specificepithet:septemcinctus genus:dasypus preparations:skeleton" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil) year &gt;= 2000 year &lt;= 2009 institutioncode:ROM" ; Times: 1
+	Query: "priodontes" ; Times: 2
+	Query: "genus:chaetophractus preparations:skeleton institutioncode:ROM" ; Times: 1
+	Query: "genus:euphractus preparations:skeleton" ; Times: 16
+	Query: "specificepithet:velox genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil) year &gt;= 1990 year &lt;= 1999 institutioncode:ROM" ; Times: 1
+	Query: "genus:Crotalus stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "genus:euphractus preparations:skeleton institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis year &gt;= 1990 year &lt;= 1999 institutioncode:ROM" ; Times: 1
+	Query: "Oregon specificepithet:elaphus genus:Cervus" ; Times: 1
+	Query: "Panthera uncia" ; Times: 4
+	Query: "genus:Diadophis country:&#34;Canada&#34;" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis country:&#34;Canada&#34; year &gt;= 2010 year &lt;= 2018" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis year &gt;= 1960 year &lt;= 1969 institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:alterna genus:Lampropeltis country:&#34;USA&#34;" ; Times: 2
+	Query: "genus:Drymarchon country:&#34;USA&#34;" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis year &gt;= 2010 year &lt;= 2018 institutioncode:ROM" ; Times: 1
+	Query: "Channa micropeltes" ; Times: 2
+	Query: "genus:gerrhonotus stateprovince:&#34;texas&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 44 (out of 977 download events in this period)
+Total number of records downloaded: 329
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: Brazil ; Times: 3
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 3
+	Country: India ; Times: 1
+	Country: United States ; Times: 22
+	Country: Germany ; Times: 2
+	Country: United Kingdom ; Times: 4
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-13 ; Times: 6
+	Date: 2018-07-12 ; Times: 3
+	Date: 2018-07-11 ; Times: 2
+	Date: 2018-07-07 ; Times: 1
+	Date: 2018-07-08 ; Times: 1
+	Date: 2018-07-16 ; Times: 1
+	Date: 2018-07-14 ; Times: 1
+	Date: 2018-07-04 ; Times: 1
+	Date: 2018-07-05 ; Times: 1
+	Date: 2018-07-06 ; Times: 1
+	Date: 2018-07-18 ; Times: 1
+	Date: 2018-07-26 ; Times: 2
+	Date: 2018-07-01 ; Times: 1
+	Date: 2018-07-24 ; Times: 6
+	Date: 2018-07-21 ; Times: 1
+	Date: 2018-07-31 ; Times: 1
+	Date: 2018-07-30 ; Times: 4
+	Date: 2018-07-17 ; Times: 8
+	Date: 2018-07-20 ; Times: 1
+	Date: 2018-07-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "crotalus oreganus" ; Times: 1
+	Query: "platysternon megacephalum" ; Times: 1
+	Query: "kinixys" ; Times: 1
+	Query: "specificepithet:magna genus:Sturnella" ; Times: 1
+	Query: "crotalus molossus" ; Times: 1
+	Query: "vntype:specimen specificepithet:versicolor genus:Calotes country:&#34;India&#34;" ; Times: 1
+	Query: "pterodroma hasitata" ; Times: 2
+	Query: "leopardus wiedii" ; Times: 1
+	Query: "Hemidactylus turcicus" ; Times: 1
+	Query: "specificepithet:californica genus:myliobatis" ; Times: 1
+	Query: "specificepithet:pusilla genus:Spizella" ; Times: 1
+	Query: "Glossophaga soricina" ; Times: 1
+	Query: "Bartramia longicauda" ; Times: 1
+	Query: "specificepithet:lacertina genus:Siren" ; Times: 1
+	Query: "specificepithet:varia genus:strix" ; Times: 1
+	Query: "Pseudemys concinna" ; Times: 1
+	Query: "lithobates catesbeianus" ; Times: 1
+	Query: "vntype:specimen genus:amazona basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;SOUTH CAROLINA&#34; year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "specificepithet:bilineata genus:Amphispiza" ; Times: 1
+	Query: "Pterois volitans" ; Times: 1
+	Query: "kinixys belliana" ; Times: 1
+	Query: "Haemorhous purpureus" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;SOUTH CAROLINA&#34;" ; Times: 1
+	Query: "crotalus viridis" ; Times: 1
+	Query: "Pinicola enucleator" ; Times: 1
+	Query: "Santa Catarina" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:sialis genus:Sialia" ; Times: 1
+	Query: "Anoura" ; Times: 1
+	Query: "crotalus scutulatus" ; Times: 1
+	Query: "specificepithet:marina genus:Rhinella" ; Times: 1
+	Query: "specificepithet:turcicus genus:hemidactylus" ; Times: 1
+	Query: "tamandua mexicana" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "Oregon specificepithet:elaphus genus:Cervus" ; Times: 1
+	Query: "didelphis marsupialis" ; Times: 2
+	Query: "Scarus ghobban" ; Times: 1
+	Query: "Regulus calendula" ; Times: 1
+	Query: "Aberdeen" ; Times: 1
+	Query: "macrochelys" ; Times: 1
+
+
+End of report.
