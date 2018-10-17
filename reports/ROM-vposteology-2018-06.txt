@@ -1,0 +1,232 @@
+Report for Institution Code ROM, Resource vposteology
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 113
+Number of records retrieved in searches: 196
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: United States ; Times: 72
+	Country: Netherlands ; Times: 7
+	Country: Mexico ; Times: 12
+	Country: Unknown ; Times: 5
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 4
+	Country: Peru ; Times: 6
+	Country: Puerto Rico ; Times: 1
+	Country: Russia ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 3
+	Date: 2018-06-06 ; Times: 3
+	Date: 2018-06-04 ; Times: 2
+	Date: 2018-06-29 ; Times: 3
+	Date: 2018-06-28 ; Times: 1
+	Date: 2018-06-01 ; Times: 10
+	Date: 2018-06-25 ; Times: 6
+	Date: 2018-06-27 ; Times: 2
+	Date: 2018-06-26 ; Times: 7
+	Date: 2018-06-21 ; Times: 28
+	Date: 2018-06-20 ; Times: 11
+	Date: 2018-06-23 ; Times: 4
+	Date: 2018-06-08 ; Times: 1
+	Date: 2018-06-22 ; Times: 2
+	Date: 2018-06-10 ; Times: 1
+	Date: 2018-06-12 ; Times: 1
+	Date: 2018-06-13 ; Times: 14
+	Date: 2018-06-14 ; Times: 4
+	Date: 2018-06-15 ; Times: 2
+	Date: 2018-06-18 ; Times: 5
+	Date: 2018-06-19 ; Times: 1
+	Date: 2018-06-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Andrias davidianus" ; Times: 6
+	Query: "Solenodontidae" ; Times: 1
+	Query: "genus:Manis institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:Latrans genus:Canis country:&#34;Canada&#34; year &gt;= 1990 year &lt;= 2000" ; Times: 1
+	Query: "Acanthurus japonicus" ; Times: 4
+	Query: "Acanthurus sohal" ; Times: 2
+	Query: "Agkistrodon bilineatus" ; Times: 2
+	Query: "Agkistrodon taylori" ; Times: 2
+	Query: "Lepidobatrachus laevis" ; Times: 2
+	Query: "vntype:specimen genus:Falcipennis institutioncode:ROM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Zebrasoma scopas" ; Times: 2
+	Query: "Paracanthurus hepatus" ; Times: 2
+	Query: "Acanthurus leucosternon" ; Times: 4
+	Query: "Vipera latastei" ; Times: 1
+	Query: "aspidelaps" ; Times: 1
+	Query: "skull vntype:specimen specificepithet:maritimus genus:Ursus year &gt;= 1990 year &lt;= 2018" ; Times: 2
+	Query: "andrias davidianus" ; Times: 2
+	Query: "Naso lituratus" ; Times: 3
+	Query: "Acanthurus nigricans" ; Times: 9
+	Query: "class:Amphibia locality:Sonoita Creek stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Labeo rohita" ; Times: 1
+	Query: "Andrias" ; Times: 1
+	Query: "tetraspis" ; Times: 5
+	Query: "Acanthurus lineatus" ; Times: 3
+	Query: "Calotes cristatellus" ; Times: 1
+	Query: "country:Ecuador scientificname:Potos flavus " ; Times: 1
+	Query: "vntype:specimen specificepithet:maritimus genus:Ursus year &gt;= 1990 year &lt;= 2018" ; Times: 1
+	Query: "Naso vlamingi" ; Times: 1
+	Query: "Atropoides nummifer" ; Times: 5
+	Query: "melancoryphus" ; Times: 1
+	Query: "Bothriechis schlegelii" ; Times: 1
+	Query: "specificepithet:lanatus genus:Caluromys" ; Times: 1
+	Query: "specificepithet:albigula genus:Neotoma institutioncode:ROM" ; Times: 1
+	Query: "Hepatus hepatus" ; Times: 3
+	Query: "gavialis gangeticus" ; Times: 2
+	Query: "crotalus lepidus klauberi" ; Times: 1
+	Query: "Crotalus willardi" ; Times: 1
+	Query: "priodontes" ; Times: 1
+	Query: "Acanthurus chirurgus" ; Times: 6
+	Query: "andrias" ; Times: 1
+	Query: "genus:neofelis" ; Times: 2
+	Query: "catalognumber:6882" ; Times: 1
+	Query: "tremarctos ornatus" ; Times: 1
+	Query: "Panthera uncia" ; Times: 1
+	Query: "heterodon platyrhinos stateprovince:&#34;south carolina&#34; year &gt;= 1900 year &lt;= 2017" ; Times: 1
+	Query: "country:Ecuador scientificname:Eira barbara " ; Times: 2
+	Query: "Varanus salvator vntype:specimen" ; Times: 1
+	Query: "crotalus mitchelli" ; Times: 1
+	Query: "Kinixys nogueyi" ; Times: 3
+	Query: "Acanthurus coeruleus" ; Times: 3
+	Query: "crotalus willardi" ; Times: 1
+	Query: "Ctenochaetus strigosus" ; Times: 7
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "specificepithet:niloticus genus:crocodylus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 109 (out of 1169 download events in this period)
+Total number of records downloaded: 484
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 8
+	Country: Australia ; Times: 4
+	Country: Mexico ; Times: 40
+	Country: Unknown ; Times: 2
+	Country: Panama ; Times: 2
+	Country: United States ; Times: 42
+	Country: United Kingdom ; Times: 1
+	Country: Peru ; Times: 3
+	Country: Puerto Rico ; Times: 2
+	Country: Spain ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 15
+	Date: 2018-06-23 ; Times: 4
+	Date: 2018-06-14 ; Times: 1
+	Date: 2018-06-01 ; Times: 5
+	Date: 2018-06-08 ; Times: 3
+	Date: 2018-06-22 ; Times: 2
+	Date: 2018-06-10 ; Times: 3
+	Date: 2018-06-06 ; Times: 16
+	Date: 2018-06-05 ; Times: 9
+	Date: 2018-06-13 ; Times: 3
+	Date: 2018-06-29 ; Times: 4
+	Date: 2018-06-02 ; Times: 1
+	Date: 2018-06-16 ; Times: 5
+	Date: 2018-06-19 ; Times: 2
+	Date: 2018-06-25 ; Times: 5
+	Date: 2018-06-03 ; Times: 5
+	Date: 2018-06-26 ; Times: 4
+	Date: 2018-06-18 ; Times: 13
+	Date: 2018-06-20 ; Times: 2
+	Date: 2018-06-30 ; Times: 6
+	Date: 2018-06-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Andrias davidianus" ; Times: 3
+	Query: "pituophis deppei" ; Times: 5
+	Query: "crocodylus acutus" ; Times: 1
+	Query: "Sistrurus catenatus" ; Times: 2
+	Query: "Pterygoplichthys" ; Times: 2
+	Query: "Crotalus lepidus" ; Times: 1
+	Query: "Setonix brachyurus" ; Times: 1
+	Query: "Taricha granulosa granulosa" ; Times: 1
+	Query: "Gaviidae" ; Times: 1
+	Query: "Caretta caretta" ; Times: 1
+	Query: "Amphiuma tridactylum" ; Times: 1
+	Query: "gavialis gangeticus" ; Times: 1
+	Query: "Agkistrodon taylori" ; Times: 1
+	Query: "Bothrops asper" ; Times: 1
+	Query: "Labeo rohita" ; Times: 1
+	Query: "Vireo gilvus" ; Times: 1
+	Query: "taricha granulosa" ; Times: 3
+	Query: "Siren lacertina" ; Times: 1
+	Query: "Phrynosoma orbiculare" ; Times: 1
+	Query: "vntype:specimen specificepithet:canadensis genus:Lynx" ; Times: 1
+	Query: "andrias davidianus" ; Times: 2
+	Query: "class:Amphibia county:&#34;Santa Cruz&#34; stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "Crotalus pricei pricei" ; Times: 2
+	Query: "Pongo pygmaeus vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Atropoides mexicanus" ; Times: 1
+	Query: "Aplodontia rufa" ; Times: 2
+	Query: "Crotalus willardi" ; Times: 1
+	Query: "Oreothlypis peregrina" ; Times: 1
+	Query: "Perisoreus canadensis" ; Times: 1
+	Query: "Poecile atricapillus" ; Times: 2
+	Query: "Crotalus viridis" ; Times: 1
+	Query: "Phrynosoma cornutum" ; Times: 2
+	Query: "Crotalus cerastes" ; Times: 1
+	Query: "Salamandra salamandra" ; Times: 1
+	Query: "Taricha torosa" ; Times: 1
+	Query: "ursus maritimus" ; Times: 1
+	Query: "elephant" ; Times: 1
+	Query: "pseudemys texana" ; Times: 1
+	Query: "Plestiodon fasciatus" ; Times: 1
+	Query: "Varanus salvator vntype:specimen" ; Times: 1
+	Query: "Crotalus ruber" ; Times: 1
+	Query: "vntype:specimen specificepithet:maritimus genus:Ursus year &gt;= 1990 year &lt;= 2018" ; Times: 1
+	Query: "Staurotypus triporcatus" ; Times: 1
+	Query: "Agkistrodon contortrix" ; Times: 1
+	Query: "moose" ; Times: 1
+	Query: "Atropoides nummifer" ; Times: 3
+	Query: "plestiodon obsoletus" ; Times: 1
+	Query: "ambystoma (ontario pelee)" ; Times: 1
+	Query: "Bothriechis schlegelii" ; Times: 1
+	Query: "pseudemys concinna" ; Times: 1
+	Query: "python reticulatus" ; Times: 1
+	Query: "Seriola lalandi" ; Times: 1
+	Query: "Chelonia mydas" ; Times: 1
+	Query: "vntype:specimen specificepithet:concolor genus:puma" ; Times: 1
+	Query: "varanus prasinus" ; Times: 1
+	Query: "Coccothraustes vespertinus" ; Times: 1
+	Query: "sterna maxima" ; Times: 1
+	Query: "Anaxyrus boreas" ; Times: 1
+	Query: "order:CHIROPTERA stateprovince:&#34;Oaxaca&#34;" ; Times: 1
+	Query: "ursus americanus" ; Times: 1
+	Query: "pterois volitans" ; Times: 1
+	Query: "Crotalus pricei" ; Times: 3
+	Query: "Crotalus oreganus" ; Times: 2
+	Query: "plestiodon laticeps" ; Times: 1
+	Query: "Lepus callotis" ; Times: 1
+	Query: "Crocodylus acutus" ; Times: 1
+	Query: "heterodon platyrhinos" ; Times: 1
+	Query: "valliceps" ; Times: 1
+	Query: "Agkistrodon bilineatus" ; Times: 1
+	Query: "Crotalus mitchelli" ; Times: 1
+	Query: "Antilocapra americana" ; Times: 1
+	Query: "Crotalus molossus" ; Times: 1
+	Query: "antilocapra" ; Times: 1
+	Query: "class:Reptilia county:&#34;Santa Cruz&#34; stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:onca genus:Panthera" ; Times: 1
+	Query: "Regulus satrapa" ; Times: 1
+	Query: "Taricha granulosa" ; Times: 3
+	Query: "Crotalus durissus" ; Times: 1
+	Query: "alces alces" ; Times: 1
+	Query: "Eretmochelys imbricata" ; Times: 1
+	Query: "Lepidobatrachus laevis" ; Times: 1
+	Query: "Dermochelys coriacea" ; Times: 1
+	Query: "crotalus adamanteus" ; Times: 1
+	Query: "orca" ; Times: 2
+
+
+End of report.
