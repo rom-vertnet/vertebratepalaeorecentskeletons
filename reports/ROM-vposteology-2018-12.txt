@@ -1,0 +1,268 @@
+Report for Institution Code ROM, Resource vposteology
+Usage stats for December 2018, generated on 2019/01/12
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 114
+Number of records retrieved in searches: 261
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Turkey ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: El Salvador ; Times: 2
+	Country: India ; Times: 10
+	Country: France ; Times: 1
+	Country: United States ; Times: 87
+	Country: Sweden ; Times: 1
+	Country: Vietnam ; Times: 2
+	Country: Germany ; Times: 5
+	Country: Venezuela ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-08 ; Times: 3
+	Date: 2018-12-27 ; Times: 1
+	Date: 2018-12-19 ; Times: 13
+	Date: 2018-12-18 ; Times: 3
+	Date: 2018-12-30 ; Times: 1
+	Date: 2018-12-15 ; Times: 5
+	Date: 2018-12-14 ; Times: 1
+	Date: 2018-12-17 ; Times: 20
+	Date: 2018-12-16 ; Times: 3
+	Date: 2018-12-13 ; Times: 6
+	Date: 2018-12-12 ; Times: 4
+	Date: 2018-12-29 ; Times: 1
+	Date: 2018-12-20 ; Times: 6
+	Date: 2018-12-21 ; Times: 4
+	Date: 2018-12-24 ; Times: 2
+	Date: 2018-12-25 ; Times: 7
+	Date: 2018-12-26 ; Times: 1
+	Date: 2018-12-09 ; Times: 6
+	Date: 2018-12-06 ; Times: 3
+	Date: 2018-12-07 ; Times: 8
+	Date: 2018-12-04 ; Times: 7
+	Date: 2018-12-05 ; Times: 1
+	Date: 2018-12-02 ; Times: 3
+	Date: 2018-12-03 ; Times: 4
+	Date: 2018-12-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Pegasus laternarius" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis family:Canidae stateprovince:&#34;South Dakota&#34;" ; Times: 1
+	Query: "Synchiropus picturatus" ; Times: 1
+	Query: "naja naja india" ; Times: 2
+	Query: "scientificname:Lagothrix lagotricha " ; Times: 1
+	Query: "atropoides nummifer" ; Times: 2
+	Query: "testudo hermanni" ; Times: 1
+	Query: "order:primates class:mammalia country:&#34;kenya&#34; institutioncode:ROM" ; Times: 1
+	Query: "Agkistrodon bilineatus" ; Times: 1
+	Query: "order:artiodactyla class:mammalia country:&#34;kenya&#34; institutioncode:ROM" ; Times: 1
+	Query: "genus:Sistrurus stateprovince:&#34;ontario&#34; institutioncode:ROM" ; Times: 1
+	Query: "Hippocampus kuda" ; Times: 2
+	Query: "squatina californica" ; Times: 2
+	Query: "otocolobus manul" ; Times: 1
+	Query: "specificepithet:couperi genus:Drymarchon stateprovince:&#34;florida&#34;" ; Times: 1
+	Query: "Geoemyda spengleri" ; Times: 1
+	Query: "Lepidosiren paradoxa" ; Times: 4
+	Query: "specificepithet:couperi genus:Drymarchon" ; Times: 1
+	Query: "vntype:specimen specificepithet:vulpes genus:vulpes family:Canidae country:&#34;Canada&#34; (Ontario) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Chelonoidis carbonaria" ; Times: 1
+	Query: "amazona festiva" ; Times: 1
+	Query: "specificepithet:durissus genus:Crotalus institutioncode:ROM" ; Times: 1
+	Query: "Hippocampus reidi" ; Times: 1
+	Query: "stateprovince:&#34;Florida&#34; Drymarchon couperi" ; Times: 3
+	Query: "bothriopsis bilineata" ; Times: 3
+	Query: "genus:Gavialis" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon stateprovince:&#34;South Carolina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:orycteropus class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "stateprovince:&#34;South Carolina&#34; Micrurus fulvius" ; Times: 1
+	Query: "Fistularia commersonii" ; Times: 3
+	Query: "Leopardus geoffroyi" ; Times: 1
+	Query: "ptyas mucosus india" ; Times: 1
+	Query: "Hippocampus whitei" ; Times: 2
+	Query: "country:Ecuador scientificname:Potos flavus " ; Times: 5
+	Query: "Vipera nikolskii" ; Times: 1
+	Query: "atropoides" ; Times: 2
+	Query: "Fistularia tabacaria" ; Times: 1
+	Query: "felis lybica" ; Times: 1
+	Query: "Syngnathoides biaculeatus" ; Times: 1
+	Query: "felis nigripes" ; Times: 1
+	Query: "Platysternon megacephalum" ; Times: 1
+	Query: "Leopardus jacobita" ; Times: 2
+	Query: "Trimeresurus purpureomaculatus" ; Times: 1
+	Query: "Dactylopterus volitans" ; Times: 1
+	Query: "Corythoichthys intestinalis" ; Times: 2
+	Query: "Canis rufus" ; Times: 11
+	Query: "ancylostoma" ; Times: 2
+	Query: "ailurus fulgens" ; Times: 1
+	Query: "specificepithet:purpureomaculatus genus:Trimeresurus country:&#34;India&#34;" ; Times: 2
+	Query: "Caracal caracal" ; Times: 1
+	Query: "pterodroma hasitata vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Vulpes vulpes toronto" ; Times: 1
+	Query: "atheris squamiger" ; Times: 4
+	Query: "specificepithet:debilis genus:anaxyrus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Acrantophis dumerili" ; Times: 1
+	Query: "country:Ecuador scientificname:Eira barbara " ; Times: 4
+	Query: "order:tubulidentata class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "uromastyx maliensis" ; Times: 2
+	Query: "Vulpes vulpes Toronto" ; Times: 1
+	Query: "Caracal aurata" ; Times: 4
+	Query: "blairi vntype:specimen stateprovince:&#34;Texas&#34; (lithobates)" ; Times: 1
+	Query: "Hippocampus erectus" ; Times: 1
+	Query: "Hippocampus angustus" ; Times: 2
+	Query: "Pappogeomys merriami merriami" ; Times: 1
+	Query: "Aeoliscus strigatus" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis stateprovince:&#34;Tennessee&#34; AND (NOT OMNH)" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 2
+	Query: "specificepithet:jamaicensis genus:Buteo year &gt;= 2000 year &lt;= 2018 month &gt;= 4 month &lt;= 6 institutioncode:ROM" ; Times: 1
+	Query: "Crocodylus Guerrero" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 114 (out of 809 download events in this period)
+Total number of records downloaded: 1518
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 36
+	Country: Indonesia ; Times: 2
+	Country: India ; Times: 23
+	Country: South Africa ; Times: 2
+	Country: France ; Times: 1
+	Country: United States ; Times: 38
+	Country: Germany ; Times: 5
+	Country: Taiwan ; Times: 2
+	Country: Russia ; Times: 1
+	Country: Ecuador ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-26 ; Times: 2
+	Date: 2018-12-09 ; Times: 19
+	Date: 2018-12-06 ; Times: 2
+	Date: 2018-12-19 ; Times: 1
+	Date: 2018-12-18 ; Times: 10
+	Date: 2018-12-31 ; Times: 1
+	Date: 2018-12-30 ; Times: 1
+	Date: 2018-12-15 ; Times: 1
+	Date: 2018-12-17 ; Times: 7
+	Date: 2018-12-11 ; Times: 7
+	Date: 2018-12-10 ; Times: 12
+	Date: 2018-12-13 ; Times: 1
+	Date: 2018-12-12 ; Times: 5
+	Date: 2018-12-20 ; Times: 7
+	Date: 2018-12-21 ; Times: 2
+	Date: 2018-12-22 ; Times: 9
+	Date: 2018-12-25 ; Times: 1
+	Date: 2018-12-08 ; Times: 2
+	Date: 2018-12-27 ; Times: 2
+	Date: 2018-12-28 ; Times: 1
+	Date: 2018-12-07 ; Times: 12
+	Date: 2018-12-05 ; Times: 2
+	Date: 2018-12-03 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "cyclopes didactylus" ; Times: 1
+	Query: "Molossus molossus" ; Times: 1
+	Query: "Anolis cristatellus" ; Times: 1
+	Query: "Cnemidophorus sackii" ; Times: 1
+	Query: "Apodiformes (skeleton)" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 2
+	Query: "leopardus wiedii" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 2
+	Query: "ototylomys phyllotis" ; Times: 1
+	Query: "amphibia vietnam" ; Times: 1
+	Query: "peromyscus leucopus" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "amphiuma tridactylum" ; Times: 1
+	Query: "Loxodonta africana vntype:specimen" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "Lycaon pictus vntype:specimen" ; Times: 2
+	Query: "puma concolor" ; Times: 2
+	Query: "felis lybica" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "Leopardus jacobita" ; Times: 1
+	Query: "family:trochilidae" ; Times: 1
+	Query: "lynx lynx" ; Times: 1
+	Query: "Lasiurus intermedius" ; Times: 1
+	Query: "vntype:specimen order:Squamata class:Reptilia country:&#34;Belize&#34;" ; Times: 1
+	Query: "Dipodomys ordii" ; Times: 2
+	Query: "carollia perspicillata" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "Caracal caracal" ; Times: 1
+	Query: "Syncerus caffer vntype:specimen" ; Times: 1
+	Query: "specificepithet:mesomelas genus:Canis" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "Artibeus phaeotis" ; Times: 1
+	Query: "eublepharis macularius" ; Times: 2
+	Query: "genus:pongo" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Surnia ulula" ; Times: 1
+	Query: "Macrochelys temminckii" ; Times: 1
+	Query: "otocolobus manul" ; Times: 1
+	Query: "glaucidium gnoma" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 2
+	Query: "Agapornis" ; Times: 1
+	Query: "Glossophaga soricina" ; Times: 4
+	Query: "Mustela frenata" ; Times: 1
+	Query: "pteronotus davyi" ; Times: 1
+	Query: "Crotalus viridis" ; Times: 1
+	Query: "vipera ammodytes" ; Times: 1
+	Query: "specificepithet:cyanea genus:Passerina month &gt;= 8 month &lt;= 9" ; Times: 1
+	Query: "Alouatta seniculus seniculus" ; Times: 1
+	Query: "Vulpes vulpes Toronto" ; Times: 1
+	Query: "(&#34;black-throated sparrow&#34; OR &#34;Amphispiza bilineata&#34;)" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "testudo hermanni" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "urocyon cinereoargenteus" ; Times: 1
+	Query: "specificepithet:pardus genus:Panthera" ; Times: 1
+	Query: "Anolis carolinensis" ; Times: 1
+	Query: "pteronotus parnellii" ; Times: 1
+	Query: "Cyprinus carpio" ; Times: 1
+	Query: "Panthera pardus vntype:specimen" ; Times: 1
+	Query: "order:Testudines" ; Times: 1
+	Query: "Vulpes vulpes colorado" ; Times: 1
+	Query: "strigidae" ; Times: 1
+	Query: "vntype:specimen class:Reptilia stateprovince:&#34;Guerrero&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "aegolius acadicus" ; Times: 1
+	Query: "desmodus rotundus" ; Times: 1
+	Query: "Panthera leo vntype:specimen" ; Times: 1
+	Query: "Canis rufus" ; Times: 1
+	Query: "ailurus fulgens" ; Times: 1
+	Query: "Eptesicus fuscus" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "Plethodon cinereus" ; Times: 1
+	Query: "sigmodon hispidus" ; Times: 1
+	Query: "crotalus durissus" ; Times: 1
+	Query: "order:Squamata stateprovince:&#34;Veracruz&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "megascops kennicottii" ; Times: 1
+	Query: "eira barbara" ; Times: 1
+	Query: "oncorhynchus tshawytscha" ; Times: 1
+	Query: "Lynx canadensis" ; Times: 2
+	Query: "dasyprocta punctata" ; Times: 1
+	Query: "athene cunicularia" ; Times: 1
+	Query: "Leopardus geoffroyi" ; Times: 1
+	Query: "aegolius funereus" ; Times: 1
+	Query: "specificepithet:livia genus:Columba" ; Times: 1
+	Query: "Asio otus" ; Times: 1
+	Query: "felis nigripes" ; Times: 1
+	Query: "Anolis sagrei" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "vntype:specimen specificepithet:cyanea genus:Passerina month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "canis latrans" ; Times: 3
+	Query: "sylvilagus floridanus" ; Times: 1
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "Caracal aurata" ; Times: 1
+	Query: "canis rufus" ; Times: 2
+	Query: "vietnam" ; Times: 1
+	Query: "potos flavus" ; Times: 1
+	Query: "vntype:specimen specificepithet:maritimus genus:Ursus" ; Times: 1
+
+
+End of report.
