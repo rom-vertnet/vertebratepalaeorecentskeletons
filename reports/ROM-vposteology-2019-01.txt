@@ -1,0 +1,255 @@
+Report for Institution Code ROM, Resource vposteology
+Usage stats for January 2019, generated on 2019/02/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 162
+Number of records retrieved in searches: 426
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 17
+	Country: Turkey ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Czechia ; Times: 1
+	Country: United States ; Times: 122
+	Country: Sweden ; Times: 1
+	Country: Vietnam ; Times: 7
+	Country: United Kingdom ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Russia ; Times: 5
+	Country: Brazil ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-31 ; Times: 11
+	Date: 2019-01-23 ; Times: 1
+	Date: 2019-01-18 ; Times: 3
+	Date: 2019-01-14 ; Times: 16
+	Date: 2019-01-15 ; Times: 13
+	Date: 2019-01-30 ; Times: 10
+	Date: 2019-01-17 ; Times: 8
+	Date: 2019-01-10 ; Times: 21
+	Date: 2019-01-11 ; Times: 9
+	Date: 2019-01-12 ; Times: 2
+	Date: 2019-01-13 ; Times: 5
+	Date: 2019-01-03 ; Times: 5
+	Date: 2019-01-29 ; Times: 4
+	Date: 2019-01-28 ; Times: 3
+	Date: 2019-01-01 ; Times: 1
+	Date: 2019-01-07 ; Times: 2
+	Date: 2019-01-06 ; Times: 4
+	Date: 2019-01-05 ; Times: 4
+	Date: 2019-01-04 ; Times: 1
+	Date: 2019-01-21 ; Times: 3
+	Date: 2019-01-20 ; Times: 4
+	Date: 2019-01-09 ; Times: 4
+	Date: 2019-01-22 ; Times: 13
+	Date: 2019-01-24 ; Times: 4
+	Date: 2019-01-27 ; Times: 3
+	Date: 2019-01-26 ; Times: 1
+	Date: 2019-01-16 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "platysternon megacephalum" ; Times: 3
+	Query: "isurus stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "manitoba specificepithet:lagopus genus:Alopex family:Canidae basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Gavialis" ; Times: 4
+	Query: "(Ailurus fulgens)" ; Times: 1
+	Query: "( Aniella OR Abronia OR Anguis OR Celestus OR Diploglossus OR Gerrhonotus OR Ophisaurus OR Ophiodes OR Elgaria OR Dopasia OR Coloptychon OR Barisia OR Mesaspis) institutioncode:ROM" ; Times: 1
+	Query: "rhina ancylostoma" ; Times: 3
+	Query: "skeleton family:Psittacidae institutioncode:ROM" ; Times: 1
+	Query: "country:Ecuador scientificname:Eira barbara " ; Times: 3
+	Query: "specificepithet:willardi genus:Crotalus county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "“Tremarctos ornatus”" ; Times: 1
+	Query: "specificepithet:elegans genus:Urocitellus stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:lagopus genus:lagopus month &gt;= 7 month &lt;= 9 institutioncode:ROM" ; Times: 1
+	Query: "&#34;Tremarctos ornatus&#34;" ; Times: 2
+	Query: "&#34;ailurus fulgens&#34;" ; Times: 2
+	Query: "Bungarus candidus" ; Times: 2
+	Query: "specificepithet:flagellum genus:masticophis country:&#34;mexico&#34; year &gt;= 1978" ; Times: 1
+	Query: "geoemyda spengleri" ; Times: 1
+	Query: "Naemorhedus" ; Times: 1
+	Query: "genus:Alopex institutioncode:ROM" ; Times: 1
+	Query: "genus:Crotalus willardi stateprovince:&#34;Arizona&#34;" ; Times: 3
+	Query: "skeleton institutioncode:ROM genus:falco" ; Times: 1
+	Query: "specificepithet:taeniatus genus:masticophis country:&#34;mexico&#34;" ; Times: 2
+	Query: "Larimichthys" ; Times: 1
+	Query: "specificepithet:frenata genus:mustela stateprovince:&#34;montana&#34;" ; Times: 1
+	Query: "specificepithet:flagellum genus:masticophis stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "Osteolaemus" ; Times: 2
+	Query: "genus:Varanus preparations:skeleton institutioncode:ROM" ; Times: 1
+	Query: "Leopardus geoffroyi" ; Times: 1
+	Query: "specificepithet:flagellum genus:masticophis family:colubridae locality:Antonio country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:callotis genus:Lepus family:Leporidae stateprovince:&#34;Oaxaca&#34; country:&#34;Mexico&#34; sex:female institutioncode:ROM" ; Times: 1
+	Query: "country:Ecuador scientificname:Potos flavus " ; Times: 3
+	Query: "genus:Ambystoma preparations:skeleton" ; Times: 1
+	Query: "genus:Alopex" ; Times: 2
+	Query: "(&#34;ailurus fulgens&#34;)" ; Times: 1
+	Query: "skeleton genus:Rynchops institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:flagellum genus:masticophis locality:antonio country:&#34;mexico&#34; year &gt;= 1978 month &gt;= 5" ; Times: 1
+	Query: "Canis rufus louisiana" ; Times: 5
+	Query: "specificepithet:virginiana genus:Didelphis country:&#34;Canada&#34;" ; Times: 1
+	Query: "Leopardus colocolo" ; Times: 1
+	Query: "specificepithet:flagellum genus:masticophis locality:san antonio country:&#34;mexico&#34;" ; Times: 1
+	Query: "specificepithet:flagellum genus:masticophis country:&#34;mexico&#34; year &gt;= 1978 month &gt;= 5" ; Times: 1
+	Query: "genus:Varanus institutioncode:ROM" ; Times: 1
+	Query: "country:Ecuador scientificname:Dasyprocta fuliginosa " ; Times: 3
+	Query: "vntype:specimen specificepithet:lagopus genus:lagopus institutioncode:ROM" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 3
+	Query: "genus:Panthera institutioncode:ROM" ; Times: 1
+	Query: "Panthera onca" ; Times: 53
+	Query: "Glyptemys insculpta" ; Times: 1
+	Query: "specificepithet:townsendi genus:lepus institutioncode:ROM" ; Times: 1
+	Query: "genus:gavialis institutioncode:ROM" ; Times: 1
+	Query: "vntype:specimen specificepithet:naja genus:Naja basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Platysternon megacephalum" ; Times: 5
+	Query: "Basiliscus plumifrons" ; Times: 1
+	Query: "Crocodylus acutus" ; Times: 3
+	Query: "lepus callotis oaxaca" ; Times: 1
+	Query: "Amazona festiva" ; Times: 1
+	Query: "Cervus nippon" ; Times: 1
+	Query: "Canis rufus" ; Times: 1
+	Query: "Testudo hermanni" ; Times: 1
+	Query: "specificepithet:callotis genus:Lepus stateprovince:&#34;Oaxaca&#34; country:&#34;Mexico&#34; institutioncode:ROM" ; Times: 1
+	Query: "Drymarchon couperi" ; Times: 4
+	Query: "genus:Urocyon institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus institutioncode:ROM" ; Times: 2
+	Query: "tremarctos ornatus" ; Times: 1
+	Query: "Okapia johnstoni" ; Times: 1
+	Query: "specificepithet:californicus genus:lepus stateprovince:&#34;texas&#34;" ; Times: 2
+	Query: "dermoptera" ; Times: 1
+	Query: "dakota specificepithet:latrans genus:canis family:Canidae" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 214 (out of 962 download events in this period)
+Total number of records downloaded: 612
+Number of different countries: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 181
+	Country: Iran ; Times: 2
+	Country: Mexico ; Times: 4
+	Country: Indonesia ; Times: 1
+	Country: India ; Times: 3
+	Country: Ecuador ; Times: 5
+	Country: United Kingdom ; Times: 3
+	Country: Sweden ; Times: 1
+	Country: Spain ; Times: 3
+	Country: Colombia ; Times: 1
+	Country: Kenya ; Times: 1
+	Country: Russia ; Times: 1
+	Country: Brazil ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-31 ; Times: 44
+	Date: 2019-01-26 ; Times: 3
+	Date: 2019-01-18 ; Times: 1
+	Date: 2019-01-19 ; Times: 2
+	Date: 2019-01-14 ; Times: 3
+	Date: 2019-01-16 ; Times: 4
+	Date: 2019-01-17 ; Times: 2
+	Date: 2019-01-10 ; Times: 2
+	Date: 2019-01-11 ; Times: 1
+	Date: 2019-01-12 ; Times: 2
+	Date: 2019-01-13 ; Times: 2
+	Date: 2019-01-03 ; Times: 2
+	Date: 2019-01-29 ; Times: 42
+	Date: 2019-01-28 ; Times: 14
+	Date: 2019-01-01 ; Times: 2
+	Date: 2019-01-07 ; Times: 7
+	Date: 2019-01-06 ; Times: 1
+	Date: 2019-01-04 ; Times: 1
+	Date: 2019-01-20 ; Times: 3
+	Date: 2019-01-09 ; Times: 4
+	Date: 2019-01-22 ; Times: 7
+	Date: 2019-01-25 ; Times: 8
+	Date: 2019-01-24 ; Times: 2
+	Date: 2019-01-27 ; Times: 14
+	Date: 2019-01-08 ; Times: 6
+	Date: 2019-01-30 ; Times: 35
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:rubra genus:Piranga year &gt;= 1970 year &lt;= 2018" ; Times: 1
+	Query: "crocodylus acutus" ; Times: 3
+	Query: "Gymnophiona" ; Times: 1
+	Query: "specificepithet:californicus genus:lepus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:catenatus genus:Sistrurus" ; Times: 1
+	Query: "family:Tenrecidae" ; Times: 1
+	Query: "tremarctos ornatus" ; Times: 8
+	Query: "carcharodon carcharias" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 6
+	Query: "oryctolagus cuniculus" ; Times: 1
+	Query: "Ochotona princeps" ; Times: 1
+	Query: "Asio flammeus" ; Times: 1
+	Query: "vntype:specimen carettochelys" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "vntype:specimen class:Mammalia stateprovince:&#34;Nuevo Leon&#34; country:&#34;Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "&#34;Tremarctos ornatus&#34;" ; Times: 19
+	Query: "Puma yagouaroundi" ; Times: 1
+	Query: "(&#34;Tremarctos ornatus&#34;)" ; Times: 2
+	Query: "vntype:specimen genus:macaca" ; Times: 1
+	Query: "Elephas maximus" ; Times: 1
+	Query: "specificepithet:elegans genus:urocitellus stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "Okapia johnstoni" ; Times: 1
+	Query: "bradypus" ; Times: 1
+	Query: "Osteolaemus" ; Times: 1
+	Query: "Crocodilia" ; Times: 1
+	Query: "Leopardus geoffroyi" ; Times: 1
+	Query: "country:&#34;uruguay&#34;" ; Times: 1
+	Query: "class:amphibia county:&#34;Riverside&#34;" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 14
+	Query: "genus:Alopex" ; Times: 1
+	Query: "Caluromys lanatus" ; Times: 1
+	Query: "lepus europaeus" ; Times: 1
+	Query: "Canis rufus louisiana" ; Times: 1
+	Query: "Leopardus colocolo" ; Times: 1
+	Query: "specificepithet:olivacea genus:Piranga year &gt;= 1990 year &lt;= 2018" ; Times: 1
+	Query: "Manidae" ; Times: 1
+	Query: "peromyscus californicus" ; Times: 1
+	Query: "&#34;Caracal caracal&#34;" ; Times: 1
+	Query: "(dermoptera)" ; Times: 14
+	Query: "elephas maximus" ; Times: 1
+	Query: "order:Primates country:&#34;Madagascar&#34;" ; Times: 1
+	Query: "Canis rufus" ; Times: 1
+	Query: "Ammodramus savannarum" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "Myrmecophaga tridactyla" ; Times: 1
+	Query: "specificepithet:townsendi genus:lepus" ; Times: 1
+	Query: "genus:Opheodrys aestivus" ; Times: 1
+	Query: "&#34;Dermoptera&#34;" ; Times: 1
+	Query: "Dermoptera" ; Times: 22
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "vntype:specimen family:Carettochelyidae" ; Times: 1
+	Query: "genus:Dipodomys stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "skull family:Canidae institutioncode:ROM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:townsendi genus:lepus institutioncode:ROM" ; Times: 1
+	Query: "(Tremarctos Ornatus)" ; Times: 1
+	Query: "dermoptera" ; Times: 35
+	Query: "(&#34;tremarctos ornatus&#34;)" ; Times: 2
+	Query: "vntype:specimen family:Lemuridae order:Primates class:Mammalia country:&#34;Madagascar&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "elephantulus rufescens" ; Times: 1
+	Query: "class:amphibia county:&#34;san bernardino&#34;" ; Times: 1
+	Query: "genus:Alces year &gt;= 1989 year &lt;= 2018" ; Times: 1
+	Query: "Choloepus hoffmanni" ; Times: 1
+	Query: "(Dermoptera)" ; Times: 9
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "genus:Martes stateprovince:&#34;British Columbia&#34; AND (NOT pennanti)" ; Times: 1
+	Query: "(Tremarctos ornatus)" ; Times: 2
+	Query: "specificepithet:schneideri family:bufonidae" ; Times: 1
+	Query: "dasypus novemcinctus" ; Times: 1
+	Query: "order:Dermoptera" ; Times: 2
+	Query: "Ornithorhynchus anatinus" ; Times: 1
+	Query: "Hydrochoerus hydrochaeris" ; Times: 1
+	Query: "“Tremarctos ornatus”" ; Times: 3
+	Query: "Carettochelys" ; Times: 1
+	Query: "&#34;tremarctos ornatus&#34;" ; Times: 12
+
+
+End of report.
