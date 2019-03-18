@@ -1,0 +1,195 @@
+Report for Institution Code ROM, Resource vposteology
+Usage stats for February 2019, generated on 2019/03/18
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 87
+Number of records retrieved in searches: 395
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 9
+	Country: United States ; Times: 51
+	Country: Israel ; Times: 1
+	Country: Australia ; Times: 4
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 7
+	Country: United Kingdom ; Times: 4
+	Country: Sweden ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Japan ; Times: 1
+	Country: Brazil ; Times: 3
+	Country: Hong Kong ; Times: 1
+	Country: Russia ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-04 ; Times: 2
+	Date: 2019-02-11 ; Times: 4
+	Date: 2019-02-10 ; Times: 4
+	Date: 2019-02-13 ; Times: 20
+	Date: 2019-02-12 ; Times: 8
+	Date: 2019-02-15 ; Times: 4
+	Date: 2019-02-14 ; Times: 4
+	Date: 2019-02-16 ; Times: 1
+	Date: 2019-02-18 ; Times: 4
+	Date: 2019-02-24 ; Times: 1
+	Date: 2019-02-03 ; Times: 3
+	Date: 2019-02-26 ; Times: 1
+	Date: 2019-02-27 ; Times: 1
+	Date: 2019-02-20 ; Times: 1
+	Date: 2019-02-07 ; Times: 2
+	Date: 2019-02-22 ; Times: 1
+	Date: 2019-02-05 ; Times: 1
+	Date: 2019-02-08 ; Times: 6
+	Date: 2019-02-28 ; Times: 5
+	Date: 2019-02-02 ; Times: 1
+	Date: 2019-02-01 ; Times: 6
+	Date: 2019-02-06 ; Times: 4
+	Date: 2019-02-21 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Drymarchon stateprovince:&#34;Florida&#34; preparations:skeleton" ; Times: 1
+	Query: "Varanus flavescens" ; Times: 3
+	Query: "family:Icteridae institutioncode:ROM" ; Times: 5
+	Query: "genus:Gavialis" ; Times: 1
+	Query: "genus:Andrias specificepithet:davidianus" ; Times: 1
+	Query: "country:Ecuador scientificname:Eira barbara " ; Times: 5
+	Query: "vntype:specimen specificepithet:uncia genus:Panthera preparations:skeleton" ; Times: 1
+	Query: "Ochotona collaris" ; Times: 16
+	Query: "specificepithet:platypterus genus:Buteo class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Chelonoidis carbonaria" ; Times: 2
+	Query: "genus:Spilotes country:&#34;Mexico&#34;" ; Times: 1
+	Query: "atropoides" ; Times: 1
+	Query: "Ochotona princeps" ; Times: 6
+	Query: "genus:Salvadora institutioncode:ROM" ; Times: 1
+	Query: "Varanus komodoensis" ; Times: 2
+	Query: "Spheniscus magellanicus" ; Times: 1
+	Query: "specificepithet:uncia genus:Panthera" ; Times: 3
+	Query: "genus:Spinus institutioncode:ROM" ; Times: 2
+	Query: "country:Ecuador scientificname:Potos flavus " ; Times: 4
+	Query: "Eretmochelys imbricata ecuador" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 2
+	Query: "specificepithet:macularius genus:Eublepharis" ; Times: 1
+	Query: "Lampropeltis triangulum hondurensis" ; Times: 1
+	Query: "Spheniscus humboldti" ; Times: 2
+	Query: "specificepithet:carolinus genus:Melanerpes class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Drymarchon corais OR (melanurus) NOT (couperi) NOT (USA) NOT (United States)" ; Times: 1
+	Query: "Varanus griseus" ; Times: 1
+	Query: "Heterodon simus" ; Times: 1
+	Query: "gavialis" ; Times: 1
+	Query: "Platysternon megacephalum" ; Times: 1
+	Query: "desmodontidae" ; Times: 2
+	Query: "Acrantophis dumerili" ; Times: 3
+	Query: "Atheris chlorechis" ; Times: 1
+	Query: "Pterodroma hasitata" ; Times: 2
+	Query: "specificepithet:zebrata genus:Corucia" ; Times: 2
+	Query: "platysternon" ; Times: 1
+	Query: "cuon alpinus" ; Times: 1
+	Query: "vntype:specimen specificepithet:macularius genus:Eublepharis" ; Times: 1
+	Query: "genus:Bungarus country:&#34;Sri Lanka&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 2
+	Query: "Acinonyx jubatus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 87 (out of 1227 download events in this period)
+Total number of records downloaded: 480
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 5
+	Country: Brazil ; Times: 9
+	Country: Israel ; Times: 4
+	Country: Mexico ; Times: 22
+	Country: France ; Times: 2
+	Country: United States ; Times: 32
+	Country: Germany ; Times: 1
+	Country: United Kingdom ; Times: 4
+	Country: Colombia ; Times: 6
+	Country: Belgium ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-04 ; Times: 4
+	Date: 2019-02-03 ; Times: 1
+	Date: 2019-02-05 ; Times: 6
+	Date: 2019-02-14 ; Times: 8
+	Date: 2019-02-13 ; Times: 8
+	Date: 2019-02-22 ; Times: 1
+	Date: 2019-02-11 ; Times: 14
+	Date: 2019-02-25 ; Times: 6
+	Date: 2019-02-26 ; Times: 3
+	Date: 2019-02-12 ; Times: 2
+	Date: 2019-02-06 ; Times: 4
+	Date: 2019-02-07 ; Times: 3
+	Date: 2019-02-17 ; Times: 2
+	Date: 2019-02-16 ; Times: 1
+	Date: 2019-02-19 ; Times: 3
+	Date: 2019-02-18 ; Times: 2
+	Date: 2019-02-08 ; Times: 7
+	Date: 2019-02-28 ; Times: 3
+	Date: 2019-02-01 ; Times: 3
+	Date: 2019-02-21 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "toxostoma rufum" ; Times: 1
+	Query: "phelsuma" ; Times: 1
+	Query: "Alligator mississippiensis vntype:specimen" ; Times: 1
+	Query: "lycaon pictus" ; Times: 1
+	Query: "Melanerpes carolinus vntype:specimen" ; Times: 1
+	Query: "genus:Sauromalus" ; Times: 11
+	Query: "Phrynosoma platyrhinos" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 3
+	Query: "locality:Medicine Hat collectioncode:Vertebrate Palaeontology institutioncode:ROM" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 2
+	Query: "Puma concolor" ; Times: 1
+	Query: "specificepithet:marcianus genus:Thamnophis" ; Times: 1
+	Query: "Agkistrodon conanti" ; Times: 1
+	Query: "Dermoptera" ; Times: 3
+	Query: "specificepithet:macularius genus:Eublepharis" ; Times: 1
+	Query: "Neofelis nebulosa" ; Times: 1
+	Query: "Lagothrix lagotricha" ; Times: 3
+	Query: "Ceratophrys" ; Times: 1
+	Query: "orcinus orca" ; Times: 2
+	Query: "Pongo pygmaeus" ; Times: 3
+	Query: "Spilogale putorius" ; Times: 1
+	Query: "herpestes auropunctatus" ; Times: 2
+	Query: "porcupine" ; Times: 1
+	Query: "Panthera pardus" ; Times: 1
+	Query: "Tamandua mexicana" ; Times: 1
+	Query: "skeleton vntype:specimen specificepithet:polyglottos genus:mimus" ; Times: 1
+	Query: "Panthera onca" ; Times: 6
+	Query: "perisoreus canadensis" ; Times: 1
+	Query: "Agkistrodon laticinctus" ; Times: 1
+	Query: "sceloporus spinosus" ; Times: 1
+	Query: "vntype:specimen specificepithet:polyglottos genus:mimus (skeleton)" ; Times: 1
+	Query: "specificepithet:biscutatus genus:Trimorphodon" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 1
+	Query: "Phrynosoma orbiculare" ; Times: 1
+	Query: "Atelerix albiventris" ; Times: 2
+	Query: "Pterois volitans" ; Times: 1
+	Query: "specificepithet:frenata genus:Mustela institutioncode:ROM" ; Times: 1
+	Query: "Dasypus" ; Times: 1
+	Query: "tremarctos ornatus" ; Times: 1
+	Query: "Nyctereutes procyonoides" ; Times: 1
+	Query: "Vulpes macrotis" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "specificepithet:Aestivus genus:Opheodrys" ; Times: 1
+	Query: "Otocyon megalotis" ; Times: 1
+	Query: "specificepithet:californicus genus:Lepus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "skeleton vntype:specimen specificepithet:migratorius genus:turdus" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "Vulpes velox" ; Times: 1
+	Query: "Vulpes zerda" ; Times: 1
+	Query: "deirochelys" ; Times: 2
+	Query: "Carcharodon carcharias" ; Times: 1
+	Query: "cuon alpinus" ; Times: 1
+	Query: "specificepithet:nasicus genus:Heterodon" ; Times: 1
+	Query: "Atheris chlorechis" ; Times: 1
+	Query: "canis mesomelas" ; Times: 1
+	Query: "genus:Trichechus class:Mammalia" ; Times: 1
+	Query: "dermoptera" ; Times: 3
+
+
+End of report.
