@@ -1,0 +1,228 @@
+Report for Institution Code ROM, Resource vposteology
+Usage stats for April 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 114
+Number of records retrieved in searches: 246
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 13
+	Country: Brazil ; Times: 3
+	Country: Australia ; Times: 1
+	Country: Portugal ; Times: 2
+	Country: Mexico ; Times: 4
+	Country: India ; Times: 34
+	Country: Sweden ; Times: 3
+	Country: France ; Times: 1
+	Country: United States ; Times: 33
+	Country: Guatemala ; Times: 1
+	Country: Vietnam ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Colombia ; Times: 4
+	Country: Belgium ; Times: 7
+	Country: Japan ; Times: 4
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-04 ; Times: 22
+	Date: 2019-04-19 ; Times: 2
+	Date: 2019-04-18 ; Times: 2
+	Date: 2019-04-23 ; Times: 1
+	Date: 2019-04-12 ; Times: 2
+	Date: 2019-04-11 ; Times: 2
+	Date: 2019-04-10 ; Times: 2
+	Date: 2019-04-16 ; Times: 3
+	Date: 2019-04-15 ; Times: 3
+	Date: 2019-04-14 ; Times: 2
+	Date: 2019-04-30 ; Times: 6
+	Date: 2019-04-01 ; Times: 1
+	Date: 2019-04-02 ; Times: 2
+	Date: 2019-04-25 ; Times: 6
+	Date: 2019-04-06 ; Times: 3
+	Date: 2019-04-22 ; Times: 1
+	Date: 2019-04-05 ; Times: 2
+	Date: 2019-04-20 ; Times: 1
+	Date: 2019-04-07 ; Times: 3
+	Date: 2019-04-26 ; Times: 2
+	Date: 2019-04-27 ; Times: 2
+	Date: 2019-04-24 ; Times: 5
+	Date: 2019-04-03 ; Times: 29
+	Date: 2019-04-28 ; Times: 2
+	Date: 2019-04-29 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Aves catalognumber:3288 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "panthera uncia" ; Times: 2
+	Query: "genus:Gavialis" ; Times: 2
+	Query: "class:Aves catalognumber:7872 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Osteopilus (skeleton) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Cuora galbinifrons" ; Times: 2
+	Query: "country:Ecuador scientificname:Eira barbara " ; Times: 7
+	Query: "specificepithet:tereticaudus genus:spermophilus institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:pileatus genus:Dryocopus class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "tomistoma" ; Times: 1
+	Query: "genus:Sistrurus stateprovince:&#34;South Carolina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:minor genus:Eudyptula preparations:Skeleton" ; Times: 1
+	Query: "specificepithet:tereticaudus genus:spermophilus class:mammalia institutioncode:ROM" ; Times: 1
+	Query: "genus:Colinus class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:Willardi stateprovince:&#34;Durango&#34;" ; Times: 1
+	Query: "specificepithet:miliarius genus:Sistrurus stateprovince:&#34;South Carolina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "spea hammondi" ; Times: 1
+	Query: "Cairina moschata" ; Times: 2
+	Query: "specificepithet:hispidus genus:Perognathus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "puma yagouaroundi" ; Times: 1
+	Query: "country:Ecuador scientificname:Potos flavus " ; Times: 3
+	Query: "class:Aves catalognumber:5476 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 2
+	Query: "country:Ecuador scientificname:Dasyprocta fuliginosa " ; Times: 1
+	Query: "mustela nigripes" ; Times: 2
+	Query: "class:Aves catalognumber:3837 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Theloderma specificepithet:corticale" ; Times: 1
+	Query: "vipera aspis" ; Times: 4
+	Query: "genus:caracal class:mammalia" ; Times: 1
+	Query: "genus:Rissa class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Platysternon" ; Times: 2
+	Query: "class:Aves catalognumber:4557 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "ailurus fulgens" ; Times: 34
+	Query: "class:mammalia stateprovince:&#34;new hampshire&#34; institutioncode:ROM" ; Times: 1
+	Query: "genus:Spilogale institutioncode:ROM" ; Times: 1
+	Query: "komodoensis" ; Times: 1
+	Query: "specificepithet:collaris genus:Ochotona country:&#34;Canada&#34;" ; Times: 1
+	Query: "genus:Micrurus stateprovince:&#34;South Carolina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:5757 institutioncode:ROM" ; Times: 1
+	Query: "tremarctos ornatus" ; Times: 1
+	Query: "class:Aves catalognumber:3282 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:5782 institutioncode:ROM" ; Times: 1
+	Query: "genus:varanus institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:constrictor genus:coluber institutioncode:ROM" ; Times: 8
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "Gavialis gangeticus" ; Times: 1
+	Query: "genus:Conepatus institutioncode:ROM" ; Times: 1
+	Query: "class:Aves catalognumber:3286 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:4583 institutioncode:ROM" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 6
+	Query: "Saimiri sciureus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 81 (out of 1263 download events in this period)
+Total number of records downloaded: 484
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Canada ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 16
+	Country: India ; Times: 2
+	Country: France ; Times: 1
+	Country: United States ; Times: 51
+	Country: Malaysia ; Times: 1
+	Country: Germany ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-22 ; Times: 3
+	Date: 2019-04-19 ; Times: 4
+	Date: 2019-04-18 ; Times: 9
+	Date: 2019-04-05 ; Times: 2
+	Date: 2019-04-13 ; Times: 2
+	Date: 2019-04-12 ; Times: 2
+	Date: 2019-04-10 ; Times: 5
+	Date: 2019-04-17 ; Times: 4
+	Date: 2019-04-16 ; Times: 5
+	Date: 2019-04-15 ; Times: 2
+	Date: 2019-04-14 ; Times: 3
+	Date: 2019-04-30 ; Times: 1
+	Date: 2019-04-21 ; Times: 1
+	Date: 2019-04-02 ; Times: 7
+	Date: 2019-04-03 ; Times: 1
+	Date: 2019-04-04 ; Times: 3
+	Date: 2019-04-23 ; Times: 2
+	Date: 2019-04-20 ; Times: 1
+	Date: 2019-04-07 ; Times: 2
+	Date: 2019-04-26 ; Times: 2
+	Date: 2019-04-24 ; Times: 2
+	Date: 2019-04-25 ; Times: 4
+	Date: 2019-04-28 ; Times: 1
+	Date: 2019-04-29 ; Times: 2
+	Date: 2019-04-08 ; Times: 3
+	Date: 2019-04-09 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:sagrei genus:anolis stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Mimus polyglottos" ; Times: 1
+	Query: "Lasiurus seminolus" ; Times: 2
+	Query: "lycaon pictus" ; Times: 1
+	Query: "NYCTICEIUS humeralis" ; Times: 1
+	Query: "genus:Ambystoma specificepithet:laterale" ; Times: 1
+	Query: "Trichechus manatus" ; Times: 2
+	Query: "genus:Osteopilus (skeleton) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Myotis velifer" ; Times: 1
+	Query: "Lepidobatrachus" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 3
+	Query: "specificepithet:cinereoargenteus genus:Urocyon" ; Times: 1
+	Query: "family:Pteropodidae order:chiroptera institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:virginianus genus:bubo year &gt;= 2001 year &lt;= 2010" ; Times: 1
+	Query: "country:&#34;Uruguay&#34;" ; Times: 1
+	Query: "Didelphis virginiana year &gt;= 1970" ; Times: 1
+	Query: "specificepithet:virginianus genus:bubo year &gt;= 1980 year &lt;= 1990" ; Times: 1
+	Query: "vipera aspis" ; Times: 3
+	Query: "Phenacomys intermedius" ; Times: 1
+	Query: "specificepithet:hispidus genus:Sigmodon stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:concolor genus:Puma" ; Times: 1
+	Query: "specificepithet:horridus genus:Crotalus" ; Times: 1
+	Query: "specificepithet:micropus genus:Neotoma stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:inornata genus:Aspidoscelis" ; Times: 1
+	Query: "Delhi" ; Times: 1
+	Query: "Lasionycteris noctivagans" ; Times: 2
+	Query: "baiomys taylori" ; Times: 1
+	Query: "specificepithet:collaris genus:Ochotona country:&#34;Canada&#34;" ; Times: 1
+	Query: "specificepithet:virginianus genus:bubo year &gt;= 1991 year &lt;= 2000" ; Times: 1
+	Query: "Ceratophrys" ; Times: 1
+	Query: "loxodonta" ; Times: 1
+	Query: "specificepithet:atrox genus:crotalus" ; Times: 1
+	Query: "genus:rhinoclemmys order:testudines" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 1
+	Query: "Antilocapra americana" ; Times: 1
+	Query: "specificepithet:virginianus genus:bubo year &gt;= 1990 year &lt;= 2000" ; Times: 1
+	Query: "specificepithet:rufus genus:lynx" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 1
+	Query: "tremarctos ornatus" ; Times: 1
+	Query: "specificepithet:concolor genus:puma" ; Times: 1
+	Query: "genus:caracal class:mammalia" ; Times: 1
+	Query: "specificepithet:scutulatus genus:Crotalus" ; Times: 1
+	Query: "specificepithet:minor genus:scolopax" ; Times: 1
+	Query: "Puma" ; Times: 1
+	Query: "Crotalus willardi" ; Times: 1
+	Query: "specificepithet:americana genus:Antilocapra" ; Times: 1
+	Query: "ailurus fulgens" ; Times: 1
+	Query: "Macroscelidea" ; Times: 1
+	Query: "Myotis austroriparius" ; Times: 1
+	Query: "mustela frenata" ; Times: 1
+	Query: "specificepithet:uniparens genus:Aspidoscelis" ; Times: 1
+	Query: "Crotalus adamanteus" ; Times: 1
+	Query: "Crotalus horridus" ; Times: 2
+	Query: "Crotalus oreganus" ; Times: 1
+	Query: "lachesis" ; Times: 2
+	Query: "Macroscelididae" ; Times: 1
+	Query: "puma yagouaroundi" ; Times: 1
+	Query: "genus:Pachydactylus" ; Times: 1
+	Query: "aptenodytes forsteri" ; Times: 2
+	Query: "rom catesbeianus" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "specificepithet:oreganus genus:Crotalus" ; Times: 1
+	Query: "Crotalus cerberus" ; Times: 2
+	Query: "Urocyon cinereoargenteus" ; Times: 1
+	Query: "specificepithet:leucogaster genus:Onychomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Ambystoma specificepithet:opacum" ; Times: 1
+	Query: "ateles geoffroyi" ; Times: 1
+	Query: "Panthera leo" ; Times: 1
+
+
+End of report.
