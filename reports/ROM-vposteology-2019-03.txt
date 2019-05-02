@@ -1,0 +1,277 @@
+Report for Institution Code ROM, Resource vposteology
+Usage stats for March 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 176
+Number of records retrieved in searches: 825
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 11
+	Country: Canada ; Times: 8
+	Country: Portugal ; Times: 3
+	Country: Mexico ; Times: 4
+	Country: Denmark ; Times: 2
+	Country: United Kingdom ; Times: 77
+	Country: Sweden ; Times: 3
+	Country: Vietnam ; Times: 6
+	Country: Belgium ; Times: 1
+	Country: United States ; Times: 59
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-09 ; Times: 2
+	Date: 2019-03-27 ; Times: 1
+	Date: 2019-03-26 ; Times: 8
+	Date: 2019-03-25 ; Times: 5
+	Date: 2019-03-24 ; Times: 2
+	Date: 2019-03-23 ; Times: 1
+	Date: 2019-03-08 ; Times: 2
+	Date: 2019-03-21 ; Times: 8
+	Date: 2019-03-20 ; Times: 8
+	Date: 2019-03-04 ; Times: 2
+	Date: 2019-03-07 ; Times: 5
+	Date: 2019-03-06 ; Times: 11
+	Date: 2019-03-01 ; Times: 2
+	Date: 2019-03-29 ; Times: 5
+	Date: 2019-03-22 ; Times: 2
+	Date: 2019-03-15 ; Times: 44
+	Date: 2019-03-30 ; Times: 2
+	Date: 2019-03-03 ; Times: 1
+	Date: 2019-03-18 ; Times: 4
+	Date: 2019-03-19 ; Times: 7
+	Date: 2019-03-17 ; Times: 3
+	Date: 2019-03-14 ; Times: 37
+	Date: 2019-03-28 ; Times: 3
+	Date: 2019-03-13 ; Times: 4
+	Date: 2019-03-10 ; Times: 2
+	Date: 2019-03-11 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Tamandua tetradactyla" ; Times: 1
+	Query: "jacobita" ; Times: 5
+	Query: "Atropoides nummifer" ; Times: 1
+	Query: "Python bivittatus" ; Times: 1
+	Query: "Bitis rhinoceros" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Aiken&#34; stateprovince:&#34;South Carolina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Spilotes pullatus" ; Times: 1
+	Query: "country:Ecuador scientificname:Eira barbara " ; Times: 3
+	Query: "Potamotrygon" ; Times: 1
+	Query: "specificepithet:rufus genus:Canis family:Canidae institutioncode:ROM" ; Times: 1
+	Query: "Puma yagouaroundi" ; Times: 1
+	Query: "Lampropeltis annulata" ; Times: 1
+	Query: "Morelia viridis" ; Times: 1
+	Query: "Dendroaspis viridis" ; Times: 1
+	Query: "specificepithet:caurinus genus:corvus" ; Times: 3
+	Query: "Epicrates cenchria" ; Times: 1
+	Query: "Atropoides mexicanus" ; Times: 1
+	Query: "specificepithet:brachyrhynchos genus:corvus country:canada" ; Times: 4
+	Query: "osphronemus goramy" ; Times: 1
+	Query: "Skeleton specificepithet:himantopus order:Charadriiformes class:Aves AND (NOT juvenile ) institutioncode:ROM" ; Times: 1
+	Query: "Lampropeltis elapsoides" ; Times: 1
+	Query: "Aspidelaps scutatus" ; Times: 1
+	Query: "Bitis gabonica" ; Times: 1
+	Query: "Crotalus pricei" ; Times: 1
+	Query: "Trimeresurus purpureomaculatus" ; Times: 1
+	Query: "gekko badenii" ; Times: 1
+	Query: "Bothrops leucurus" ; Times: 1
+	Query: "Panthera onca" ; Times: 8
+	Query: "Skeleton genus:Scolopax order:Charadriiformes class:Aves AND (NOT juvenile ) institutioncode:ROM" ; Times: 1
+	Query: "Thamnophis sirtalis tetrataenia" ; Times: 1
+	Query: "Pseudaspis cana" ; Times: 1
+	Query: "Leioheterodon modestus" ; Times: 1
+	Query: "Bothrops neuwiedi" ; Times: 1
+	Query: "leopardus jacobita" ; Times: 1
+	Query: "Latimeria chalumnae" ; Times: 1
+	Query: "Drymarchon couperi" ; Times: 1
+	Query: "Crotalus cerberus" ; Times: 1
+	Query: "rhina ancylostoma" ; Times: 1
+	Query: "Crotalus durissus" ; Times: 1
+	Query: "Python curtus" ; Times: 1
+	Query: "Skeleton genus:Tringa order:Charadriiformes class:Aves AND (NOT juvenile ) institutioncode:ROM" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 2
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Barnwell&#34; stateprovince:&#34;South Carolina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Gavialis" ; Times: 1
+	Query: "Causus rhombeatus" ; Times: 1
+	Query: "Micrurus lemniscatus" ; Times: 1
+	Query: "Trimeresurus puniceus" ; Times: 1
+	Query: "Boiga dendrophila" ; Times: 1
+	Query: "Erpeton tentaculatum" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes" ; Times: 1
+	Query: "Bothrops ammodytoides" ; Times: 1
+	Query: "cuora galbinifrons" ; Times: 5
+	Query: "country:Ecuador scientificname:Potos flavus " ; Times: 4
+	Query: "Sanzinia madagascariensis" ; Times: 1
+	Query: "Acrochordus javanicus" ; Times: 1
+	Query: "Bothrops alternatus" ; Times: 1
+	Query: "Natrix maura" ; Times: 1
+	Query: "Orthriophis taeniurus" ; Times: 1
+	Query: "Cacophis harriettae" ; Times: 1
+	Query: "class:Reptilia collectioncode:Vertebrate Paleontology institutioncode:ROM" ; Times: 1
+	Query: "Platysternon megacephalum" ; Times: 1
+	Query: "Pituophis deppei" ; Times: 1
+	Query: "Panthera uncia" ; Times: 2
+	Query: "Eryx colubrinus" ; Times: 1
+	Query: "Lampropeltis triangulum syspila 2018" ; Times: 2
+	Query: "specificepithet:opacum genus:ambystoma preparations:skeleton" ; Times: 1
+	Query: "specificepithet:oglinum genus:Opisthonema" ; Times: 1
+	Query: "Python molurus" ; Times: 1
+	Query: "Bothriechis schlegelii" ; Times: 1
+	Query: "genus:Aythya class:Aves county:&#34;Toronto&#34; stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Reithrodontomys fulvescens" ; Times: 2
+	Query: "Trimeresurus fasciatus" ; Times: 1
+	Query: "Dispholidus typus" ; Times: 1
+	Query: "Tantilla coronata" ; Times: 1
+	Query: "collectioncode:Paleontology institutioncode:ROM" ; Times: 1
+	Query: "Lampropeltis pyromelana" ; Times: 1
+	Query: "Agkistrodon taylori" ; Times: 1
+	Query: "specificepithet:septemcinctus genus:Dasypus" ; Times: 1
+	Query: "Farancia erytrogramma" ; Times: 1
+	Query: "Epicrates maurus" ; Times: 1
+	Query: "Bungarus candidus" ; Times: 1
+	Query: "Vipera ammodytes" ; Times: 1
+	Query: "Thamnophis butleri" ; Times: 1
+	Query: "Vipera latastei" ; Times: 2
+	Query: "Philodryas patagoniensis" ; Times: 1
+	Query: "Lichanura trivirgata" ; Times: 1
+	Query: "Naja kaouthia" ; Times: 1
+	Query: "Anarhichas denticulatus" ; Times: 1
+	Query: "Tamandua mexicana" ; Times: 1
+	Query: "Agkistrodon laticinctus" ; Times: 1
+	Query: "Cerastes vipera" ; Times: 1
+	Query: "Panthera uncia vntype:specimen" ; Times: 1
+	Query: "Spheniscus humboldti" ; Times: 1
+	Query: "Eunectes notaeus" ; Times: 1
+	Query: "crotalus pricei" ; Times: 2
+	Query: "Atheris chlorechis" ; Times: 1
+	Query: "catalognumber:6232 institutioncode:ROM" ; Times: 1
+	Query: "Testudo hermanni" ; Times: 1
+	Query: "Corallus hortulanus" ; Times: 1
+	Query: "specificepithet:tigrinum genus:ambystoma preparations:skeleton" ; Times: 1
+	Query: "Echinorhinus brucus" ; Times: 2
+	Query: "Haliaeetus leucocephalus year &gt; 1990 NOT clo" ; Times: 1
+	Query: "Lampropeltis alterna" ; Times: 1
+	Query: "Vipera aspis" ; Times: 1
+	Query: "Regina grahamii" ; Times: 1
+	Query: "Eunectes murinus" ; Times: 2
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Berkeley&#34; stateprovince:&#34;South Carolina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Python regius" ; Times: 1
+	Query: "Agkistrodon bilineatus" ; Times: 1
+	Query: "Skeleton genus:Charadrius order:Charadriiformes class:Aves AND (NOT juvenile ) institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:velox genus:Vulpes family:Canidae institutioncode:ROM" ; Times: 1
+	Query: "Corallus caninus" ; Times: 1
+	Query: "Bungarus fasciatus" ; Times: 1
+	Query: "Thamnodynastes strigatus" ; Times: 1
+	Query: "vntype:specimen genus:Otocyon family:Canidae country:&#34;South Africa&#34;" ; Times: 1
+	Query: "Coronella austriaca" ; Times: 1
+	Query: "Homalopsis buccata" ; Times: 1
+	Query: "Conophis lineatus" ; Times: 1
+	Query: "catalognumber:1947 institutioncode:ROM" ; Times: 2
+	Query: "Scaphiophis albopunctatus" ; Times: 1
+	Query: "Aquila chrysaetos year &gt; 1990 NOT clo" ; Times: 1
+	Query: "country:Ecuador scientificname:Dasyprocta fuliginosa " ; Times: 4
+	Query: "specificepithet:agilis genus:Oporornis class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Ceratophrys specificepithet:cranwelli" ; Times: 1
+	Query: "Python sebae" ; Times: 1
+	Query: "specificepithet:maximus genus:Priodontes" ; Times: 1
+	Query: "Crotalus willardi" ; Times: 1
+	Query: "Heterodon simus" ; Times: 1
+	Query: "Acrantophis dumerili" ; Times: 1
+	Query: "specificepithet:pichiy genus:Zaedyus" ; Times: 2
+	Query: "Lachesis muta" ; Times: 1
+	Query: "Skeleton genus:Scolopax order:Charadriiformes class:Aves AND (NOT juvenile) institutioncode:ROM" ; Times: 1
+	Query: "collectioncode:Vertebrate Paleontology institutioncode:ROM" ; Times: 2
+	Query: "specificepithet:hybridus genus:Dasypus" ; Times: 1
+	Query: "family:Gerrhosauridae country:&#34;South Africa&#34;" ; Times: 1
+	Query: "Bogertophis subocularis" ; Times: 1
+	Query: "Trimeresurus gramineus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 61 (out of 1281 download events in this period)
+Total number of records downloaded: 440
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: United States ; Times: 44
+	Country: Mexico ; Times: 10
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Vietnam ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-27 ; Times: 1
+	Date: 2019-03-26 ; Times: 2
+	Date: 2019-03-25 ; Times: 3
+	Date: 2019-03-22 ; Times: 2
+	Date: 2019-03-21 ; Times: 4
+	Date: 2019-03-20 ; Times: 3
+	Date: 2019-03-04 ; Times: 1
+	Date: 2019-03-07 ; Times: 3
+	Date: 2019-03-06 ; Times: 6
+	Date: 2019-03-01 ; Times: 1
+	Date: 2019-03-03 ; Times: 5
+	Date: 2019-03-08 ; Times: 7
+	Date: 2019-03-30 ; Times: 1
+	Date: 2019-03-31 ; Times: 1
+	Date: 2019-03-29 ; Times: 4
+	Date: 2019-03-18 ; Times: 1
+	Date: 2019-03-19 ; Times: 3
+	Date: 2019-03-17 ; Times: 1
+	Date: 2019-03-14 ; Times: 2
+	Date: 2019-03-28 ; Times: 3
+	Date: 2019-03-12 ; Times: 1
+	Date: 2019-03-13 ; Times: 5
+	Date: 2019-03-10 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Leiocephalus carinatus" ; Times: 1
+	Query: "&#34;morone americana&#34;" ; Times: 1
+	Query: "corvus caurinus" ; Times: 1
+	Query: "specificepithet:gulo" ; Times: 3
+	Query: "specificepithet:marmorata family:emydidae" ; Times: 1
+	Query: "class:Mammalia county:&#34;Montague&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Spilotes pullatus" ; Times: 1
+	Query: "Ichnotropis" ; Times: 2
+	Query: "specificepithet:emoryi genus:Pantherophis" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "specificepithet:erminea genus:mustela" ; Times: 5
+	Query: "specificepithet:caurinus genus:corvus continent:north america" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:Dasypus" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 1
+	Query: "specificepithet:guttatus genus:Pantherophis" ; Times: 1
+	Query: "genus:Meles" ; Times: 1
+	Query: "specificepithet:taxus genus:taxidea" ; Times: 1
+	Query: "cuora galbinifrons" ; Times: 1
+	Query: "specificepithet:brachyrhynchos genus:corvus country:canada" ; Times: 1
+	Query: "specificepithet:atrox genus:crotalus" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "EIRA BARBARA" ; Times: 1
+	Query: "Tamandua mexicana" ; Times: 2
+	Query: "Carollia subrufa" ; Times: 1
+	Query: "vombatus" ; Times: 1
+	Query: "crotalus viridis" ; Times: 1
+	Query: "specificepithet:elegans genus:Arizona" ; Times: 1
+	Query: "Panthera uncia vntype:specimen" ; Times: 1
+	Query: "specificepithet:fulvescens genus:Reithrodontomys" ; Times: 1
+	Query: "Guilday" ; Times: 1
+	Query: "specificepithet:barbara" ; Times: 1
+	Query: "specificepithet:carinatus genus:Leiocephalus year &gt;= 2000 year &lt;= 2020" ; Times: 1
+	Query: "order:Artiodactyla stateprovince:&#34;Nunavut&#34; country:&#34;Canada&#34;" ; Times: 2
+	Query: "Puma yagouaroundi" ; Times: 1
+	Query: "crotalus pricei" ; Times: 3
+	Query: "specificepithet:suspectum genus:heloderma stateprovince:&#34;arizona&#34;" ; Times: 3
+	Query: "LEOPARDUS PARDALIS" ; Times: 3
+	Query: "panthera onca" ; Times: 2
+	Query: "Tachycineta bicolor" ; Times: 1
+	Query: "ammodramus savannarum" ; Times: 1
+	Query: "Crocuta crocuta" ; Times: 1
+	Query: "Scarus ghobban" ; Times: 1
+	Query: "specificepithet:micropus genus:Neotoma" ; Times: 1
+	Query: "genus:pongo" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 1
+
+
+End of report.
