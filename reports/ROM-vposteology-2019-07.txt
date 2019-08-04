@@ -1,0 +1,273 @@
+Report for Institution Code ROM, Resource vposteology
+Usage stats for July 2019, generated on 2019/08/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 171
+Number of records retrieved in searches: 592
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 11
+	Country: United States ; Times: 117
+	Country: Singapore ; Times: 1
+	Country: Unknown ; Times: 6
+	Country: Nepal ; Times: 11
+	Country: Mexico ; Times: 5
+	Country: United Kingdom ; Times: 5
+	Country: Germany ; Times: 14
+	Country: Paraguay ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 9
+	Date: 2019-07-18 ; Times: 5
+	Date: 2019-07-19 ; Times: 1
+	Date: 2019-07-08 ; Times: 35
+	Date: 2019-07-12 ; Times: 14
+	Date: 2019-07-13 ; Times: 1
+	Date: 2019-07-10 ; Times: 19
+	Date: 2019-07-11 ; Times: 10
+	Date: 2019-07-16 ; Times: 6
+	Date: 2019-07-17 ; Times: 5
+	Date: 2019-07-14 ; Times: 2
+	Date: 2019-07-15 ; Times: 3
+	Date: 2019-07-29 ; Times: 3
+	Date: 2019-07-23 ; Times: 2
+	Date: 2019-07-22 ; Times: 3
+	Date: 2019-07-21 ; Times: 8
+	Date: 2019-07-26 ; Times: 4
+	Date: 2019-07-25 ; Times: 1
+	Date: 2019-07-24 ; Times: 3
+	Date: 2019-07-01 ; Times: 2
+	Date: 2019-07-30 ; Times: 4
+	Date: 2019-07-03 ; Times: 5
+	Date: 2019-07-02 ; Times: 2
+	Date: 2019-07-05 ; Times: 4
+	Date: 2019-07-04 ; Times: 15
+	Date: 2019-07-07 ; Times: 2
+	Date: 2019-07-06 ; Times: 2
+	Date: 2019-07-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:elegans genus:Arizona stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "genus:lepus stateprovince:&#34;oaxaca&#34;" ; Times: 1
+	Query: "specificepithet:pusilla genus:Cardellina country:&#34;Canada&#34; year &gt;= 1980 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "genus:Heloderma specificepithet:horridum" ; Times: 1
+	Query: "chelonoidis nigra" ; Times: 1
+	Query: "country:Ecuador scientificname:Eira barbara " ; Times: 4
+	Query: "genus:Holocentrus specificepithet:adscensionis" ; Times: 1
+	Query: "procellariiformes year &gt;= 1980 year &lt;= 2019 institutioncode:ROM" ; Times: 3
+	Query: "skeleton (Hirundo rustica OR Calypte) institutioncode:ROM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Rhinella schneideri" ; Times: 1
+	Query: "specificepithet:fuscescens genus:Catharus country:&#34;Canada&#34; year &gt;= 1980 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "specificepithet:hoyi genus:Sorex stateprovince:&#34;New Brunswick&#34;" ; Times: 1
+	Query: "Panthera onca" ; Times: 5
+	Query: "genus:Pongo specificepithet:pygmaeus" ; Times: 1
+	Query: "specificepithet:pusilla genus:cardellina country:&#34;canada&#34; year &gt;= 1980 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "Caracal caracal" ; Times: 2
+	Query: "genus:Redunca" ; Times: 1
+	Query: "genus:Sardina specificepithet:pilchardus" ; Times: 1
+	Query: "caiman;skull" ; Times: 1
+	Query: "genus:Papio specificepithet:ursinus" ; Times: 1
+	Query: "Amazona festiva" ; Times: 1
+	Query: "Actinemys" ; Times: 3
+	Query: "genus:Anguis" ; Times: 1
+	Query: "genus:Papio specificepithet:cynocephalus" ; Times: 1
+	Query: "skeleton (&#34;Setophaga caerulescens&#34; OR &#34;Calypte&#34;) institutioncode:ROM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "skeleton (“Hirundo rustica” OR &#34;Calypte&#34;) institutioncode:ROM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Lacerta specificepithet:viridis" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "specificepithet:sphenocephalus genus:Lithobates preparations:skeleton" ; Times: 1
+	Query: "Geoemyda spengleri" ; Times: 1
+	Query: "genus:Heterodon specificepithet:simus" ; Times: 1
+	Query: "genus:Gavialis" ; Times: 3
+	Query: "genus:Eublepharis" ; Times: 1
+	Query: "genus:baiomys class:mammalia country:&#34;mexico&#34; (alvarez )" ; Times: 1
+	Query: "genus:Malpolon" ; Times: 1
+	Query: "genus:Pseudemys specificepithet:texana" ; Times: 1
+	Query: "Drymarchon couperi" ; Times: 4
+	Query: "specificepithet:cinerea genus:hyla preparations:Skeleton" ; Times: 3
+	Query: "genus:Ptychozoon" ; Times: 1
+	Query: "vntype:specimen specificepithet:carolinus genus:Melanerpes preparations:skeleton basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "country:Ecuador scientificname:Potos flavus " ; Times: 1
+	Query: "genus:Heloderma specificepithet:suspectum" ; Times: 1
+	Query: "genus:Gorilla specificepithet:gorilla" ; Times: 1
+	Query: "class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:ROM" ; Times: 3
+	Query: "genus:Centrochelys" ; Times: 1
+	Query: "Lampropeltis Triangulum celaenops" ; Times: 1
+	Query: "order:rodentia class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:serpentina genus:Chelydra stateprovince:&#34;Florida&#34; country:&#34;USA&#34;" ; Times: 2
+	Query: "Gopherus berlandieri" ; Times: 5
+	Query: "genus:Eutamias specificepithet:minimus" ; Times: 1
+	Query: "specificepithet:sylvaticus genus:Lithobates preparations:skeleton" ; Times: 1
+	Query: "genus:Atelerix" ; Times: 1
+	Query: "specificepithet:atricapillus genus:Poecile country:&#34;canada&#34; year &gt;= 1980 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "Thylacinus vntype:specimen" ; Times: 1
+	Query: "(crocodylus porosus OR crocodylus acutus)" ; Times: 1
+	Query: "genus:Colossoma specificepithet:macropomum" ; Times: 1
+	Query: "skeleton genus:pavo order:galliformes institutioncode:ROM basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "genus:Otopharynx specificepithet:lithobates" ; Times: 1
+	Query: "genus:Dispholidus specificepithet:typus" ; Times: 1
+	Query: "panthera uncia" ; Times: 2
+	Query: "specificepithet:livia genus:columba country:&#34;canada&#34;" ; Times: 1
+	Query: "Varanus komodoensis" ; Times: 12
+	Query: "agkistrodon bilineatus" ; Times: 1
+	Query: "specificepithet:sylvaticus genus:Lithobates preparations:skeleton institutioncode:ROM" ; Times: 1
+	Query: "skeleton specificepithet:caerulescens genus:Setophaga institutioncode:ROM basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "genus:Paratilapia specificepithet:polleni" ; Times: 1
+	Query: "specificepithet:pusilla genus:cardellina year &gt;= 1980 month &gt;= 7 month &lt;= 8" ; Times: 1
+	Query: "genus:Pan specificepithet:paniscus" ; Times: 1
+	Query: "specificepithet:paniscus genus:Pan preparations:skull" ; Times: 1
+	Query: "genus:Crocodylus  specificepithet:porosus" ; Times: 1
+	Query: "genus:Cetengraulis specificepithet:edentulus" ; Times: 1
+	Query: "specificepithet:callotis genus:lepus stateprovince:&#34;oaxaca&#34;" ; Times: 1
+	Query: "specificepithet:catta genus:lemur year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "genus:Lemur specificepithet:catta" ; Times: 1
+	Query: "vntype:specimen genus:caluromys preparations:skeleton" ; Times: 2
+	Query: "Pterapogon kauderni" ; Times: 3
+	Query: "specificepithet:fuscescens genus:Catharus country:&#34;canada&#34; year &gt;= 1980 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "Agkistrodon bilineatus" ; Times: 1
+	Query: "skeleton (&#34;Setophaga caerulescens&#34;) institutioncode:ROM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "institutioncode:ROM Setophaga petechia" ; Times: 1
+	Query: "genus:Alcelaphus  specificepithet:buselaphus" ; Times: 1
+	Query: "specificepithet:gabonica genus:Bitis AND (NOT Tanzania NOT Uganda NOT Ghana NOT Cameroon NOT Nigeria NOT Zambia NOT Togo NOT Gabon NOT Liberia NOT Angola NOT Sudan)" ; Times: 2
+	Query: "genus:Nyctereutes" ; Times: 1
+	Query: "specificepithet:fuscescens genus:catharus country:&#34;canada&#34; year &gt;= 1980 month &gt;= 6 month &lt;= 8" ; Times: 2
+	Query: "specificepithet:catesbeianus genus:Lithobates preparations:skeleton" ; Times: 2
+	Query: "genus:Cerastes specificepithet:vipera" ; Times: 1
+	Query: "genus:Aeoliscus specificepithet:strigatus" ; Times: 1
+	Query: "genus:Amphiuma specificepithet:tridactylum" ; Times: 1
+	Query: "genus:Osmerus specificepithet:mordax" ; Times: 1
+	Query: "specificepithet:cinerea genus:Hyla preparations:skeleton" ; Times: 1
+	Query: "specificepithet:boreas genus:anaxyrus preparations:Skeleton" ; Times: 3
+	Query: "genus:Petaurista specificepithet:petaurista" ; Times: 1
+	Query: "genus:Saimiri specificepithet:sciureus" ; Times: 1
+	Query: "genus:Cairina specificepithet: moschata" ; Times: 1
+	Query: "specificepithet:iliaca genus:passerella country:&#34;canada&#34; year &gt;= 1980" ; Times: 1
+	Query: "country:Ecuador scientificname:Dasyprocta fuliginosa " ; Times: 2
+	Query: "specificepithet:fuscescens genus:Catharus country:&#34;Canada&#34; year &gt;= 1980 month &gt;= 7 month &lt;= 8" ; Times: 1
+	Query: "genus:Rhinoptera specificepithet:bonasus" ; Times: 1
+	Query: "genus:Petrogale specificepithet:penicillata" ; Times: 1
+	Query: "specificepithet:guttatus genus:catharus country:&#34;canada&#34; year &gt;= 1980 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "genus:neotoma order:rodentia class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:ROM" ; Times: 1
+	Query: "vntype:specimen specificepithet:komodoensis genus:Varanus preparations:skeleton basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "genus:Morus " ; Times: 1
+	Query: "specificepithet:olivacea genus:Gastrophryne preparations:skeleton" ; Times: 1
+	Query: "specificepithet:pusilla genus:Cardellina year &gt;= 1980 month &gt;= 7 month &lt;= 8" ; Times: 1
+	Query: "Haliaeetus leucocephalus" ; Times: 2
+	Query: "specificepithet:pipiens genus:Lithobates preparations:skeleton" ; Times: 3
+	Query: "Lynx canadensis" ; Times: 9
+	Query: "skeleton (“Hirundo rustica”) institutioncode:ROM basisofrecord:PreservedSpecimen" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 76 (out of 985 download events in this period)
+Total number of records downloaded: 2520
+Number of different countries: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 36
+	Country: Peru ; Times: 8
+	Country: Bhutan ; Times: 1
+	Country: Mexico ; Times: 12
+	Country: Unknown ; Times: 5
+	Country: Singapore ; Times: 1
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Germany ; Times: 3
+	Country: Uganda ; Times: 1
+	Country: Ecuador ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 1
+	Date: 2019-07-18 ; Times: 3
+	Date: 2019-07-12 ; Times: 4
+	Date: 2019-07-13 ; Times: 1
+	Date: 2019-07-10 ; Times: 5
+	Date: 2019-07-11 ; Times: 3
+	Date: 2019-07-16 ; Times: 1
+	Date: 2019-07-17 ; Times: 1
+	Date: 2019-07-15 ; Times: 3
+	Date: 2019-07-02 ; Times: 2
+	Date: 2019-07-23 ; Times: 1
+	Date: 2019-07-08 ; Times: 2
+	Date: 2019-07-21 ; Times: 3
+	Date: 2019-07-20 ; Times: 3
+	Date: 2019-07-26 ; Times: 2
+	Date: 2019-07-25 ; Times: 1
+	Date: 2019-07-24 ; Times: 1
+	Date: 2019-07-01 ; Times: 1
+	Date: 2019-07-30 ; Times: 12
+	Date: 2019-07-29 ; Times: 1
+	Date: 2019-07-28 ; Times: 1
+	Date: 2019-07-05 ; Times: 5
+	Date: 2019-07-04 ; Times: 2
+	Date: 2019-07-06 ; Times: 1
+	Date: 2019-07-31 ; Times: 16
+
+List of queries that retrieved data from the resource: 
+	Query: "mirounga angustirostris" ; Times: 1
+	Query: "specificepithet:fasciatus genus:Plestiodon" ; Times: 1
+	Query: "crotalus molossus" ; Times: 1
+	Query: "specificepithet:maculata genus:Holbrookia" ; Times: 1
+	Query: "Rattus norvegicus" ; Times: 3
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 4
+	Query: "Basiliscus vittatus" ; Times: 1
+	Query: "specificepithet:fuscescens genus:Catharus country:&#34;Canada&#34; year &gt;= 1980 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "Glossophaga soricina" ; Times: 3
+	Query: "skull family:Canidae institutioncode:ROM" ; Times: 1
+	Query: "Porzana carolina" ; Times: 1
+	Query: "Iguana iguana" ; Times: 1
+	Query: "specificepithet:dorsalis genus:Dipsosaurus" ; Times: 1
+	Query: "specificepithet:cornutum genus:Phrynosoma" ; Times: 1
+	Query: "class:reptilia country:&#34;Singapore&#34;" ; Times: 1
+	Query: "athene cunicularia" ; Times: 1
+	Query: "Branta canadensis" ; Times: 1
+	Query: "Desmodus rotundus" ; Times: 2
+	Query: "vntype:specimen specificepithet:striatus genus:Accipiter year &gt;= 1970" ; Times: 1
+	Query: "agkistrodon bilineatus" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;Colorado&#34; year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "skeleton (Hirundo OR Passerina OR Protonotaria OR Agelaius OR Polioptila OR Empidonax OR Botaurus OR Aix OR Dolichonyx OR Pooecetes OR Calypte OR Setophaga OR Archilochus OR Myadestes OR Vermivora OR Passerina OR Certhia OR Oporornis OR Seiurus OR Cardellina) institutioncode:ROM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:hudsonius genus:Zapus" ; Times: 1
+	Query: "Bassariscus" ; Times: 1
+	Query: "specificepithet:obsoletus genus:Plestiodon" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 2
+	Query: "genus:Pantherophis" ; Times: 1
+	Query: "specificepithet:poinsetti genus:Sceloporus" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 1
+	Query: "specificepithet:solare genus:phrynosoma" ; Times: 1
+	Query: "porzana carolina" ; Times: 1
+	Query: "specificepithet:modestum genus:Phrynosoma" ; Times: 1
+	Query: "skeleton vntype:specimen (Acanthis OR Accipiter OR Aegolius OR Agelaius OR Aix OR Ammodramus OR Ammospiza OR Anas OR Antrostomus OR Archilochus OR Asio OR Baeolophus OR Bombycilla OR Bonasa OR Botaurus OR Calypte OR Cardellina OR Cardinalis OR Carpodacus OR Catharus OR Certhia OR Chaetura OR Charadrius OR Chordeiles OR Cistothorus OR Coccyzus OR Colaptes OR Columba OR Contopus OR Corvus OR Coturnicops OR Cyanocitta OR Dolichonyx OR Dryobates OR Dumetella OR Empidonax OR Euphagus OR Falco OR Fulica OR Geothlypis OR Haemorhous OR Helmitheros OR Hirundo OR Hylocichla OR Icteria OR Icterus OR Ixobrychus OR Ixoreus OR Junco OR Larus OR Leiothlypis OR Leuconotopicus OR Loxia OR Megaceryle OR Melanerpes OR Melospiza OR Mimus OR Mniotilta OR Molothrus OR Myadestes OR Myiarchus OR Oporornis OR Parkesia OR Passer OR Passerculus OR Passerella OR Passerina OR Phasianus OR Pheucticus OR Pinicola OR Pipilo OR Piranga OR Podilymbus OR Poecile OR Polioptila OR Pooecetes OR Protonotaria OR Quiscalus OR Regulus OR Sayornis OR Scolopax OR Seiurus OR Setophaga OR Sialia OR Sitta OR Sphyrapicus OR Spinus OR Spiza OR Spizella OR Spizelloides OR Stelgidopteryx OR Sturnella OR Sturnus OR Thryothorus OR Toxostoma OR Troglodytes OR Turdus OR Tyrannus OR Vermivora OR Vireo OR Zenaida OR Zonotrichia) institutioncode:ROM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen specificepithet:canadensis genus:Branta basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "family:Pythonidae" ; Times: 1
+	Query: "Fulmarus glacialis year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "Gerrhonotus liocephalus" ; Times: 1
+	Query: "Macrochelys" ; Times: 1
+	Query: "dasypus novemcinctus" ; Times: 1
+	Query: "specificepithet:fuscescens genus:Catharus country:&#34;Canada&#34; year &gt;= 1980 month &gt;= 7 month &lt;= 8" ; Times: 1
+	Query: "specificepithet:lateralis genus:Scincella" ; Times: 1
+	Query: "Barisia imbricata" ; Times: 1
+	Query: "Protopterus" ; Times: 3
+	Query: "Ctenosaura pectinata" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "specificepithet:stansburiana genus:Uta" ; Times: 1
+	Query: "Branta bernicla" ; Times: 1
+	Query: "Crocodylus acutus" ; Times: 1
+	Query: "specificepithet:texanus genus:Cophosaurus" ; Times: 1
+	Query: "specificepithet:collaris genus:Crotaphytus" ; Times: 1
+	Query: "Heloderma horridum" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "specificepithet:wislizenii genus:Gambelia" ; Times: 3
+	Query: "Emydoidea blandingii" ; Times: 1
+	Query: "Actinemys" ; Times: 1
+	Query: "genus:Macrhybopsis" ; Times: 2
+	Query: "Eretmochelys imbricata" ; Times: 1
+	Query: "Cavia porcellus" ; Times: 1
+	Query: "specificepithet:platyrhinos genus:Phrynosoma" ; Times: 1
+	Query: "specificepithet:laticeps genus:plestiodon" ; Times: 1
+
+
+End of report.
