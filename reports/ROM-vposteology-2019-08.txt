@@ -1,0 +1,279 @@
+Report for Institution Code ROM, Resource vposteology
+Usage stats for August 2019, generated on 2019/09/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 237
+Number of records retrieved in searches: 653
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 8
+	Country: Canada ; Times: 8
+	Country: Singapore ; Times: 1
+	Country: El Salvador ; Times: 1
+	Country: Denmark ; Times: 4
+	Country: Venezuela ; Times: 7
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 33
+	Country: Peru ; Times: 13
+	Country: United States ; Times: 160
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-27 ; Times: 6
+	Date: 2019-08-28 ; Times: 4
+	Date: 2019-08-29 ; Times: 3
+	Date: 2019-08-01 ; Times: 1
+	Date: 2019-08-02 ; Times: 9
+	Date: 2019-08-03 ; Times: 4
+	Date: 2019-08-05 ; Times: 39
+	Date: 2019-08-06 ; Times: 3
+	Date: 2019-08-07 ; Times: 16
+	Date: 2019-08-08 ; Times: 19
+	Date: 2019-08-09 ; Times: 10
+	Date: 2019-08-24 ; Times: 4
+	Date: 2019-08-25 ; Times: 7
+	Date: 2019-08-22 ; Times: 4
+	Date: 2019-08-23 ; Times: 1
+	Date: 2019-08-20 ; Times: 13
+	Date: 2019-08-21 ; Times: 2
+	Date: 2019-08-17 ; Times: 2
+	Date: 2019-08-16 ; Times: 3
+	Date: 2019-08-15 ; Times: 35
+	Date: 2019-08-14 ; Times: 17
+	Date: 2019-08-13 ; Times: 7
+	Date: 2019-08-12 ; Times: 3
+	Date: 2019-08-10 ; Times: 5
+	Date: 2019-08-31 ; Times: 1
+	Date: 2019-08-30 ; Times: 8
+	Date: 2019-08-19 ; Times: 4
+	Date: 2019-08-18 ; Times: 4
+	Date: 2019-08-26 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Tamandua tetradactyla" ; Times: 1
+	Query: "Dasypus septemcinctus" ; Times: 1
+	Query: "specificepithet:triseriata genus:Pseudacris stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; institutioncode:ROM" ; Times: 1
+	Query: "Ovis aries" ; Times: 1
+	Query: "cnemidophorus lemniscatus skeleton" ; Times: 2
+	Query: "country:Ecuador scientificname:Eira barbara " ; Times: 7
+	Query: "Calidris canutus" ; Times: 2
+	Query: "specificepithet:hasitata genus:Pterodroma" ; Times: 2
+	Query: "Pristis pECTINATA" ; Times: 1
+	Query: "genus:Salvadora institutioncode:ROM" ; Times: 1
+	Query: "Dyscophus" ; Times: 1
+	Query: "Dasypus hybridus" ; Times: 1
+	Query: "tremarctos ornatus" ; Times: 1
+	Query: "Panthera onca" ; Times: 10
+	Query: "Sistrurus catenatus catenatus" ; Times: 15
+	Query: "Pangasius pangasius" ; Times: 1
+	Query: "paleosuchus" ; Times: 5
+	Query: "specificepithet:demersus genus:Spheniscus" ; Times: 2
+	Query: "genus:Cairina specificepithet: moschata" ; Times: 1
+	Query: "specificepithet:Willardi genus:Crotalus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Oxydoras niger" ; Times: 1
+	Query: "Cervus nippon" ; Times: 1
+	Query: "Crocodylus acutus" ; Times: 6
+	Query: "Amazona festiva" ; Times: 1
+	Query: "Lycaon pictus" ; Times: 1
+	Query: "specificepithet:virescens genus:Butorides class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "leopardus jacobita" ; Times: 1
+	Query: "Drymarchon couperi" ; Times: 17
+	Query: "Cavia porcellus" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "sistrurus south carolina" ; Times: 2
+	Query: "skeleton specificepithet:corax genus:Corvus institutioncode:ROM" ; Times: 1
+	Query: "Phrynops hilarii" ; Times: 1
+	Query: "Sistrurus catenatus" ; Times: 9
+	Query: "Anhinga rufa" ; Times: 1
+	Query: "Octodon degus" ; Times: 1
+	Query: "family:Spheniscidae sex:Female institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:giganteus (skeleton) institutioncode:ROM" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 5
+	Query: "Aptenodytes forsteri" ; Times: 1
+	Query: "Zapus hudsonius" ; Times: 6
+	Query: "Sphyrna media" ; Times: 1
+	Query: "Astronotus ocellatus" ; Times: 1
+	Query: "Serinus canaria" ; Times: 1
+	Query: "Carcharhinus perezi" ; Times: 1
+	Query: "Ovis dalli" ; Times: 1
+	Query: "genus:Eutamias specificepithet:minimus" ; Times: 1
+	Query: "Hypostomus plecostomus" ; Times: 2
+	Query: "paleosuchus vntype:specimen" ; Times: 1
+	Query: "Carcharhinus altimus" ; Times: 1
+	Query: "Milvago chimango" ; Times: 1
+	Query: "specificepithet:laniarius genus:Sarcophilus" ; Times: 1
+	Query: "Pristis pectinata" ; Times: 1
+	Query: "Bos taurus L." ; Times: 1
+	Query: "Pterygoplichthys pardalis" ; Times: 1
+	Query: "Myrmecophaga tridactyla" ; Times: 1
+	Query: "genus:Morus  specificepithet:bassanus" ; Times: 1
+	Query: "Rhea americana" ; Times: 2
+	Query: "crotalus horridus south carolina" ; Times: 1
+	Query: "Cygnus melancoryphus" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 4
+	Query: "genus:Dispholidus specificepithet:typus" ; Times: 1
+	Query: "specificepithet:sanborni genus:Leptonycteris" ; Times: 2
+	Query: "genus:Actinemys specificepithet:marmorata" ; Times: 1
+	Query: "Cichla ocellaris" ; Times: 1
+	Query: "Apteryx mantelli" ; Times: 2
+	Query: "institutioncode:ROM tremarctos" ; Times: 1
+	Query: "Pan paniscus" ; Times: 1
+	Query: "specificepithet:triseriata genus:Pseudacris institutioncode:ROM" ; Times: 1
+	Query: "Lophura nycthemera" ; Times: 1
+	Query: "Tamandua mexicana" ; Times: 1
+	Query: "Piaractus brachypomus" ; Times: 2
+	Query: "Coccyzus americanus" ; Times: 2
+	Query: "specificepithet:hasitata genus:Pterodroma preparations:skeleton" ; Times: 1
+	Query: "Chaetophractus villosus" ; Times: 1
+	Query: "Lactophrys bicaudalis" ; Times: 2
+	Query: "genus:Crocodylus  specificepithet:porosus" ; Times: 1
+	Query: "Spheniscus humboldti" ; Times: 1
+	Query: "Alopias superciliosus" ; Times: 1
+	Query: "Pseudocarcharias kamoharai" ; Times: 1
+	Query: "Apteryx mantelli rom" ; Times: 1
+	Query: "Vulpes macrotis" ; Times: 5
+	Query: "Neotoma fuscipes" ; Times: 1
+	Query: "leopardus colocolo" ; Times: 1
+	Query: "Pterodroma hasitata" ; Times: 1
+	Query: "cemophora coccinea south carolina" ; Times: 1
+	Query: "specificepithet:corax genus:Corvus institutioncode:ROM" ; Times: 1
+	Query: "class:Mammalia country:&#34;Uruguay&#34; institutioncode:ROM" ; Times: 1
+	Query: "genus:Alcelaphus  specificepithet:buselaphus" ; Times: 1
+	Query: "Saimiri sciureus" ; Times: 1
+	Query: "panthera uncia" ; Times: 1
+	Query: "Gazella dorcas" ; Times: 1
+	Query: "Agkistrodon bilineatus" ; Times: 1
+	Query: "Farlowella amazonum" ; Times: 1
+	Query: "Pseudomystus siamensis" ; Times: 1
+	Query: "Lynx canadensis" ; Times: 12
+	Query: "genus:Ovibos preparations:Skeleton" ; Times: 1
+	Query: "specificepithet:virescens class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Spheniscus magellanicus" ; Times: 1
+	Query: "Drymarchon corais" ; Times: 6
+	Query: "Colossoma macropomum" ; Times: 1
+	Query: "specificepithet:sanborni genus:leptonycteris" ; Times: 1
+	Query: "country:Ecuador scientificname:Dasyprocta fuliginosa " ; Times: 14
+	Query: "Phractocephalus hemioliopterus" ; Times: 1
+	Query: "genus:Morus " ; Times: 1
+	Query: "Crotalus meridionalis" ; Times: 5
+	Query: "genus:Cypselurus specificepithet:melanurus" ; Times: 1
+	Query: "specificepithet:butleri genus:Thamnophis stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; institutioncode:ROM" ; Times: 1
+	Query: "Empidonax traillii" ; Times: 2
+	Query: "Zaedyus pichiy" ; Times: 1
+	Query: "Trimeresurus fasciatus" ; Times: 1
+	Query: "Coccyzus americanus americanus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 77 (out of 1034 download events in this period)
+Total number of records downloaded: 444
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 24
+	Country: Unknown ; Times: 2
+	Country: France ; Times: 2
+	Country: United States ; Times: 36
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 3
+	Country: Bolivia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-27 ; Times: 1
+	Date: 2019-08-08 ; Times: 1
+	Date: 2019-08-29 ; Times: 6
+	Date: 2019-08-01 ; Times: 1
+	Date: 2019-08-02 ; Times: 6
+	Date: 2019-08-03 ; Times: 1
+	Date: 2019-08-05 ; Times: 11
+	Date: 2019-08-28 ; Times: 4
+	Date: 2019-08-07 ; Times: 2
+	Date: 2019-08-26 ; Times: 3
+	Date: 2019-08-09 ; Times: 1
+	Date: 2019-08-24 ; Times: 1
+	Date: 2019-08-25 ; Times: 4
+	Date: 2019-08-22 ; Times: 1
+	Date: 2019-08-23 ; Times: 1
+	Date: 2019-08-20 ; Times: 5
+	Date: 2019-08-21 ; Times: 2
+	Date: 2019-08-16 ; Times: 2
+	Date: 2019-08-15 ; Times: 5
+	Date: 2019-08-14 ; Times: 1
+	Date: 2019-08-13 ; Times: 4
+	Date: 2019-08-12 ; Times: 3
+	Date: 2019-08-10 ; Times: 2
+	Date: 2019-08-31 ; Times: 5
+	Date: 2019-08-30 ; Times: 3
+	Date: 2019-08-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "lasiurus borealis" ; Times: 1
+	Query: "lepus americanus" ; Times: 1
+	Query: "genus:Phrynosoma country:&#34;MEXICO&#34;" ; Times: 1
+	Query: "crotalus molossus" ; Times: 1
+	Query: "nycticeius humeralis" ; Times: 2
+	Query: "sistrurus catenatus tergeminus" ; Times: 1
+	Query: "Micrurus lemniscatus" ; Times: 1
+	Query: "typhlops" ; Times: 1
+	Query: "specificepithet:Latrans genus:Canis stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Hemidactylus turcicus" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 1
+	Query: "specificepithet:princeps genus:Ochotona" ; Times: 1
+	Query: "Pituophis deppei" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "lasiurus seminolus" ; Times: 1
+	Query: "irroratus" ; Times: 2
+	Query: "Dipsadidae" ; Times: 1
+	Query: "Lepus californicus" ; Times: 1
+	Query: "genus:Ovibos preparations:Skeleton" ; Times: 1
+	Query: "(passer domesticus) year &gt;= 2000 year &lt;= 2019" ; Times: 1
+	Query: "Desmodus rotundus" ; Times: 1
+	Query: "myotis velifer" ; Times: 1
+	Query: "Bassariscus" ; Times: 1
+	Query: "Anniella pulchra" ; Times: 1
+	Query: "vntype:specimen specificepithet:noctivagans genus:Lasionycteris year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "specificepithet:sanborni genus:leptonycteris" ; Times: 1
+	Query: "Aquila chrysaetos" ; Times: 1
+	Query: "EIRA BARBARA" ; Times: 1
+	Query: "artibeus phaeotis" ; Times: 1
+	Query: "Liomys irroratus" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "Potos" ; Times: 1
+	Query: "specificepithet:gentilis genus:Accipiter AND (NOT cooperii NOT striatus) year &gt;= 1990" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "Crotalus atrox" ; Times: 2
+	Query: "ochotona princeps" ; Times: 6
+	Query: "lasionycteris noctivagans" ; Times: 1
+	Query: "Phrynosoma orbiculare" ; Times: 1
+	Query: "Acrochordus" ; Times: 1
+	Query: "paleosuchus vntype:specimen" ; Times: 1
+	Query: "eumeces schneideri" ; Times: 1
+	Query: "crotalus ruber" ; Times: 1
+	Query: "carollia subrufa" ; Times: 1
+	Query: "loxodonta africana" ; Times: 1
+	Query: "anoura geoffroyi" ; Times: 1
+	Query: "institutioncode:ROM tremarctos" ; Times: 1
+	Query: "Ovibos" ; Times: 1
+	Query: "leopardus colocolo" ; Times: 1
+	Query: "specificepithet:cinerea genus:Hyla" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "natricidae" ; Times: 1
+	Query: "Crotalus molossus" ; Times: 1
+	Query: "Nasua" ; Times: 1
+	Query: "panthera tigris" ; Times: 4
+	Query: "lasiurus intermedius" ; Times: 1
+	Query: "rhinella marina" ; Times: 2
+	Query: "sceloporus torquatus" ; Times: 2
+	Query: "Acrochordus javanicus" ; Times: 1
+	Query: "myotis austroriparius" ; Times: 1
+	Query: "Mulloidichthys martinicus" ; Times: 2
+	Query: "Rhinocheilus lecontei" ; Times: 1
+	Query: "Chrysemys picta marginata" ; Times: 1
+
+
+End of report.
