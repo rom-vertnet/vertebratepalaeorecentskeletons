@@ -1,0 +1,273 @@
+Report for Institution Code ROM, Resource vposteology
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 264
+Number of records retrieved in searches: 908
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 52
+	Country: United States ; Times: 195
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Philippines ; Times: 1
+	Country: Nepal ; Times: 2
+	Country: United Kingdom ; Times: 6
+	Country: New Zealand ; Times: 3
+	Country: Bolivia ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-14 ; Times: 3
+	Date: 2019-09-16 ; Times: 6
+	Date: 2019-09-17 ; Times: 9
+	Date: 2019-09-10 ; Times: 5
+	Date: 2019-09-11 ; Times: 9
+	Date: 2019-09-12 ; Times: 9
+	Date: 2019-09-13 ; Times: 6
+	Date: 2019-09-18 ; Times: 4
+	Date: 2019-09-19 ; Times: 5
+	Date: 2019-09-30 ; Times: 2
+	Date: 2019-09-09 ; Times: 14
+	Date: 2019-09-08 ; Times: 3
+	Date: 2019-09-03 ; Times: 10
+	Date: 2019-09-02 ; Times: 3
+	Date: 2019-09-07 ; Times: 2
+	Date: 2019-09-06 ; Times: 79
+	Date: 2019-09-05 ; Times: 7
+	Date: 2019-09-04 ; Times: 32
+	Date: 2019-09-21 ; Times: 3
+	Date: 2019-09-20 ; Times: 2
+	Date: 2019-09-23 ; Times: 2
+	Date: 2019-09-24 ; Times: 27
+	Date: 2019-09-27 ; Times: 4
+	Date: 2019-09-26 ; Times: 18
+
+List of queries that retrieved data from the resource: 
+	Query: "family:Canidae collectioncode:Vertebrate Palaeontology institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus institutioncode:ROM" ; Times: 2
+	Query: "specificepithet:fuscescens genus:Catharus country:&#34;canada&#34; year &gt;= 1985 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "debilis specificepithet:debilis stateprovince:&#34;Texas&#34; year &gt;= 1970 year &lt;= 1979" ; Times: 1
+	Query: "specificepithet:fuscescens genus:Catharus country:&#34;canada&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "specificepithet:pusilla genus:cardellina country:&#34;canada&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "Calidris canutus" ; Times: 5
+	Query: "specificepithet:americana genus:certhia stateprovince:&#34;ontario&#34; institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:citrea genus:protonotaria institutioncode:ROM" ; Times: 1
+	Query: "Bothrops ammodytoides" ; Times: 1
+	Query: "specificepithet:hiemalis genus:Troglodytes stateprovince:&#34;ontario&#34; institutioncode:ROM" ; Times: 2
+	Query: "vntype:specimen genus:siren (skull)" ; Times: 1
+	Query: "genus:Lynx collectioncode:Vertebrate Palaeontology institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:agilis genus:Oporornis institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:pseudogeographica genus:graptemys preparations:skeleton" ; Times: 1
+	Query: "Panthera onca" ; Times: 10
+	Query: "Fossa fossana" ; Times: 2
+	Query: "specificepithet:rufus genus:canis country:&#34;USA&#34;" ; Times: 1
+	Query: "specificepithet:iliaca genus:Passerella institutioncode:ROM" ; Times: 1
+	Query: "tremarctos ornatus" ; Times: 1
+	Query: "specificepithet:canadensis genus:Falcipennis stateprovince:&#34;ontario&#34; institutioncode:ROM" ; Times: 2
+	Query: "specificepithet:garrulus genus:bombycilla stateprovince:&#34;ontario&#34; institutioncode:ROM" ; Times: 1
+	Query: "country:Ecuador scientificname:Eira barbara " ; Times: 8
+	Query: "specificepithet:virescens genus:Butorides class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 5
+	Query: "country:Ecuador scientificname:Potos flavus " ; Times: 2
+	Query: "specificepithet:sparverius genus:Falco stateprovince:&#34;saskatchewan&#34; institutioncode:ROM" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "genus:Gavialis" ; Times: 3
+	Query: "vntype:specimen genus:Ovibos preparations:Skeleton hassex:1" ; Times: 3
+	Query: "Atropoides" ; Times: 1
+	Query: "specificepithet:tristis genus:Spinus stateprovince:&#34;ontario&#34; institutioncode:ROM" ; Times: 1
+	Query: "indotestudo elongata" ; Times: 2
+	Query: "family:SCIURIDAE order:RODENTIA class:mammalia stateprovince:&#34;south carolina&#34;" ; Times: 2
+	Query: "specificepithet:livia genus:Columba stateprovince:&#34;ontario&#34; institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:umbellus genus:bonasa stateprovince:&#34;quebec&#34; institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:leucopus genus:peromyscus family:cricetidae order:rodentia class:mammalia stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "genus:cryptotis class:mammalia stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "specificepithet:leucocephalus genus:Haliaeetus stateprovince:&#34;ontario&#34; institutioncode:ROM" ; Times: 1
+	Query: "locality:Alberta institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:melodia genus:Melospiza stateprovince:&#34;ontario&#34; institutioncode:ROM" ; Times: 1
+	Query: "genus:Corvus stateprovince:&#34;Alberta&#34; institutioncode:ROM" ; Times: 1
+	Query: "nivalis mustela" ; Times: 1
+	Query: "specificepithet:pinus genus:Setophaga stateprovince:&#34;ontario&#34; institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:hexalepis genus:Salvadora county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:Perdix genus:Perdix stateprovince:&#34;ontario&#34; institutioncode:ROM" ; Times: 1
+	Query: "Panthera uncia" ; Times: 1
+	Query: "genus:glaucomys order:rodentia class:mammalia stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "Dryocopus pileatus skeleton" ; Times: 2
+	Query: "genus:Ovibos preparations:Skeleton hassex:1" ; Times: 1
+	Query: "specificepithet:atricapillus genus:Poecile stateprovince:&#34;ontario&#34; institutioncode:ROM" ; Times: 2
+	Query: "Peromyscus maniculatus 1982" ; Times: 1
+	Query: "specificepithet:pusilla genus:cardellina country:&#34;canada&#34; month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "genus:Dasyprocta institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:sandwichensis genus:Passerculus institutioncode:ROM" ; Times: 4
+	Query: "genus:Trimorphodon county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:ochrotomys order:rodentia class:mammalia stateprovince:&#34;south carolina&#34;" ; Times: 2
+	Query: "specificepithet:scandiacus genus:Bubo stateprovince:&#34;ontario&#34; institutioncode:ROM" ; Times: 1
+	Query: "Agkistrodon taylori" ; Times: 3
+	Query: "Neotoma cinerea" ; Times: 6
+	Query: "nigripes Mustela" ; Times: 5
+	Query: "specificepithet:melodia genus:melospiza stateprovince:&#34;ontario&#34; institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:willardi genus:Crotalus county:&#34;Cochise&#34;" ; Times: 1
+	Query: "Cyclura cornuta" ; Times: 1
+	Query: "genus:Megascops institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:striatus genus:Butorides class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 5
+	Query: "specificepithet:hudsonia genus:Pica stateprovince:&#34;alberta&#34; institutioncode:ROM" ; Times: 1
+	Query: "Apteryx" ; Times: 3
+	Query: "agkistrodon bilineatus" ; Times: 2
+	Query: "genus:Glaucomys stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Peromyscus maniculatus 1996" ; Times: 2
+	Query: "Peromyscus maniculatus 1997" ; Times: 2
+	Query: "Peromyscus maniculatus 1994" ; Times: 2
+	Query: "Peromyscus maniculatus 1995" ; Times: 1
+	Query: "Peromyscus maniculatus 1992" ; Times: 2
+	Query: "Peromyscus maniculatus 1990" ; Times: 1
+	Query: "Peromyscus maniculatus 1991" ; Times: 4
+	Query: "Coccyzus americanus" ; Times: 10
+	Query: "specificepithet:palmarum genus:Setophaga stateprovince:&#34;ontario&#34; institutioncode:ROM" ; Times: 1
+	Query: "ailurus fulgens" ; Times: 1
+	Query: "order:Carnivora collectioncode:Vertebrate Palaeontology institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:atricapillus genus:Poecile institutioncode:ROM" ; Times: 1
+	Query: "Apteryx mantelli rom" ; Times: 1
+	Query: "Pterapogon kauderni" ; Times: 1
+	Query: "order:chiroptera class:mammalia stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "genus:blarina class:mammalia stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "vntype:specimen genus:siren preparations:skull" ; Times: 1
+	Query: "specificepithet:tigrina genus:Setophaga stateprovince:&#34;ontario&#34; institutioncode:ROM" ; Times: 1
+	Query: "Osteological order:Carnivora collectioncode:Vertebrate Palaeontology institutioncode:ROM" ; Times: 1
+	Query: "skeleton specificepithet:auritus genus:phalacrocorax institutioncode:ROM" ; Times: 1
+	Query: "Agkistrodon bilineatus" ; Times: 3
+	Query: "specificepithet:chrysaetos genus:Aquila stateprovince:&#34;ontario&#34; institutioncode:ROM" ; Times: 1
+	Query: "Microtus pennsylvanicus 1988" ; Times: 1
+	Query: "Microtus pennsylvanicus 1989" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;South Dakota&#34;" ; Times: 2
+	Query: "Microtus pennsylvanicus 1986" ; Times: 1
+	Query: "Microtus pennsylvanicus 1987" ; Times: 1
+	Query: "Cryptoprocta ferox" ; Times: 4
+	Query: "Lynx canadensis" ; Times: 12
+	Query: "genus:Ovibos preparations:Skeleton" ; Times: 2
+	Query: "lampropeltis pyromelana" ; Times: 2
+	Query: "specificepithet:funereus genus:aegolius stateprovince:&#34;ontario&#34; institutioncode:ROM" ; Times: 1
+	Query: "Drymarchon corais" ; Times: 20
+	Query: "specificepithet:hudsonia genus:Pica stateprovince:&#34;saskatchewan&#34; institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:arborea genus:Spizelloides stateprovince:&#34;ontario&#34; institutioncode:ROM" ; Times: 1
+	Query: "Python molurus" ; Times: 1
+	Query: "country:Ecuador scientificname:Dasyprocta fuliginosa " ; Times: 7
+	Query: "Microtus pennsylvanicus 1999" ; Times: 1
+	Query: "Microtus pennsylvanicus 1998" ; Times: 1
+	Query: "Microtus pennsylvanicus 1996" ; Times: 1
+	Query: "Microtus pennsylvanicus 1994" ; Times: 1
+	Query: "Microtus pennsylvanicus 1993" ; Times: 1
+	Query: "Microtus pennsylvanicus 1992" ; Times: 1
+	Query: "Microtus pennsylvanicus 1991" ; Times: 1
+	Query: "specificepithet:constrictor genus:Coluber country:&#34;Canada&#34;" ; Times: 1
+	Query: "canis rufus" ; Times: 2
+	Query: "Empidonax traillii" ; Times: 8
+	Query: "woodhousii specificepithet:woodhousii family:bufonidae stateprovince:&#34;Texas&#34; year &gt;= 1990 year &lt;= 1999" ; Times: 1
+	Query: "genus:Chionactis county:&#34;Riverside&#34; stateprovince:&#34;California&#34; year &gt;= 1990 year &lt;= 1999" ; Times: 1
+	Query: "Lampropeltis floridana" ; Times: 1
+	Query: "Coccyzus americanus americanus" ; Times: 18
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 62 (out of 1073 download events in this period)
+Total number of records downloaded: 1535
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Brunei ; Times: 1
+	Country: Canada ; Times: 2
+	Country: Mexico ; Times: 11
+	Country: Unknown ; Times: 1
+	Country: Indonesia ; Times: 1
+	Country: United States ; Times: 38
+	Country: Germany ; Times: 1
+	Country: Paraguay ; Times: 1
+	Country: Japan ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-16 ; Times: 3
+	Date: 2019-09-17 ; Times: 3
+	Date: 2019-09-10 ; Times: 1
+	Date: 2019-09-11 ; Times: 2
+	Date: 2019-09-12 ; Times: 1
+	Date: 2019-09-13 ; Times: 1
+	Date: 2019-09-18 ; Times: 3
+	Date: 2019-09-19 ; Times: 4
+	Date: 2019-09-30 ; Times: 3
+	Date: 2019-09-09 ; Times: 4
+	Date: 2019-09-08 ; Times: 1
+	Date: 2019-09-03 ; Times: 4
+	Date: 2019-09-02 ; Times: 2
+	Date: 2019-09-07 ; Times: 3
+	Date: 2019-09-06 ; Times: 3
+	Date: 2019-09-05 ; Times: 2
+	Date: 2019-09-04 ; Times: 2
+	Date: 2019-09-20 ; Times: 1
+	Date: 2019-09-23 ; Times: 2
+	Date: 2019-09-22 ; Times: 1
+	Date: 2019-09-25 ; Times: 2
+	Date: 2019-09-27 ; Times: 3
+	Date: 2019-09-26 ; Times: 7
+	Date: 2019-09-29 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "mirounga angustirostris" ; Times: 1
+	Query: "PANTHERA ONCA" ; Times: 2
+	Query: "specificepithet:turcicus genus:Hemidactylus" ; Times: 1
+	Query: "crocodylus acutus" ; Times: 1
+	Query: "Osteological order:Carnivora collectioncode:Vertebrate Palaeontology institutioncode:ROM" ; Times: 1
+	Query: "Tantilla coronata" ; Times: 2
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: "lampropeltis pyromelana" ; Times: 1
+	Query: "Setophaga castanea" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 3
+	Query: "Crocodylus niloticus" ; Times: 1
+	Query: "Bothrops asper" ; Times: 1
+	Query: "ailurus fulgens" ; Times: 1
+	Query: "specificepithet:dorsatum genus:Erethizon" ; Times: 1
+	Query: "Setophaga pinus" ; Times: 1
+	Query: "carcharhinus leucas" ; Times: 2
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "genus:Peromyscus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "Trimorphodon biscutatus" ; Times: 1
+	Query: "Setophaga magnolia" ; Times: 1
+	Query: "specificepithet:inornata genus:Aspidoscelis" ; Times: 1
+	Query: "vntype:specimen genus:Ovibos preparations:Skeleton hassex:1" ; Times: 1
+	Query: "specificepithet:megalotis genus:Reithrodontomys stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "agkistrodon bilineatus" ; Times: 1
+	Query: "Actinemys marmorata" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Sciurus" ; Times: 1
+	Query: "specificepithet:rufus genus:canis" ; Times: 2
+	Query: "Opheodrys" ; Times: 1
+	Query: "Delphinapterus leucas skull" ; Times: 1
+	Query: "Tamandua mexicana" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "coleonyx variegatus" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "specificepithet:latimanus genus:scapanus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "boa imperator" ; Times: 1
+	Query: "Hydrophis ornatus" ; Times: 1
+	Query: "order:Carnivora collectioncode:Vertebrate Palaeontology institutioncode:ROM" ; Times: 1
+	Query: "Reptilia Dakota" ; Times: 1
+	Query: "genus:Anolis stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "genus:Rhinocheilus" ; Times: 1
+	Query: "specificepithet:iguana genus:Iguana" ; Times: 1
+	Query: "Dipsosaurus dorsalis" ; Times: 1
+	Query: "genus:Arizona" ; Times: 1
+	Query: "Pterodroma vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "deirochelys" ; Times: 1
+	Query: "Microtus ochrogaster specificepithet:ochrogaster genus:Microtus" ; Times: 1
+	Query: "canis rufus" ; Times: 1
+	Query: "Setophaga palmarum" ; Times: 1
+	Query: "Amphibia Dakota" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "class:Mammalia country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "ateles geoffroyi" ; Times: 1
+	Query: "specificepithet:armiger genus:Hipposideros" ; Times: 1
+
+
+End of report.
