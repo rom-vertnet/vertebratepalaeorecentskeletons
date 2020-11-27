@@ -1,0 +1,272 @@
+Report for Institution Code ROM, Resource vposteology
+Usage stats for February 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 117
+Number of records retrieved in searches: 308
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 7
+	Country: United States ; Times: 89
+	Country: Mexico ; Times: 2
+	Country: Egypt ; Times: 1
+	Country: United Kingdom ; Times: 4
+	Country: Vietnam ; Times: 5
+	Country: Germany ; Times: 2
+	Country: Spain ; Times: 2
+	Country: Brazil ; Times: 4
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-05 ; Times: 13
+	Date: 2020-02-24 ; Times: 2
+	Date: 2020-02-25 ; Times: 3
+	Date: 2020-02-26 ; Times: 5
+	Date: 2020-02-01 ; Times: 5
+	Date: 2020-02-20 ; Times: 6
+	Date: 2020-02-21 ; Times: 5
+	Date: 2020-02-04 ; Times: 8
+	Date: 2020-02-23 ; Times: 1
+	Date: 2020-02-08 ; Times: 3
+	Date: 2020-02-09 ; Times: 6
+	Date: 2020-02-28 ; Times: 3
+	Date: 2020-02-11 ; Times: 7
+	Date: 2020-02-10 ; Times: 5
+	Date: 2020-02-13 ; Times: 4
+	Date: 2020-02-12 ; Times: 6
+	Date: 2020-02-14 ; Times: 4
+	Date: 2020-02-17 ; Times: 3
+	Date: 2020-02-16 ; Times: 1
+	Date: 2020-02-19 ; Times: 3
+	Date: 2020-02-18 ; Times: 2
+	Date: 2020-02-02 ; Times: 3
+	Date: 2020-02-03 ; Times: 9
+	Date: 2020-02-27 ; Times: 6
+	Date: 2020-02-06 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "TREMARCTOS ORNATUS" ; Times: 1
+	Query: "coluber constrictor vntype:specimen institutioncode:ROM" ; Times: 1
+	Query: "Lichanura trivirgata gracia" ; Times: 1
+	Query: "Panthera uncia basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "fulmarus glacialis canada year &gt;= 1980 year &lt;= 2020" ; Times: 2
+	Query: "genus:Chelonoidis (Galapagos OR Ecuador)" ; Times: 1
+	Query: "Thamnophis sirtalis tetrataenia" ; Times: 2
+	Query: "specificepithet:onca genus:Panthera family:Felidae institutioncode:ROM" ; Times: 1
+	Query: "eunectes murinus" ; Times: 4
+	Query: "country:Ecuador scientificname:Eira barbara " ; Times: 1
+	Query: "specificepithet:doreanus genus:varanus" ; Times: 1
+	Query: "specificepithet:kingi institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:woodhousii genus:Anaxyrus county:&#34;Riverside&#34;" ; Times: 1
+	Query: "specificepithet:woodhousii locality:mecca county:&#34;riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Lichanura gracia" ; Times: 1
+	Query: "&#34;Tremarctos ornatus&#34;" ; Times: 8
+	Query: "&#34;Ailurus Fulgens&#34;" ; Times: 1
+	Query: "specificepithet:carteri genus:Pristurus institutioncode:ROM" ; Times: 1
+	Query: "Protopterus aethiopicus" ; Times: 1
+	Query: "specificepithet:varius genus:Sphyrapicus class:Aves county:&#34;Toronto&#34; stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:pentadactyla" ; Times: 3
+	Query: "thamnophis sirtalis tetrataenia" ; Times: 2
+	Query: "Vipera latastei" ; Times: 2
+	Query: "specificepithet:lombardoi" ; Times: 2
+	Query: "Actinemys marmorata" ; Times: 1
+	Query: "(Tremarctos ornatus)" ; Times: 1
+	Query: "family:Falconidae institutioncode:ROM" ; Times: 1
+	Query: "(tremarctos ornatus)" ; Times: 1
+	Query: "Varanus komodoensis" ; Times: 4
+	Query: "country:Ecuador scientificname:Potos flavus " ; Times: 2
+	Query: "Dermoptera" ; Times: 4
+	Query: "ROM 3088" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 3
+	Query: "country:Ecuador scientificname:Dasyprocta fuliginosa " ; Times: 4
+	Query: "genus:puma family:Felidae institutioncode:ROM" ; Times: 2
+	Query: "Panthera onca" ; Times: 1
+	Query: "genus:Odobenus preparations:skull institutioncode:ROM" ; Times: 2
+	Query: "class:mammalia catalognumber:1392" ; Times: 2
+	Query: "varanus komodoensis" ; Times: 1
+	Query: "bison atlas" ; Times: 1
+	Query: "ailurus fulgens" ; Times: 3
+	Query: "family:bufonidae locality:mecca stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "cystophora" ; Times: 1
+	Query: "specificepithet:woodhousii family:bufonidae county:&#34;riverside&#34; stateprovince:&#34;california&#34;" ; Times: 2
+	Query: "Pongo pygmaeus haslifestage:1" ; Times: 1
+	Query: "genus:Odobenus preparations:skull" ; Times: 3
+	Query: "order:Accipitriformes institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:woodhousii locality:mecca county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Manis pentadactyla" ; Times: 1
+	Query: "baculum institutioncode:ROM" ; Times: 1
+	Query: "tremarctos ornatus" ; Times: 2
+	Query: "Platysternon megacephalum" ; Times: 5
+	Query: "Panthera uncia" ; Times: 1
+	Query: "Theloderma Corticale" ; Times: 2
+	Query: "Agkistrodon bilineatus" ; Times: 1
+	Query: "chelonoidis" ; Times: 1
+	Query: "specificepithet:micropus genus:Neotoma institutioncode:ROM" ; Times: 1
+	Query: "family:Accipitridae institutioncode:ROM" ; Times: 1
+	Query: "colocolo" ; Times: 1
+	Query: "crotalus willardi" ; Times: 1
+	Query: "Lampropeltis triangulum celaenops" ; Times: 1
+	Query: "specificepithet:woodhousii genus:Anaxyrus stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "specificepithet:dekayi genus:Storeria country:&#34;Canada&#34; year &gt;= 1970 year &lt;= 2020" ; Times: 1
+	Query: "dermoptera" ; Times: 6
+	Query: "&#34;tremarctos ornatus&#34;" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 226 (out of 1023 download events in this period)
+Total number of records downloaded: 1020
+Number of different countries: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 3
+	Country: Australia ; Times: 2
+	Country: Mexico ; Times: 15
+	Country: Egypt ; Times: 1
+	Country: Unknown ; Times: 4
+	Country: Turkey ; Times: 1
+	Country: France ; Times: 3
+	Country: United Kingdom ; Times: 2
+	Country: Vietnam ; Times: 2
+	Country: Chile ; Times: 1
+	Country: Guyana ; Times: 1
+	Country: Belgium ; Times: 3
+	Country: Thailand ; Times: 2
+	Country: Argentina ; Times: 2
+	Country: United States ; Times: 182
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-05 ; Times: 27
+	Date: 2020-02-02 ; Times: 17
+	Date: 2020-02-03 ; Times: 31
+	Date: 2020-02-26 ; Times: 9
+	Date: 2020-02-01 ; Times: 9
+	Date: 2020-02-20 ; Times: 2
+	Date: 2020-02-21 ; Times: 1
+	Date: 2020-02-04 ; Times: 20
+	Date: 2020-02-23 ; Times: 1
+	Date: 2020-02-08 ; Times: 4
+	Date: 2020-02-09 ; Times: 4
+	Date: 2020-02-28 ; Times: 9
+	Date: 2020-02-29 ; Times: 4
+	Date: 2020-02-11 ; Times: 5
+	Date: 2020-02-10 ; Times: 2
+	Date: 2020-02-13 ; Times: 4
+	Date: 2020-02-12 ; Times: 4
+	Date: 2020-02-15 ; Times: 2
+	Date: 2020-02-14 ; Times: 2
+	Date: 2020-02-17 ; Times: 3
+	Date: 2020-02-16 ; Times: 3
+	Date: 2020-02-19 ; Times: 8
+	Date: 2020-02-18 ; Times: 2
+	Date: 2020-02-24 ; Times: 3
+	Date: 2020-02-25 ; Times: 4
+	Date: 2020-02-27 ; Times: 12
+	Date: 2020-02-06 ; Times: 31
+	Date: 2020-02-07 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "coluber constrictor vntype:specimen institutioncode:ROM" ; Times: 1
+	Query: "sorex cinereus" ; Times: 1
+	Query: "Taricha" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 6
+	Query: "specificepithet:americana genus:martes stateprovince:&#34;British columbia&#34;" ; Times: 1
+	Query: "&#34;Tremarctos ornatus&#34;" ; Times: 17
+	Query: "genus:dasyprocta" ; Times: 1
+	Query: "Enhydra lutris" ; Times: 1
+	Query: "class:Amphibia county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:varia genus:strix" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "genus:Cryptotis stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 2
+	Query: "Panthera onca" ; Times: 1
+	Query: "vntype:specimen genus:Graphiurus" ; Times: 1
+	Query: "(dermoptera)" ; Times: 5
+	Query: "&#34;North Bay&#34; vntype:specimen institutioncode:ROM" ; Times: 1
+	Query: "class:reptilia county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:woodhousii family:bufonidae county:&#34;riverside&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "tremarctos ornatus" ; Times: 5
+	Query: "fulmarus glacialis year &gt;= 1990 year &lt;= 2020" ; Times: 1
+	Query: "family:Accipitridae institutioncode:ROM" ; Times: 1
+	Query: "Crotalus cerberus" ; Times: 7
+	Query: "order:Dermoptera" ; Times: 2
+	Query: "specificepithet:dekayi genus:Storeria country:&#34;Canada&#34; year &gt;= 1970 year &lt;= 2020" ; Times: 1
+	Query: "DERMOPTERA" ; Times: 2
+	Query: "(Dermoptera)" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 2
+	Query: "vntype:specimen order:Primates" ; Times: 1
+	Query: "&#34;Cerastes cerastes&#34;" ; Times: 1
+	Query: "TREMARCTOS &#34;ORNATUS&#34;" ; Times: 1
+	Query: "genus:Tamiasciurus" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 4
+	Query: "specificepithet:dekayi genus:Storeria year &gt;= 1970 year &lt;= 2020" ; Times: 1
+	Query: "lynx canadensis" ; Times: 1
+	Query: "Tyto alba" ; Times: 1
+	Query: "specificepithet:woodhousii genus:Anaxyrus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "order:dermoptera" ; Times: 3
+	Query: "order:Accipitriformes institutioncode:ROM" ; Times: 1
+	Query: "Monachus" ; Times: 1
+	Query: "Platysternon megacephalum" ; Times: 2
+	Query: "didelphis virginiana" ; Times: 1
+	Query: "Varanus salvator" ; Times: 1
+	Query: "Tremarctos &#34;ornatus&#34;" ; Times: 1
+	Query: "genus:Manis" ; Times: 1
+	Query: "(Tremarctos ornatus)" ; Times: 3
+	Query: "Eira barbara" ; Times: 1
+	Query: "Peromyscus leucopus" ; Times: 1
+	Query: "class:amphibia county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "class:reptilia county:&#34;San Diego&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "&#34;Cerastes vipera&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;San Diego&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus" ; Times: 1
+	Query: "genus:Odobenus preparations:skull" ; Times: 3
+	Query: "genus:macrochelys" ; Times: 1
+	Query: "eunectes murinus" ; Times: 1
+	Query: "Monachus tropicalis" ; Times: 1
+	Query: "Actinemys marmorata" ; Times: 1
+	Query: "family:Cathartidae institutioncode:ROM" ; Times: 1
+	Query: "Anniellidae" ; Times: 2
+	Query: "genus:Scalopus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 16
+	Query: "genus:Geomys family:Geomyidae basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Tamandua mexicana" ; Times: 1
+	Query: "(tremarctos ornatus)" ; Times: 1
+	Query: "Ateles geoffroyi" ; Times: 1
+	Query: "Manis pentadactyla" ; Times: 1
+	Query: "setophaga coronata coronata" ; Times: 1
+	Query: "genus:Geomys stateprovince:&#34;Texas&#34; year &gt;= 1961 year &lt;= 1970" ; Times: 1
+	Query: "specificepithet:lecontei genus:Rhinocheilus" ; Times: 1
+	Query: "deirochelys" ; Times: 2
+	Query: "family:Falconidae institutioncode:ROM" ; Times: 1
+	Query: "class:Reptilia county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "guyana" ; Times: 1
+	Query: "specificepithet:woodhousii locality:mecca county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "dermoptera" ; Times: 29
+	Query: "varanus griseus" ; Times: 1
+	Query: "&#34;tremarctos ornatus&#34;" ; Times: 6
+	Query: "Varanus exanthematicus" ; Times: 1
+	Query: "TREMARCTOS ORNATUS" ; Times: 1
+	Query: "genus:cavia" ; Times: 1
+	Query: "genus:Graphiurus" ; Times: 2
+	Query: "&#34; tremarctos ornatus &#34;" ; Times: 1
+	Query: "(&#34;Tremarctos ornatus&#34;)" ; Times: 3
+	Query: "&#34;dermoptera&#34;" ; Times: 2
+	Query: "athene cunicularia" ; Times: 1
+	Query: "Grus canadensis" ; Times: 1
+	Query: "puma yagouaroundi" ; Times: 1
+	Query: "sciurus niger" ; Times: 1
+	Query: "Varanus niloticus" ; Times: 1
+	Query: "Dermoptera" ; Times: 26
+	Query: "Cyclopes didactylus" ; Times: 1
+	Query: "specificepithet:exquisitus genus:cirrhilabrus" ; Times: 1
+	Query: "myotis austroriparius" ; Times: 1
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "county:&#34;San Diego&#34; year &gt;= 1996 year &lt;= 1999" ; Times: 1
+	Query: "Hippopotamus" ; Times: 1
+
+
+End of report.
