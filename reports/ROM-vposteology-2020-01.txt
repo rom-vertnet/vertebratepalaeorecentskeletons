@@ -1,0 +1,275 @@
+Report for Institution Code ROM, Resource vposteology
+Usage stats for January 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 165
+Number of records retrieved in searches: 305
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 7
+	Country: United Kingdom ; Times: 10
+	Country: Australia ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 4
+	Country: Singapore ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 134
+	Country: Germany ; Times: 1
+	Country: Bolivia ; Times: 2
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-22 ; Times: 12
+	Date: 2020-01-09 ; Times: 27
+	Date: 2020-01-03 ; Times: 1
+	Date: 2020-01-02 ; Times: 2
+	Date: 2020-01-07 ; Times: 1
+	Date: 2020-01-06 ; Times: 3
+	Date: 2020-01-21 ; Times: 9
+	Date: 2020-01-23 ; Times: 12
+	Date: 2020-01-08 ; Times: 2
+	Date: 2020-01-25 ; Times: 10
+	Date: 2020-01-24 ; Times: 6
+	Date: 2020-01-27 ; Times: 2
+	Date: 2020-01-26 ; Times: 2
+	Date: 2020-01-29 ; Times: 6
+	Date: 2020-01-28 ; Times: 3
+	Date: 2020-01-18 ; Times: 11
+	Date: 2020-01-14 ; Times: 3
+	Date: 2020-01-15 ; Times: 2
+	Date: 2020-01-16 ; Times: 9
+	Date: 2020-01-17 ; Times: 4
+	Date: 2020-01-10 ; Times: 9
+	Date: 2020-01-11 ; Times: 2
+	Date: 2020-01-12 ; Times: 2
+	Date: 2020-01-13 ; Times: 2
+	Date: 2020-01-31 ; Times: 12
+	Date: 2020-01-30 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Antilocapra stateprovince:&#34;Texas&#34;" ; Times: 3
+	Query: "Malacochersus tornieri institutioncode:ROM" ; Times: 1
+	Query: "genus:Gavialis" ; Times: 3
+	Query: "specificepithet:sauvagii genus:Phyllomedusa" ; Times: 1
+	Query: "specificepithet:varius class:aves stateprovince:Ontario year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 6
+	Query: "rom 3275" ; Times: 2
+	Query: "Lampropeltis pyromelana" ; Times: 11
+	Query: "genus:priodontes" ; Times: 2
+	Query: "specificepithet:laevis genus:Lepidobatrachus" ; Times: 1
+	Query: "specificepithet:carolinus genus:Melanerpes preparations:skeleton" ; Times: 1
+	Query: "genus:Scymnodon" ; Times: 1
+	Query: "specificepithet:carolinensis class:aves stateprovince:Ontario year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 6
+	Query: "vntype:specimen genus:pterodroma institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:constrictor genus:coluber institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:pipa genus:Pipa" ; Times: 1
+	Query: "specificepithet:adspersus genus:Pyxicephalus" ; Times: 1
+	Query: "specificepithet:orientalis genus:Bombina" ; Times: 1
+	Query: "genus:Chinchilla order:Rodentia" ; Times: 2
+	Query: "Lepidosiren" ; Times: 1
+	Query: "Balistoides conspicillum" ; Times: 1
+	Query: "Varanus albigularis" ; Times: 1
+	Query: "namaycush Salvelinus" ; Times: 2
+	Query: "blandingii Emydoidea" ; Times: 2
+	Query: "Thunnus obesus" ; Times: 1
+	Query: "specificepithet:cranwelli genus:Ceratophrys" ; Times: 1
+	Query: "specificepithet:lehmanni genus:Dendrobates" ; Times: 1
+	Query: "specificepithet:hyemalis class:aves stateprovince:Ontario year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 1
+	Query: "Ailurus fulgens" ; Times: 6
+	Query: "&#34;Tremarctos ornatus&#34;" ; Times: 3
+	Query: "Priodontes maximus" ; Times: 1
+	Query: "reticulata Poecilia" ; Times: 1
+	Query: "order:Insectivora stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "&#34;Ailurus fulgens&#34;" ; Times: 5
+	Query: "picta Chrysemys" ; Times: 2
+	Query: "Labeo rohita." ; Times: 1
+	Query: "specificepithet:sagrei genus:Anolis stateprovince:&#34;Florida&#34; country:&#34;USA&#34;" ; Times: 1
+	Query: "Panthera onca" ; Times: 9
+	Query: "specificepithet:canadensis class:aves stateprovince:Ontario year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 6
+	Query: "county:&#34;Charleston&#34; stateprovince:&#34;south carolina&#34; (bennett)" ; Times: 1
+	Query: "dermoptera" ; Times: 3
+	Query: "genus:Alouatta institutioncode:ROM" ; Times: 2
+	Query: "specificepithet:woodhousii genus:Anaxyrus stateprovince:&#34;Texas&#34;" ; Times: 4
+	Query: "specificepithet:corticale genus:Theloderma" ; Times: 1
+	Query: "genus:agkistrodon county:&#34;barnwell&#34; stateprovince:&#34;south carolina&#34;" ; Times: 2
+	Query: "Barisia imbricata" ; Times: 1
+	Query: "neusticurus rudis" ; Times: 1
+	Query: "specificepithet:guineti genus:Dyscophus" ; Times: 2
+	Query: "specificepithet:guttatus class:aves stateprovince:Ontario year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 8
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "specificepithet:rudis genus:neusticurus institutioncode:ROM" ; Times: 2
+	Query: "Menidia menidia" ; Times: 1
+	Query: "genus:Bubalus" ; Times: 1
+	Query: "Lialis burtoni" ; Times: 1
+	Query: "specificepithet:ustulatus class:aves stateprovince:Ontario year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 6
+	Query: "piaractus brachypomus" ; Times: 2
+	Query: "country:Ecuador scientificname:Eira barbara " ; Times: 7
+	Query: "specificepithet:sagrei genus:Anolis country:&#34;USA&#34;" ; Times: 4
+	Query: "mykiss Oncorhynchus" ; Times: 1
+	Query: "Lampropeltis triangulum elapsoides" ; Times: 1
+	Query: "specificepithet:citrina genus:Setophaga institutioncode:ROM" ; Times: 2
+	Query: "specificepithet:carteri genus:Pristurus institutioncode:ROM" ; Times: 4
+	Query: "salamandra Salamandra" ; Times: 1
+	Query: "catalognumber:3110 institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:bicolor genus:Phyllomedusa" ; Times: 1
+	Query: "specificepithet:citrina institutioncode:ROM" ; Times: 1
+	Query: "ailurus fulgens" ; Times: 4
+	Query: "phrynosoma orbiculare" ; Times: 1
+	Query: "genus:Andrias specificepithet:davidianus" ; Times: 2
+	Query: "specificepithet:fallax genus:Leptodactylus" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 149 (out of 1584 download events in this period)
+Total number of records downloaded: 501
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 122
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 12
+	Country: Unknown ; Times: 1
+	Country: Tanzania ; Times: 3
+	Country: Czechia ; Times: 1
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: China ; Times: 3
+	Country: Belgium ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-22 ; Times: 9
+	Date: 2020-01-03 ; Times: 1
+	Date: 2020-01-02 ; Times: 3
+	Date: 2020-01-07 ; Times: 3
+	Date: 2020-01-06 ; Times: 1
+	Date: 2020-01-05 ; Times: 1
+	Date: 2020-01-04 ; Times: 2
+	Date: 2020-01-21 ; Times: 3
+	Date: 2020-01-20 ; Times: 4
+	Date: 2020-01-09 ; Times: 2
+	Date: 2020-01-08 ; Times: 5
+	Date: 2020-01-25 ; Times: 7
+	Date: 2020-01-24 ; Times: 19
+	Date: 2020-01-27 ; Times: 2
+	Date: 2020-01-26 ; Times: 5
+	Date: 2020-01-29 ; Times: 6
+	Date: 2020-01-28 ; Times: 6
+	Date: 2020-01-23 ; Times: 8
+	Date: 2020-01-14 ; Times: 2
+	Date: 2020-01-16 ; Times: 2
+	Date: 2020-01-17 ; Times: 3
+	Date: 2020-01-10 ; Times: 5
+	Date: 2020-01-11 ; Times: 3
+	Date: 2020-01-12 ; Times: 5
+	Date: 2020-01-31 ; Times: 18
+	Date: 2020-01-30 ; Times: 24
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:marcianus genus:Thamnophis" ; Times: 1
+	Query: "Priodontes maximus" ; Times: 1
+	Query: "(DERMOPTERA)" ; Times: 3
+	Query: "emydoidea blandingii" ; Times: 3
+	Query: "&#34;Tremarctos ornatus&#34;" ; Times: 12
+	Query: "Iguana iguana" ; Times: 1
+	Query: "Chamaeleo calyptratus" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "genus:Dipodomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Chamaeleo chamaeleon" ; Times: 1
+	Query: "family:Felidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Tabasco&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Onychomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Heloderma horridum" ; Times: 1
+	Query: "(dermoptera)" ; Times: 2
+	Query: "family:Sciuridae stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "Hemidactylus mabouia" ; Times: 1
+	Query: "family:Vespertilionidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Myotis austroriparius" ; Times: 1
+	Query: "tremarctos ornatus" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "genus:Neotoma stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "(Dermoptera)" ; Times: 2
+	Query: "DERMOPTERA" ; Times: 2
+	Query: "Leiocephalus carinatus" ; Times: 1
+	Query: "family:Canidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Petrosaurus mearnsi" ; Times: 1
+	Query: "Myotis velifer" ; Times: 1
+	Query: "Ophisaurus ventralis" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "Coleonyx variegatus" ; Times: 1
+	Query: "order:Insectivora stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "order:Lagomorpha stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Phelsuma madagascariensis" ; Times: 1
+	Query: "family:Didelphidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:borealis genus:Lasiurus family:Vespertilionidae" ; Times: 1
+	Query: "phoca vitulina" ; Times: 1
+	Query: "family:Mustelidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Eremias arguta" ; Times: 1
+	Query: "order:dermoptera" ; Times: 1
+	Query: "specificepithet:soricina genus:glossophaga institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:rudis genus:neusticurus institutioncode:ROM" ; Times: 2
+	Query: "Basiliscus plumifrons" ; Times: 1
+	Query: "Nycticeius humeralis" ; Times: 1
+	Query: "Calotes mystaceus" ; Times: 1
+	Query: "specificepithet:intermedius genus:Lasiurus family:Vespertilionidae" ; Times: 1
+	Query: "family:Molossidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Bubo virginianus" ; Times: 2
+	Query: "Sceloporus orcutti" ; Times: 1
+	Query: "Lasiurus seminolus" ; Times: 1
+	Query: "Haemorhous mexicanus" ; Times: 1
+	Query: "carcharodon carcharias" ; Times: 1
+	Query: "specificepithet:tigrinum genus:Ambystoma" ; Times: 1
+	Query: "Aspidoscelis uniparens" ; Times: 1
+	Query: "Cyclura cornuta" ; Times: 1
+	Query: "Lasionycteris noctivagans" ; Times: 1
+	Query: "ursus maritimus" ; Times: 1
+	Query: "Chalcides ocellatus" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 4
+	Query: "enhydra lutris" ; Times: 1
+	Query: "Sturnus" ; Times: 1
+	Query: "Barisia imbricata" ; Times: 1
+	Query: "ailurus fulgens" ; Times: 1
+	Query: "Potos flavus" ; Times: 1
+	Query: "Strix varia" ; Times: 1
+	Query: "family:Otariidae stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "deirochelys" ; Times: 1
+	Query: "Varanus salvator" ; Times: 1
+	Query: "genus:Oryzomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Basiliscus basiliscus" ; Times: 1
+	Query: "stateprovince:&#34;Quintana Roo&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "specificepithet:seminolus genus:Lasiurus family:Vespertilionidae" ; Times: 1
+	Query: "dermoptera" ; Times: 16
+	Query: "&#34;tremarctos ornatus&#34;" ; Times: 1
+	Query: "strix varia" ; Times: 1
+	Query: "genus:Sigmodon stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:ornatus genus:Tremarctos" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "genus:Antilocapra stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "cordylidae" ; Times: 1
+	Query: "Malacochersus tornieri" ; Times: 4
+	Query: "mimus polyglottos" ; Times: 2
+	Query: "lasiurus intermedius" ; Times: 1
+	Query: "(&#34;Tremarctos ornatus&#34;)" ; Times: 1
+	Query: "Calotes emma" ; Times: 1
+	Query: "family:Bathyergidae" ; Times: 1
+	Query: "Calotes versicolor" ; Times: 1
+	Query: "Anniella pulchra" ; Times: 1
+	Query: "family:Dasypodidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "pterodroma vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Choloepus didactylus" ; Times: 1
+	Query: "genus:Peromyscus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Dermoptera" ; Times: 6
+	Query: "family:Procyonidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "piaractus brachypomus" ; Times: 1
+	Query: "specificepithet:bursarius genus:Geomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:constrictor genus:coluber institutioncode:ROM" ; Times: 1
+	Query: "genus:Perognathus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Plestiodon copei" ; Times: 1
+
+
+End of report.
