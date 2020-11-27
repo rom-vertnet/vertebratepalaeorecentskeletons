@@ -1,0 +1,194 @@
+Report for Institution Code ROM, Resource vposteology
+Usage stats for December 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 91
+Number of records retrieved in searches: 173
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: Brazil ; Times: 11
+	Country: Slovakia ; Times: 4
+	Country: Mexico ; Times: 4
+	Country: Nepal ; Times: 5
+	Country: Singapore ; Times: 2
+	Country: United States ; Times: 36
+	Country: Vietnam ; Times: 18
+	Country: Germany ; Times: 2
+	Country: Belgium ; Times: 4
+	Country: Thailand ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-24 ; Times: 10
+	Date: 2019-12-27 ; Times: 13
+	Date: 2019-12-12 ; Times: 1
+	Date: 2019-12-20 ; Times: 5
+	Date: 2019-12-31 ; Times: 2
+	Date: 2019-12-29 ; Times: 1
+	Date: 2019-12-28 ; Times: 1
+	Date: 2019-12-02 ; Times: 1
+	Date: 2019-12-18 ; Times: 4
+	Date: 2019-12-19 ; Times: 2
+	Date: 2019-12-01 ; Times: 3
+	Date: 2019-12-09 ; Times: 11
+	Date: 2019-12-08 ; Times: 11
+	Date: 2019-12-10 ; Times: 3
+	Date: 2019-12-11 ; Times: 1
+	Date: 2019-12-05 ; Times: 4
+	Date: 2019-12-13 ; Times: 9
+	Date: 2019-12-03 ; Times: 1
+	Date: 2019-12-15 ; Times: 1
+	Date: 2019-12-16 ; Times: 4
+	Date: 2019-12-17 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Aquila class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "panthera uncia" ; Times: 3
+	Query: "plestiodon morelos" ; Times: 1
+	Query: "Cathartes aura AND Island NOT Cuba NOT Falkland" ; Times: 2
+	Query: "setophaga striata institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:sponsa genus:Aix county:&#34;Toronto&#34; stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "country:Ecuador scientificname:Eira barbara " ; Times: 3
+	Query: "specificepithet:carolinensis class:aves stateprovince:Ontario year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "Leopardus pardalis" ; Times: 5
+	Query: "Pseudopus apodus" ; Times: 5
+	Query: "specificepithet:putorius genus:spilogale institutioncode:ROM" ; Times: 1
+	Query: "Lepidosiren" ; Times: 2
+	Query: "Varanus albigularis" ; Times: 1
+	Query: "Lachesis muta" ; Times: 1
+	Query: "Thunnus obesus" ; Times: 1
+	Query: "Varanus komodoensis" ; Times: 1
+	Query: "specificepithet:hyemalis class:aves stateprovince:Ontario year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "Apteryx mantelli" ; Times: 2
+	Query: "Rhinobatos productus" ; Times: 1
+	Query: "country:Ecuador scientificname:Potos flavus " ; Times: 1
+	Query: "country:Ecuador scientificname:Dasyprocta fuliginosa " ; Times: 1
+	Query: "Thunnus albacares" ; Times: 1
+	Query: "chelonoidis carbonaria" ; Times: 1
+	Query: "specificepithet:debilis genus:Anaxyrus" ; Times: 2
+	Query: "specificepithet:schneideri genus:Rhinella" ; Times: 2
+	Query: "specificepithet:canadensis class:aves stateprovince:Ontario year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "genus:Gavialis" ; Times: 4
+	Query: "genus:ailurus" ; Times: 1
+	Query: "lampropeltis triangulum celaenops" ; Times: 1
+	Query: "genus:Lepidobatrachus specificepithet:laevis" ; Times: 1
+	Query: "specificepithet:Willardi genus:Crotalus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Platysternon megacephalum" ; Times: 18
+	Query: "vntype:specimen genus:Lasionycteris institutioncode:ROM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:7446 institutioncode:ROM" ; Times: 1
+	Query: "country:Ecuador scientificname:Rhinoclemmys annulata " ; Times: 1
+	Query: "canis rufus" ; Times: 1
+	Query: "Varanus doreanus" ; Times: 1
+	Query: "specificepithet:speciosus genus:Anaxyrus" ; Times: 2
+	Query: "genus:Crotalus country:&#34;Colombia&#34;" ; Times: 1
+	Query: "specificepithet:curtus genus:Python" ; Times: 4
+	Query: "Cathartes aura AND Island" ; Times: 1
+	Query: "genus:Vulpes stateprovince:&#34;IDAHO&#34;" ; Times: 1
+	Query: "manis pentadactyla" ; Times: 5
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 63 (out of 596 download events in this period)
+Total number of records downloaded: 355
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 3
+	Country: Mexico ; Times: 9
+	Country: Nepal ; Times: 1
+	Country: India ; Times: 1
+	Country: United States ; Times: 26
+	Country: Paraguay ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Belgium ; Times: 19
+	Country: South Korea ; Times: 1
+	Country: Hong Kong ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-25 ; Times: 1
+	Date: 2019-12-24 ; Times: 18
+	Date: 2019-12-27 ; Times: 2
+	Date: 2019-12-04 ; Times: 5
+	Date: 2019-12-12 ; Times: 1
+	Date: 2019-12-30 ; Times: 1
+	Date: 2019-12-23 ; Times: 1
+	Date: 2019-12-31 ; Times: 1
+	Date: 2019-12-28 ; Times: 2
+	Date: 2019-12-02 ; Times: 3
+	Date: 2019-12-19 ; Times: 3
+	Date: 2019-12-09 ; Times: 2
+	Date: 2019-12-08 ; Times: 3
+	Date: 2019-12-10 ; Times: 5
+	Date: 2019-12-06 ; Times: 1
+	Date: 2019-12-05 ; Times: 6
+	Date: 2019-12-13 ; Times: 1
+	Date: 2019-12-03 ; Times: 1
+	Date: 2019-12-15 ; Times: 1
+	Date: 2019-12-16 ; Times: 4
+	Date: 2019-12-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:marcianus genus:Thamnophis" ; Times: 1
+	Query: "genus:Condylura" ; Times: 2
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: "leopardus wiedii" ; Times: 2
+	Query: "order:Chiroptera stateprovince:&#34;Hidalgo&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 1
+	Query: "genus:canis stateprovince:&#34;Louisiana&#34;" ; Times: 2
+	Query: "Crotalus lutosus" ; Times: 1
+	Query: "spinus tristis tristis" ; Times: 1
+	Query: "Puma yagouaroundi" ; Times: 1
+	Query: "Melogale" ; Times: 1
+	Query: "puma yagouaroundi" ; Times: 1
+	Query: "Pseudopus apodus" ; Times: 1
+	Query: "Gerrhonotus liocephalus" ; Times: 1
+	Query: "Ophisaurus ventralis" ; Times: 1
+	Query: "specificepithet:cornutum genus:Phrynosoma" ; Times: 1
+	Query: "Varanus albigularis" ; Times: 1
+	Query: "Setophaga tigrina" ; Times: 1
+	Query: "genus:Furcifer" ; Times: 1
+	Query: "lithobates catesbeianus" ; Times: 1
+	Query: "barisia imbricata" ; Times: 1
+	Query: "specificepithet:debilis class:Amphibia" ; Times: 1
+	Query: "Varanus komodoensis" ; Times: 1
+	Query: "hippocampus erectus" ; Times: 1
+	Query: "Varanus acanthurus" ; Times: 1
+	Query: "Varanus prasinus" ; Times: 1
+	Query: "genus:Rhinocheilus" ; Times: 1
+	Query: "Rhinobatos productus" ; Times: 1
+	Query: "genus:Odobenus" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "Varanus indicus" ; Times: 1
+	Query: "Crotalus helleri" ; Times: 1
+	Query: "chamaeleo calyptratus" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "aplodontia rufa" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "Heloderma horridum" ; Times: 1
+	Query: "Scaphiophis albopunctatus" ; Times: 1
+	Query: "marmota monax" ; Times: 1
+	Query: "crotalus cerastes" ; Times: 2
+	Query: "genus:amazona family:Psittacidae order:Psittaciformes" ; Times: 1
+	Query: "Barisia imbricata" ; Times: 1
+	Query: "Varanus doreanus" ; Times: 1
+	Query: "Varanus niloticus" ; Times: 1
+	Query: "anniella pulchra" ; Times: 1
+	Query: "Varanus griseus" ; Times: 1
+	Query: "anguis fragilis" ; Times: 1
+	Query: "Lycaon pictus" ; Times: 1
+	Query: "Varanus salvator" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "canis rufus" ; Times: 1
+	Query: "myotis austroriparius" ; Times: 1
+	Query: "genus:Crotalus country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Panthera leo" ; Times: 2
+	Query: "manis pentadactyla" ; Times: 1
+	Query: "Varanus exanthematicus" ; Times: 1
+
+
+End of report.
