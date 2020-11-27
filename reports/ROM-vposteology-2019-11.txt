@@ -1,0 +1,252 @@
+Report for Institution Code ROM, Resource vposteology
+Usage stats for November 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 255
+Number of records retrieved in searches: 689
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 21
+	Country: United States ; Times: 153
+	Country: Israel ; Times: 2
+	Country: Mexico ; Times: 4
+	Country: Denmark ; Times: 53
+	Country: India ; Times: 1
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 3
+	Country: Sweden ; Times: 6
+	Country: Unknown ; Times: 2
+	Country: Belgium ; Times: 2
+	Country: Venezuela ; Times: 1
+	Country: Russia ; Times: 2
+	Country: Brazil ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-19 ; Times: 2
+	Date: 2019-11-18 ; Times: 5
+	Date: 2019-11-30 ; Times: 2
+	Date: 2019-11-15 ; Times: 9
+	Date: 2019-11-14 ; Times: 5
+	Date: 2019-11-17 ; Times: 2
+	Date: 2019-11-16 ; Times: 27
+	Date: 2019-11-11 ; Times: 2
+	Date: 2019-11-10 ; Times: 3
+	Date: 2019-11-13 ; Times: 6
+	Date: 2019-11-12 ; Times: 14
+	Date: 2019-11-08 ; Times: 21
+	Date: 2019-11-27 ; Times: 1
+	Date: 2019-11-20 ; Times: 19
+	Date: 2019-11-21 ; Times: 4
+	Date: 2019-11-22 ; Times: 7
+	Date: 2019-11-23 ; Times: 1
+	Date: 2019-11-25 ; Times: 3
+	Date: 2019-11-26 ; Times: 7
+	Date: 2019-11-09 ; Times: 25
+	Date: 2019-11-06 ; Times: 7
+	Date: 2019-11-07 ; Times: 35
+	Date: 2019-11-04 ; Times: 5
+	Date: 2019-11-05 ; Times: 1
+	Date: 2019-11-02 ; Times: 3
+	Date: 2019-11-03 ; Times: 37
+	Date: 2019-11-01 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "class:reptilia country:&#34;india&#34; institutioncode:ROM" ; Times: 1
+	Query: "Ovis aries" ; Times: 1
+	Query: "specificepithet:varius class:aves stateprovince:Ontario year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 4
+	Query: "Crocuta crocuta zimbabwe" ; Times: 1
+	Query: "Dasyprocta fuliginosa" ; Times: 3
+	Query: "country:Ecuador scientificname:Eira barbara " ; Times: 4
+	Query: "specificepithet:carolinensis class:aves stateprovince:Ontario year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 4
+	Query: "Coccyzus americanus 1991" ; Times: 4
+	Query: "python india" ; Times: 1
+	Query: "genus:Rhea class:Aves institutioncode:ROM skeleton" ; Times: 1
+	Query: "catalognumber:3438 institutioncode:ROM" ; Times: 1
+	Query: "genus:Amazona class:Aves institutioncode:ROM skeleton" ; Times: 1
+	Query: "Elephas maximus" ; Times: 4
+	Query: "Loxodonta africana" ; Times: 2
+	Query: "Kobus ellipsiprymnus" ; Times: 1
+	Query: "Leopardus pardalis 2018" ; Times: 4
+	Query: "ROM 5096" ; Times: 2
+	Query: "Panthera onca" ; Times: 1
+	Query: "vntype:specimen genus:Andrias" ; Times: 1
+	Query: "catalognumber:9126 institutioncode:ROM" ; Times: 1
+	Query: "Mirounga angustirostris" ; Times: 1
+	Query: "Lynx canadensis 2000" ; Times: 5
+	Query: "genus:Cairina class:Aves institutioncode:ROM skeleton" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Hernando&#34; stateprovince:&#34;Florida&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Gavialis" ; Times: 3
+	Query: "Dasyprocta punctata" ; Times: 6
+	Query: "Heterodontus francisci" ; Times: 1
+	Query: "Sistrurus catenatus 2004" ; Times: 4
+	Query: "Sistrurus catenatus 2003" ; Times: 4
+	Query: "Scarus ghobban vntype:specimen year &gt;= 2000" ; Times: 1
+	Query: "Connochaetes taurinus" ; Times: 1
+	Query: "Sistrurus catenatus 2008" ; Times: 4
+	Query: "Sistrurus catenatus 2009" ; Times: 4
+	Query: "Erythrocebus patas" ; Times: 1
+	Query: "Lynx canadensis 2018" ; Times: 8
+	Query: "Drymarchon couperi 2013" ; Times: 4
+	Query: "genus:Pheucticus class:Aves institutioncode:ROM skeleton" ; Times: 1
+	Query: "priodontes maximus" ; Times: 4
+	Query: "Coccyzus americanus 1992" ; Times: 4
+	Query: "genus:Apteryx institutioncode:ROM" ; Times: 3
+	Query: "genus:Rhea class:Aves institutioncode:ROM" ; Times: 1
+	Query: "genus:Mitsukurina basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Uraspis secunda" ; Times: 2
+	Query: "Crocodylus acutus 2018" ; Times: 4
+	Query: "Caluromys lanatus" ; Times: 3
+	Query: "genus:Cairina class:Aves institutioncode:ROM" ; Times: 1
+	Query: "Propithecus verreauxi" ; Times: 1
+	Query: "Sistrurus catenatus 2010" ; Times: 4
+	Query: "Aepyceros melampus" ; Times: 6
+	Query: "Sistrurus catenatus 2018" ; Times: 4
+	Query: "specificepithet:horridus genus:Crotalus stateprovince:&#34;Florida&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Epinephelus itajara" ; Times: 1
+	Query: "Phacochoerus aethiopicus" ; Times: 2
+	Query: "Salvelinus malma" ; Times: 1
+	Query: "specificepithet:monax genus:marmota country:&#34;Canada&#34; year &gt;= 1942 year &lt;= 2019" ; Times: 1
+	Query: "Sistrurus catenatus 1988" ; Times: 4
+	Query: "Sistrurus catenatus 2011" ; Times: 4
+	Query: "specificepithet:funereus genus:Aegolius stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Lampropeltis pyromelana" ; Times: 4
+	Query: "Agkistrodon taylori" ; Times: 1
+	Query: "specificepithet:carbonarius class:reptilia" ; Times: 1
+	Query: "varanus flavescens" ; Times: 1
+	Query: "Lepus europaeus" ; Times: 1
+	Query: "plestiodon morelos" ; Times: 1
+	Query: "agkistrodon bilineatus" ; Times: 1
+	Query: "genus:Pseudocarcharias" ; Times: 1
+	Query: "Lagothrix lagotricha" ; Times: 1
+	Query: "Leopardus pardalis 1972" ; Times: 4
+	Query: "Varanus prasinus" ; Times: 1
+	Query: "Drymarchon couperi 1987" ; Times: 4
+	Query: "Halichoerus grypus" ; Times: 1
+	Query: "catalognumber:4116 institutioncode:ROM" ; Times: 1
+	Query: "Pongo abelii" ; Times: 1
+	Query: "barisia morelos" ; Times: 2
+	Query: "ovis spain" ; Times: 2
+	Query: "specificepithet:carbonaria class:reptilia" ; Times: 3
+	Query: "specificepithet:guttatus class:aves stateprovince:Ontario year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 4
+	Query: "genus:Mitsukurina" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon stateprovince:&#34;Florida&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:ustulatus class:aves stateprovince:Ontario year&gt;=2000 month&gt;= 6 month&lt;= 7" ; Times: 1
+	Query: "catalognumber:6989 institutioncode:ROM" ; Times: 1
+	Query: "Pterodroma hasitata basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Oreamnos americanus" ; Times: 2
+	Query: "genus:Andrias specificepithet:davidianus" ; Times: 2
+	Query: "Coccyzus americanus 2018" ; Times: 8
+	Query: "genus:Numida class:Aves institutioncode:ROM" ; Times: 3
+	Query: "genus:Dasypus country:&#34;Argentina&#34;" ; Times: 1
+	Query: "Agkistrodon bilineatus" ; Times: 1
+	Query: "Lynx canadensis 1984" ; Times: 4
+	Query: "Acinonyx jubatus" ; Times: 8
+	Query: "Aquila chrysaetos year &gt; 1990 NOT CLO" ; Times: 1
+	Query: "specificepithet:nigriceps institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:monax genus:marmota country:&#34;Canada&#34; year &gt;= 1950 year &lt;= 2000" ; Times: 1
+	Query: "specificepithet:adamanteus genus:Crotalus county:&#34;Brevard&#34; stateprovince:&#34;Florida&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Lagidium viscacia" ; Times: 1
+	Query: "lampropeltis pyromelana" ; Times: 6
+	Query: "Andrias" ; Times: 2
+	Query: "Drymarchon couperi 2018" ; Times: 4
+	Query: "genus:Falcipennis class:Aves institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:dekayi genus:Storeria country:&#34;Canada&#34; year &gt;= 1970 year &lt;= 2019" ; Times: 2
+	Query: "country:Ecuador scientificname:Dasyprocta fuliginosa " ; Times: 1
+	Query: "Papio cynocephalus" ; Times: 2
+	Query: "varanus komodoensis" ; Times: 1
+	Query: "genus:Drymarchon stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "heloderma horridum mexico" ; Times: 5
+	Query: "specificepithet:ustulatus class:aves stateprovince:Ontario year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 4
+	Query: "Uromastyx geyri" ; Times: 1
+	Query: "Phascolarctos cinereus" ; Times: 1
+	Query: "Hydrochoerus hydrochaeris" ; Times: 1
+	Query: "Lutra lutra" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 55 (out of 1367 download events in this period)
+Total number of records downloaded: 564
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Brazil ; Times: 1
+	Country: Israel ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: India ; Times: 3
+	Country: United States ; Times: 42
+	Country: China ; Times: 1
+	Country: Belgium ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-20 ; Times: 5
+	Date: 2019-11-21 ; Times: 3
+	Date: 2019-11-22 ; Times: 7
+	Date: 2019-11-19 ; Times: 2
+	Date: 2019-11-18 ; Times: 4
+	Date: 2019-11-26 ; Times: 1
+	Date: 2019-11-27 ; Times: 1
+	Date: 2019-11-06 ; Times: 7
+	Date: 2019-11-14 ; Times: 2
+	Date: 2019-11-04 ; Times: 5
+	Date: 2019-11-02 ; Times: 2
+	Date: 2019-11-03 ; Times: 1
+	Date: 2019-11-13 ; Times: 4
+	Date: 2019-11-12 ; Times: 2
+	Date: 2019-11-15 ; Times: 3
+	Date: 2019-11-28 ; Times: 1
+	Date: 2019-11-24 ; Times: 1
+	Date: 2019-11-17 ; Times: 3
+	Date: 2019-11-25 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "class:reptilia country:&#34;india&#34; institutioncode:ROM" ; Times: 1
+	Query: "genus:Anolis institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:fuscus genus:eptesicus institutioncode:ROM" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 4
+	Query: "specificepithet:carolinensis genus:sciurus" ; Times: 5
+	Query: "Furcifer pardalis" ; Times: 1
+	Query: "vntype:specimen order:Passeriformes class:Aves stateprovince:&#34;Quebec&#34; country:&#34;Canada&#34;" ; Times: 1
+	Query: "specificepithet:woodhousii genus:anaxyrus stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "order:Cathartiformes" ; Times: 2
+	Query: "India class:aves country:&#34;India&#34; institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:dekayi genus:Storeria country:&#34;Canada&#34; year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "priodontes maximus" ; Times: 1
+	Query: "Numida meleagris vntype:specimen order:Galliformes basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Anolis cristatellus" ; Times: 1
+	Query: "Andrias" ; Times: 1
+	Query: "specificepithet:carbonarius class:reptilia" ; Times: 1
+	Query: "Varanus prasinus" ; Times: 1
+	Query: "genus:Trimorphodon stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "family:testudinidae country:&#34;ecuador&#34;" ; Times: 1
+	Query: "Gerrhosaurus flavigularis" ; Times: 1
+	Query: "Loxodonta africana" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "Physignathus lesueurii" ; Times: 1
+	Query: "specificepithet:rufus genus:canis" ; Times: 1
+	Query: "ovis spain" ; Times: 1
+	Query: "Passerina cyanea" ; Times: 1
+	Query: "phrynosoma cornutum" ; Times: 1
+	Query: "specificepithet:latrans genus:canis stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "monachus tropicalis" ; Times: 1
+	Query: "specificepithet:carbonaria class:reptilia" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "specificepithet:dekayi genus:Storeria" ; Times: 1
+	Query: "genus:Lasiurus institutioncode:ROM" ; Times: 2
+	Query: "class:mammalia country:&#34;india&#34; institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:dekayi genus:Storeria year &gt;= 1970 year &lt;= 2019" ; Times: 5
+	Query: "specificepithet:debilis genus:anaxyrus stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "window class:Aves year &gt;= 1960 year &lt;= 2018" ; Times: 1
+	Query: "specificepithet:hexalepis genus:Salvadora stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Emydoidea blandingii" ; Times: 1
+	Query: "genus:Pachydactylus country:&#34;South Africa&#34;" ; Times: 1
+	Query: "specificepithet:taeniatus genus:Masticophis" ; Times: 1
+	Query: "specificepithet:dekayi genus:Storeria stateprovince:&#34;Florida&#34; year &gt;= 1970 year &lt;= 2019" ; Times: 1
+
+
+End of report.
