@@ -1,0 +1,326 @@
+Report for Institution Code ROM, Resource vposteology
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 237
+Number of records retrieved in searches: 587
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 8
+	Country: United States ; Times: 91
+	Country: Italy ; Times: 1
+	Country: Unknown ; Times: 15
+	Country: India ; Times: 3
+	Country: France ; Times: 3
+	Country: United Kingdom ; Times: 3
+	Country: Morocco ; Times: 1
+	Country: Paraguay ; Times: 1
+	Country: Thailand ; Times: 1
+	Country: Argentina ; Times: 9
+	Country: New Zealand ; Times: 100
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 5
+	Date: 2019-10-08 ; Times: 5
+	Date: 2019-10-21 ; Times: 1
+	Date: 2019-10-20 ; Times: 1
+	Date: 2019-10-27 ; Times: 1
+	Date: 2019-10-25 ; Times: 8
+	Date: 2019-10-24 ; Times: 60
+	Date: 2019-10-01 ; Times: 1
+	Date: 2019-10-03 ; Times: 1
+	Date: 2019-10-02 ; Times: 3
+	Date: 2019-10-05 ; Times: 11
+	Date: 2019-10-04 ; Times: 18
+	Date: 2019-10-07 ; Times: 2
+	Date: 2019-10-06 ; Times: 1
+	Date: 2019-10-23 ; Times: 57
+	Date: 2019-10-22 ; Times: 23
+	Date: 2019-10-29 ; Times: 3
+	Date: 2019-10-18 ; Times: 6
+	Date: 2019-10-19 ; Times: 2
+	Date: 2019-10-12 ; Times: 1
+	Date: 2019-10-13 ; Times: 4
+	Date: 2019-10-10 ; Times: 1
+	Date: 2019-10-11 ; Times: 3
+	Date: 2019-10-16 ; Times: 1
+	Date: 2019-10-17 ; Times: 6
+	Date: 2019-10-14 ; Times: 1
+	Date: 2019-10-15 ; Times: 2
+	Date: 2019-10-28 ; Times: 8
+	Date: 2019-10-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Sus scrofa preparations:skeleton" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus institutioncode:ROM" ; Times: 2
+	Query: "specificepithet:ustulatus genus:catharus country:&#34;canada&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "Priodontes maximus" ; Times: 4
+	Query: "country:Ecuador scientificname:Eira barbara " ; Times: 1
+	Query: "specificepithet:nasua genus:Nasua" ; Times: 1
+	Query: "Squatina legnota" ; Times: 1
+	Query: "genus:Apteryx institutioncode:ROM" ; Times: 1
+	Query: "Stegostoma fasciatum" ; Times: 2
+	Query: "Isurus paucus" ; Times: 1
+	Query: "Myliobatis californica" ; Times: 2
+	Query: "genus:Coturnicops stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Aluterus scriptus" ; Times: 1
+	Query: "Triakis semifasciata" ; Times: 2
+	Query: "sylvaticus Lithobates" ; Times: 3
+	Query: "Cephaloscyllium ventriosum" ; Times: 1
+	Query: "Alopias pelagicus" ; Times: 2
+	Query: "Leopardus pardalis 2018" ; Times: 1
+	Query: "Furgaleus macki" ; Times: 2
+	Query: "Reithrodontomys megalotis 2018" ; Times: 1
+	Query: "THAMNOPHIS SIRTALIS TETRATAENIA" ; Times: 1
+	Query: "Neotoma fuscipes" ; Times: 1
+	Query: "Orectolobus maculatus" ; Times: 2
+	Query: "tremarctos ornatus" ; Times: 2
+	Query: "specificepithet:pennanti genus:martes stateprovince:&#34;Ontario&#34; continent:North America preparations:skull" ; Times: 1
+	Query: "Lynx canadensis 2000" ; Times: 1
+	Query: "Drymarchon couperi" ; Times: 2
+	Query: "Carcharhinus limbatus" ; Times: 2
+	Query: "Carcharhinus brachyurus" ; Times: 2
+	Query: "specificepithet:pennanti genus:martes stateprovince:&#34;Saskatchewan&#34; country:&#34;Canada&#34;" ; Times: 1
+	Query: "pusilla Cardellina" ; Times: 1
+	Query: "Crotalus Meridionalis" ; Times: 1
+	Query: "Mustelus canis" ; Times: 2
+	Query: "Pastinachus sephen" ; Times: 2
+	Query: "Heterodontus francisci" ; Times: 2
+	Query: "Sistrurus catenatus 2004" ; Times: 1
+	Query: "Mus musculus 1987" ; Times: 2
+	Query: "Mus musculus 1985" ; Times: 2
+	Query: "Loxodonta" ; Times: 1
+	Query: "Sistrurus catenatus 2008" ; Times: 1
+	Query: "Sistrurus catenatus 2009" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:Dasypus" ; Times: 1
+	Query: "humerus family:Spheniscidae" ; Times: 1
+	Query: "Lynx canadensis 2018" ; Times: 2
+	Query: "Drymarchon couperi 2013" ; Times: 1
+	Query: "Sphyrna media" ; Times: 2
+	Query: "Coccyzus americanus 1992" ; Times: 1
+	Query: "specificepithet:komodoensis genus:Varanus" ; Times: 1
+	Query: "Coccyzus americanus 1991" ; Times: 1
+	Query: "Rattus norvegicus 2018" ; Times: 1
+	Query: "Carcharhinus acronotus" ; Times: 2
+	Query: "Crocodylus acutus 2018" ; Times: 1
+	Query: "Carcharhinus signatus" ; Times: 2
+	Query: "Isurus oxyrinchus" ; Times: 2
+	Query: "Isistius plutodus" ; Times: 1
+	Query: "Thomomys talpoides 1996" ; Times: 1
+	Query: "genus:Galeorhinus class:Chondrichthyes stateprovince:California" ; Times: 2
+	Query: "Mus musculus 1995" ; Times: 2
+	Query: "Apristurus manis" ; Times: 1
+	Query: "cavia vntype:specimen preparations:skeleton" ; Times: 1
+	Query: "Mus musculus 1992" ; Times: 2
+	Query: "Mus musculus 1993" ; Times: 2
+	Query: "Carcharhinus altimus" ; Times: 2
+	Query: "Sistrurus catenatus 2018" ; Times: 1
+	Query: "Mus musculus 1994" ; Times: 2
+	Query: "Carcharhinus brevipinna" ; Times: 2
+	Query: "Pristis pectinata" ; Times: 2
+	Query: "Atelomycterus marmoratus" ; Times: 1
+	Query: "Carcharodon carcharias" ; Times: 2
+	Query: "specificepithet:niloticus genus:varanus country:&#34;egypt&#34;" ; Times: 1
+	Query: "Rhizoprionodon terraenovae" ; Times: 2
+	Query: "Rattus norvegicus 2014" ; Times: 1
+	Query: "Mus musculus 2018" ; Times: 2
+	Query: "Eira barbara" ; Times: 1
+	Query: "Sistrurus catenatus 1988" ; Times: 1
+	Query: "Sistrurus catenatus 2011" ; Times: 1
+	Query: "genus:Apteryx institutioncode:ROM mantelli" ; Times: 2
+	Query: "Triaenodon obesus" ; Times: 2
+	Query: "Geomys bursarius 2001" ; Times: 1
+	Query: "Sistrurus catenatus 2010" ; Times: 1
+	Query: "caerulescens Setophaga" ; Times: 5
+	Query: "genus:zapus class:mammalia stateprovince:&#34;nova scotia&#34; country:&#34;canada&#34;" ; Times: 1
+	Query: "Carcharhinus falciformis" ; Times: 2
+	Query: "Vipera latastei" ; Times: 1
+	Query: "Mus musculus 1984" ; Times: 2
+	Query: "Lamna nasus" ; Times: 2
+	Query: "Dalatias licha" ; Times: 2
+	Query: "Onychomys leucogaster 2018" ; Times: 1
+	Query: "Chiloscyllium indicum" ; Times: 2
+	Query: "Leopardus pardalis 1972" ; Times: 1
+	Query: "Varanus komodoensis" ; Times: 3
+	Query: "institutioncode:ROM struthio camelus" ; Times: 1
+	Query: "Philodryas patagoniensis" ; Times: 1
+	Query: "Drymarchon couperi 1987" ; Times: 1
+	Query: "Prionace glauca" ; Times: 2
+	Query: "Ginglymostoma cirratum" ; Times: 2
+	Query: "genus:certhia country:&#34;canada&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 2
+	Query: "mustela nigripes" ; Times: 1
+	Query: "specificepithet:mantelli genus:Apteryx institutioncode:ROM" ; Times: 1
+	Query: "Mitsukurina owstoni" ; Times: 2
+	Query: "catalognumber:7472 institutioncode:ROM" ; Times: 1
+	Query: "Galeorhinus galeus" ; Times: 2
+	Query: "Alopias superciliosus" ; Times: 2
+	Query: "Pseudocarcharias kamoharai" ; Times: 1
+	Query: "Geomys bursarius 2018" ; Times: 1
+	Query: "genus:napaeozapus stateprovince:&#34;new brunswick&#34;" ; Times: 1
+	Query: "preparations:skeleton (Leopardus pardalis)" ; Times: 1
+	Query: "Rhina ancylostoma" ; Times: 2
+	Query: "Testudo hermanni" ; Times: 1
+	Query: "Latimeria" ; Times: 1
+	Query: "Scymnodon ringens" ; Times: 1
+	Query: "Potos flavus preparations:skeleton" ; Times: 1
+	Query: "Martes zibellina" ; Times: 1
+	Query: "Echinorhinus brucus" ; Times: 2
+	Query: "Rattus norvegicus 1996" ; Times: 1
+	Query: "Coccyzus americanus 2018" ; Times: 2
+	Query: "Amblyraja radiata" ; Times: 2
+	Query: "Sistrurus catenatus 2003" ; Times: 1
+	Query: "crotalus willardi mexico" ; Times: 3
+	Query: "Hydrolagus colliei" ; Times: 2
+	Query: "genus:malaclemys stateprovince:&#34;florida&#34; year &gt;= 1970" ; Times: 1
+	Query: "Lynx canadensis 1984" ; Times: 1
+	Query: "specificepithet:pennanti genus:martes stateprovince:&#34;British Columbia&#34; country:&#34;Canada&#34; preparations:skull" ; Times: 1
+	Query: "Ceratophrys cranwelli" ; Times: 1
+	Query: "Heterodontus zebra" ; Times: 2
+	Query: "Chiloscyllium punctatum" ; Times: 2
+	Query: "genus:Dendroaspis institutioncode:ROM" ; Times: 3
+	Query: "Rattus norvegicus 1984" ; Times: 1
+	Query: "Drymarchon couperi 2018" ; Times: 1
+	Query: "Sphyrna tiburo" ; Times: 2
+	Query: "Thomomys talpoides 2018" ; Times: 1
+	Query: "specificepithet:nelsoni genus:pseudemys stateprovince:&#34;florida&#34; year &gt;= 1970" ; Times: 1
+	Query: "skeleton vntype:specimen specificepithet:erythrogaster institutioncode:ROM" ; Times: 1
+	Query: "Theloderma corticale" ; Times: 1
+	Query: "Neotoma cinerea 2018" ; Times: 1
+	Query: "specificepithet:canadensis genus:Grus stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America" ; Times: 1
+	Query: "Microtus ochrogaster 2018" ; Times: 1
+	Query: "Hexanchus griseus" ; Times: 2
+	Query: "genus:Sphyrapicus country:&#34;canada&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "lutra preparations:skeleton" ; Times: 1
+	Query: "genus:varanus country:&#34;egypt&#34;" ; Times: 2
+	Query: "Alopias vulpinus" ; Times: 2
+	Query: "erythrorhynchos Pelecanus" ; Times: 6
+	Query: "Rhinoptera bonasus" ; Times: 2
+	Query: "preparations:skeleton (Panthera onca)" ; Times: 1
+	Query: "Pristiophorus cirratus" ; Times: 2
+	Query: "Rhynchobatus djiddensis" ; Times: 2
+	Query: "Carcharhinus plumbeus" ; Times: 2
+	Query: "Dipturus laevis" ; Times: 2
+	Query: "Squatina californica" ; Times: 2
+	Query: "Heptranchias perlo" ; Times: 2
+	Query: "Microtus montanus 2018" ; Times: 1
+	Query: "specificepithet:carinatus genus:leiocephalus year &gt;= 2000 year &lt;= 2019" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 105 (out of 1308 download events in this period)
+Total number of records downloaded: 1284
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 1
+	Country: Saudi Arabia ; Times: 1
+	Country: Mexico ; Times: 36
+	Country: Unknown ; Times: 18
+	Country: Uruguay ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Rwanda ; Times: 1
+	Country: United States ; Times: 41
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 1
+	Date: 2019-10-08 ; Times: 5
+	Date: 2019-10-21 ; Times: 2
+	Date: 2019-10-27 ; Times: 1
+	Date: 2019-10-26 ; Times: 1
+	Date: 2019-10-25 ; Times: 4
+	Date: 2019-10-22 ; Times: 1
+	Date: 2019-10-01 ; Times: 1
+	Date: 2019-10-03 ; Times: 16
+	Date: 2019-10-28 ; Times: 3
+	Date: 2019-10-05 ; Times: 2
+	Date: 2019-10-04 ; Times: 5
+	Date: 2019-10-07 ; Times: 6
+	Date: 2019-10-06 ; Times: 1
+	Date: 2019-10-23 ; Times: 28
+	Date: 2019-10-29 ; Times: 2
+	Date: 2019-10-18 ; Times: 3
+	Date: 2019-10-02 ; Times: 3
+	Date: 2019-10-16 ; Times: 1
+	Date: 2019-10-10 ; Times: 4
+	Date: 2019-10-11 ; Times: 1
+	Date: 2019-10-30 ; Times: 3
+	Date: 2019-10-31 ; Times: 1
+	Date: 2019-10-14 ; Times: 1
+	Date: 2019-10-17 ; Times: 3
+	Date: 2019-10-15 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Sus scrofa preparations:skeleton" ; Times: 1
+	Query: "buteo platypterus" ; Times: 1
+	Query: "testudo graeca" ; Times: 1
+	Query: "vntype:specimen (gonorynchiformes)" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Michigan&#34;" ; Times: 1
+	Query: "specificepithet:guttata family:emydidae" ; Times: 1
+	Query: "Lithobates catesbeianus" ; Times: 9
+	Query: "marmota monax vntype:specimen preparations:skeleton" ; Times: 1
+	Query: "((Lithobates pipiens) Canada)" ; Times: 1
+	Query: "Odocoileus virginianus preparations:skeleton" ; Times: 1
+	Query: "genus:Sciurus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Furcifer pardalis" ; Times: 2
+	Query: "eretmochelys imbricata" ; Times: 1
+	Query: "Erethizon preparations:skeleton" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "Puma concolor" ; Times: 3
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "Geothlypis philadelphia" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 2
+	Query: "Peromyscus mexicanus preparations:skeleton" ; Times: 1
+	Query: "genus:Ceratophrys" ; Times: 2
+	Query: "lithobates catesbeianus" ; Times: 4
+	Query: "Ctenopharyngodon idella" ; Times: 1
+	Query: "(Lithobates pipiens) Canada" ; Times: 10
+	Query: "Trimorphodon biscutatus" ; Times: 1
+	Query: "Varanus komodoensis" ; Times: 1
+	Query: "Setophaga virens" ; Times: 1
+	Query: "Anaxyrus fowleri" ; Times: 1
+	Query: "genus:Lampropeltis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "window class:Aves" ; Times: 1
+	Query: "setophaga virens" ; Times: 2
+	Query: "(Lithobates pipiens) country:&#34;canada&#34;" ; Times: 1
+	Query: "genus:Anolis institutioncode:ROM" ; Times: 1
+	Query: "Setophaga americana" ; Times: 1
+	Query: "erethizon dorsatum vntype:specimen preparations:skeleton" ; Times: 1
+	Query: "(Lithobates pipiens) country:&#34;Canada&#34;" ; Times: 2
+	Query: "Chelonoidis" ; Times: 1
+	Query: "Dasypus novemcinctus stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "family:Canidae institutioncode:ROM" ; Times: 1
+	Query: "cavia vntype:specimen preparations:skeleton" ; Times: 1
+	Query: "Bassariscus astutus" ; Times: 1
+	Query: "Phrynosoma orbiculare" ; Times: 1
+	Query: "Hemidactylus mabouia" ; Times: 1
+	Query: "Leptonycteris" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "Squamata country:&#34;Madagascar&#34;" ; Times: 1
+	Query: "(Lithobates pipiens) Canada country:&#34;Canada&#34;" ; Times: 1
+	Query: "puma concolor" ; Times: 10
+	Query: "colinus virginianus" ; Times: 1
+	Query: "chamaeleo chamaeleon" ; Times: 1
+	Query: "Varanus salvator" ; Times: 2
+	Query: "Lithobates Catesbeianus" ; Times: 1
+	Query: "specificepithet:flammeolus" ; Times: 1
+	Query: "genus:anaxyrus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Drymarchon couperi" ; Times: 1
+	Query: "Potos flavus preparations:skeleton" ; Times: 1
+	Query: "Lithobates pipiens country:&#34;Canada&#34;" ; Times: 1
+	Query: "sceloporus torquatus" ; Times: 3
+	Query: "tremarctos ornatus" ; Times: 1
+	Query: "vntype:specimen (Phrynosoma orbiculare) year &gt;= 1950 year &lt;= 2019 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Phyllomedusa" ; Times: 2
+	Query: "genus:Galeorhinus stateprovince:California" ; Times: 1
+	Query: "Oreothlypis ruficapilla" ; Times: 1
+	Query: "Puma Concolor" ; Times: 1
+	Query: "Varanus exanthematicus" ; Times: 1
+
+
+End of report.
