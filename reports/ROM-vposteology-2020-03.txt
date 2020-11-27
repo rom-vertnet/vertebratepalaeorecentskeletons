@@ -1,0 +1,278 @@
+Report for Institution Code ROM, Resource vposteology
+Usage stats for March 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 229
+Number of records retrieved in searches: 623
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 23
+	Country: United States ; Times: 134
+	Country: Australia ; Times: 1
+	Country: Singapore ; Times: 1
+	Country: Unknown ; Times: 30
+	Country: Mexico ; Times: 5
+	Country: United Kingdom ; Times: 11
+	Country: Slovenia ; Times: 1
+	Country: Sweden ; Times: 9
+	Country: Germany ; Times: 10
+	Country: Slovakia ; Times: 1
+	Country: Venezuela ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-08 ; Times: 1
+	Date: 2020-03-03 ; Times: 4
+	Date: 2020-03-30 ; Times: 1
+	Date: 2020-03-02 ; Times: 23
+	Date: 2020-03-18 ; Times: 3
+	Date: 2020-03-19 ; Times: 10
+	Date: 2020-03-09 ; Times: 15
+	Date: 2020-03-15 ; Times: 1
+	Date: 2020-03-12 ; Times: 1
+	Date: 2020-03-13 ; Times: 11
+	Date: 2020-03-10 ; Times: 5
+	Date: 2020-03-11 ; Times: 8
+	Date: 2020-03-17 ; Times: 2
+	Date: 2020-03-27 ; Times: 57
+	Date: 2020-03-26 ; Times: 6
+	Date: 2020-03-25 ; Times: 4
+	Date: 2020-03-24 ; Times: 3
+	Date: 2020-03-23 ; Times: 16
+	Date: 2020-03-22 ; Times: 16
+	Date: 2020-03-21 ; Times: 22
+	Date: 2020-03-20 ; Times: 5
+	Date: 2020-03-05 ; Times: 2
+	Date: 2020-03-06 ; Times: 6
+	Date: 2020-03-01 ; Times: 2
+	Date: 2020-03-29 ; Times: 2
+	Date: 2020-03-28 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Panthera uncia basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:erythrogaster genus:Nerodia stateprovince:&#34;South Carolina&#34;" ; Times: 3
+	Query: "Recent class:Mammalia collectioncode:Vertebrate Palaeontology institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:platyrhinos genus:Heterodon stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "Athene cunicularia institutioncode:ROM" ; Times: 1
+	Query: "country:Ecuador scientificname:Eira barbara " ; Times: 10
+	Query: "Cathartes aura institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:abacura genus:Farancia stateprovince:&#34;South Carolina&#34;" ; Times: 4
+	Query: "specificepithet:canadensis genus:Grus institutioncode:ROM basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "genus:Vipera country:&#34;India&#34;" ; Times: 9
+	Query: "Felis nigripes" ; Times: 1
+	Query: "genus:Phacochoerus specificepithet:aethiopicus" ; Times: 2
+	Query: "Crotalus vegrandis" ; Times: 1
+	Query: "genus:Alligator class:Reptilia stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Ailurus fulgens" ; Times: 18
+	Query: "specificepithet:piscivorus genus:Agkistrodon stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "Micrurus key" ; Times: 5
+	Query: "genus:Sternotherus class:Reptilia stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Nyctereutes" ; Times: 3
+	Query: "specificepithet:coronata genus:Tantilla stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:erytrogramma genus:Farancia stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "genus:Salvadora stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Crotalus cerberus" ; Times: 1
+	Query: "necturus maculosus AND (canada)" ; Times: 1
+	Query: "bradley county:&#34;lamb&#34;" ; Times: 1
+	Query: "genus:Acinonyx specificepithet:jubatus" ; Times: 3
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "specificepithet:striatula genus:Virginia stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:Gavialis" ; Times: 1
+	Query: "genus:Gazella specificepithet:dorcas" ; Times: 3
+	Query: "genus:Alcelaphus specificepithet:buselaphus" ; Times: 2
+	Query: "genus:Thylacinus institutioncode:ROM" ; Times: 3
+	Query: "specificepithet:miliarius genus:Sistrurus stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:monticola family:viperidae class:reptilia" ; Times: 1
+	Query: "Pseudemys texana Travis County" ; Times: 1
+	Query: "Thunnus obesus" ; Times: 1
+	Query: "genus:Micrurus stateprovince:&#34;South Carolina&#34;" ; Times: 5
+	Query: "country:Ecuador scientificname:Potos flavus " ; Times: 7
+	Query: "genus:Acinonyx" ; Times: 1
+	Query: "specificepithet:simus genus:Heterodon stateprovince:&#34;South Carolina&#34;" ; Times: 3
+	Query: "Bungarus candidus" ; Times: 1
+	Query: "genus:Salvadora stateprovince:&#34;california&#34; year &gt;= 1990 year &lt;= 2020" ; Times: 1
+	Query: "Buteo swainsoni institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:guttatus genus:Pantherophis stateprovince:&#34;South Carolina&#34;" ; Times: 4
+	Query: "crotalus vegrandis" ; Times: 9
+	Query: "specificepithet:ventralis genus:Ophisaurus class:Reptilia stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "Pelecanus occidentalis institutioncode:ROM" ; Times: 1
+	Query: "Carcharhinus altimus" ; Times: 1
+	Query: "Pseudorca crassidens" ; Times: 1
+	Query: "Pristis pectinata" ; Times: 1
+	Query: "Panthera uncia" ; Times: 1
+	Query: "Anaxyrus woodhousii stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "specificepithet:fasciata genus:Nerodia stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "specificepithet:couperi genus:drymarchon stateprovince:&#34;florida&#34;" ; Times: 1
+	Query: "Felis chaus" ; Times: 1
+	Query: "genus:Procavia specificepithet:capensis" ; Times: 2
+	Query: "Lasiurus seminolus" ; Times: 2
+	Query: "specificepithet:Hyemalis county:&#34;Muskoka&#34; institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:Hyemalis genus:Junco county:&#34;Muskoka&#34; institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:marsupialis genus:didelphis stateprovince:&#34;texas&#34;" ; Times: 2
+	Query: "specificepithet:flagellum genus:Masticophis stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "specificepithet:taxispilota genus:Nerodia stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "genus:Scincella stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Cygnus buccinator institutioncode:ROM" ; Times: 1
+	Query: "genus:geococcyx institutioncode:ROM" ; Times: 1
+	Query: "class:Mammalia collectioncode:Vertebrate Palaeontology institutioncode:ROM haslifestage:1" ; Times: 1
+	Query: "Grus canadensis institutioncode:ROM" ; Times: 1
+	Query: "Euthynnus alletteratus" ; Times: 1
+	Query: "Thunnus albacares" ; Times: 1
+	Query: "specificepithet:constrictor genus:Coluber stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:Madoqua specificepithet:guentheri" ; Times: 2
+	Query: "specificepithet:marsupialis stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Felis catus" ; Times: 1
+	Query: "singapore vertebrate" ; Times: 1
+	Query: "Pteropus giganteus" ; Times: 1
+	Query: "Echinorhinus brucus" ; Times: 1
+	Query: "genus:Diadophis stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:Cercopithecus specificepithet:aethiops" ; Times: 1
+	Query: "genus:geococcyx institutioncode:ROM skeleton" ; Times: 1
+	Query: "Pan paniscus" ; Times: 1
+	Query: "genus:Opheodrys stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "genus:Apalone class:Reptilia stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:canadensis county:&#34;muskoka&#34; institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:coccinea genus:Cemophora stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:picta genus:Chrysemys class:Reptilia stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Katsuwonus pelamis" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "specificepithet:obsoleta genus:Elaphe stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "pseudopus apodus" ; Times: 1
+	Query: "country:Ecuador scientificname:Dasyprocta fuliginosa " ; Times: 3
+	Query: "specificepithet:sirtalis genus:Thamnophis stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Theloderma corticale" ; Times: 29
+	Query: "genus:Theloderma specificepithet:corticale" ; Times: 1
+	Query: "family:Suidae preparations:skeleton" ; Times: 2
+	Query: "genus:Sistrurus stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "specificepithet:horridus genus:Crotalus stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "Auxis rochei" ; Times: 1
+	Query: "Pelecanus erythrorhynchos institutioncode:ROM" ; Times: 1
+	Query: "class:Mammalia catalognumber:7155 institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:canadensis genus:Grus preparations:skeleton institutioncode:ROM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Lasiurus intermedius" ; Times: 2
+	Query: "Bubo scandiacus institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:hyemalis genus:junco county:&#34;muskoka&#34; institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:spinifera genus:Apalone class:Reptilia stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "thalassarche melanophrys" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 75 (out of 853 download events in this period)
+Total number of records downloaded: 559
+Number of different countries: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 9
+	Country: Indonesia ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 3
+	Country: Nepal ; Times: 1
+	Country: Singapore ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 52
+	Country: Germany ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-11 ; Times: 5
+	Date: 2020-03-30 ; Times: 2
+	Date: 2020-03-31 ; Times: 2
+	Date: 2020-03-18 ; Times: 3
+	Date: 2020-03-16 ; Times: 2
+	Date: 2020-03-23 ; Times: 1
+	Date: 2020-03-12 ; Times: 5
+	Date: 2020-03-13 ; Times: 7
+	Date: 2020-03-10 ; Times: 4
+	Date: 2020-03-08 ; Times: 1
+	Date: 2020-03-17 ; Times: 3
+	Date: 2020-03-27 ; Times: 3
+	Date: 2020-03-26 ; Times: 3
+	Date: 2020-03-25 ; Times: 1
+	Date: 2020-03-24 ; Times: 2
+	Date: 2020-03-09 ; Times: 3
+	Date: 2020-03-22 ; Times: 2
+	Date: 2020-03-21 ; Times: 2
+	Date: 2020-03-20 ; Times: 5
+	Date: 2020-03-05 ; Times: 6
+	Date: 2020-03-04 ; Times: 2
+	Date: 2020-03-06 ; Times: 3
+	Date: 2020-03-01 ; Times: 1
+	Date: 2020-03-29 ; Times: 2
+	Date: 2020-03-02 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:blandingii" ; Times: 1
+	Query: "Tamandua tetradactyla" ; Times: 1
+	Query: "Panthera uncia basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:bombifrons genus:Spea" ; Times: 1
+	Query: "genus:Lichanura" ; Times: 1
+	Query: "heloderma" ; Times: 1
+	Query: "panthera" ; Times: 1
+	Query: "specificepithet:adamanteus genus:crotalus" ; Times: 1
+	Query: "Hemidactylus turcicus" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 3
+	Query: "specificepithet:flavescens genus:Kinosternon" ; Times: 1
+	Query: "sorex hoyi" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus" ; Times: 1
+	Query: "Sistrurus" ; Times: 1
+	Query: "Hydrochoerus hydrochaeris" ; Times: 2
+	Query: "lates calcarifer" ; Times: 2
+	Query: "family:Galagonidae" ; Times: 1
+	Query: "(scandentia)" ; Times: 2
+	Query: "specificepithet:subocularis genus:Bogertophis" ; Times: 1
+	Query: "specificepithet:alterna genus:Lampropeltis" ; Times: 1
+	Query: "specificepithet:palustris family:Ranidae" ; Times: 1
+	Query: "specificepithet:horridus genus:Crotalus" ; Times: 1
+	Query: "specificepithet:guttatus genus:Pantherophis" ; Times: 1
+	Query: "specificepithet:cyanea genus:Passerina" ; Times: 1
+	Query: "genus:Drymarchon" ; Times: 2
+	Query: "LEOPARDUS WIEDII" ; Times: 1
+	Query: "Trimorphodon biscutatus" ; Times: 1
+	Query: "specificepithet:speciosus family:Bufonidae" ; Times: 1
+	Query: "bothrops asper" ; Times: 1
+	Query: "specificepithet:punctatus genus:Anaxyrus" ; Times: 1
+	Query: "Spermophilus parryii" ; Times: 1
+	Query: "specificepithet:mexicana genus:tamandua" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis" ; Times: 1
+	Query: "specificepithet:aestivus genus:Opheodrys" ; Times: 1
+	Query: "specificepithet:triangulum genus:Lampropeltis" ; Times: 1
+	Query: "Nasua nasua" ; Times: 1
+	Query: "specificepithet:emoryi" ; Times: 1
+	Query: "Nerodia taxispilota" ; Times: 1
+	Query: "genus:Hypsiglena" ; Times: 1
+	Query: "Theloderma corticale" ; Times: 1
+	Query: "genus:Alligator country:&#34;USA&#34;" ; Times: 1
+	Query: "genus:Amphiuma" ; Times: 1
+	Query: "specificepithet:elegans genus:Arizona" ; Times: 1
+	Query: "genus:Passerina year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "specificepithet:olivacea genus:Gastrophryne" ; Times: 1
+	Query: "specificepithet:occipitomaculata genus:Storeria" ; Times: 1
+	Query: "genus:Passerina year &gt;= 2010 year &lt;= 2018 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Pseudemys texana" ; Times: 1
+	Query: "country:&#34;Singapore&#34;" ; Times: 1
+	Query: "specificepithet:pyromelana genus:Lampropeltis" ; Times: 1
+	Query: "genus:Cemophora" ; Times: 1
+	Query: "desmodus rotundus" ; Times: 1
+	Query: "class:Aves continent:Africa institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:getulus genus:Lampropeltis" ; Times: 1
+	Query: "genus:Sistrurus" ; Times: 1
+	Query: "genus:Gopherus" ; Times: 1
+	Query: "tamandua mexicana" ; Times: 3
+	Query: "elephantulus rufescens" ; Times: 1
+	Query: "specificepithet:cornutum genus:Phrynosoma" ; Times: 1
+	Query: "specificepithet:marsupialis genus:didelphis stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "Crotalus cerberus" ; Times: 1
+	Query: "genus:Sonora" ; Times: 1
+	Query: "genus:Farancia" ; Times: 1
+	Query: "specificepithet:americanus genus:lepus basisofrecord:PreservedSpecimen" ; Times: 1
+
+
+End of report.
