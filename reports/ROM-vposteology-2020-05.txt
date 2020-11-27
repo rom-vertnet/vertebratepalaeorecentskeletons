@@ -1,0 +1,224 @@
+Report for Institution Code ROM, Resource vposteology
+Usage stats for May 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 78
+Number of records retrieved in searches: 118
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 6
+	Country: United States ; Times: 36
+	Country: Australia ; Times: 5
+	Country: Portugal ; Times: 2
+	Country: Singapore ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Sweden ; Times: 4
+	Country: Germany ; Times: 7
+	Country: Peru ; Times: 2
+	Country: Russia ; Times: 2
+	Country: Brazil ; Times: 11
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-25 ; Times: 10
+	Date: 2020-05-24 ; Times: 1
+	Date: 2020-05-27 ; Times: 3
+	Date: 2020-05-26 ; Times: 13
+	Date: 2020-05-20 ; Times: 2
+	Date: 2020-05-23 ; Times: 2
+	Date: 2020-05-22 ; Times: 3
+	Date: 2020-05-29 ; Times: 1
+	Date: 2020-05-18 ; Times: 4
+	Date: 2020-05-19 ; Times: 2
+	Date: 2020-05-10 ; Times: 3
+	Date: 2020-05-11 ; Times: 2
+	Date: 2020-05-12 ; Times: 1
+	Date: 2020-05-14 ; Times: 2
+	Date: 2020-05-15 ; Times: 1
+	Date: 2020-05-16 ; Times: 3
+	Date: 2020-05-17 ; Times: 3
+	Date: 2020-05-30 ; Times: 3
+	Date: 2020-05-31 ; Times: 1
+	Date: 2020-05-07 ; Times: 6
+	Date: 2020-05-06 ; Times: 6
+	Date: 2020-05-04 ; Times: 2
+	Date: 2020-05-02 ; Times: 3
+	Date: 2020-05-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Lichanura trivirgata gracia" ; Times: 2
+	Query: "genus:Gavialis" ; Times: 1
+	Query: "Sphenodon" ; Times: 7
+	Query: "vntype:specimen specificepithet:buccinator genus:Cygnus stateprovince:&#34;Ontario&#34; institutioncode:ROM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "country:Ecuador scientificname:Eira barbara " ; Times: 15
+	Query: "specificepithet:buccinator genus:Cygnus year &gt;= 1917 year &lt;= 2020 institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:willardi genus:Crotalus county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "Neotoma cinerea" ; Times: 3
+	Query: "family:Ursidae lifestage:adult" ; Times: 1
+	Query: "Toxotes jaculatrix" ; Times: 1
+	Query: "lepidocybium" ; Times: 2
+	Query: "genus:Bison specificepithet:Bison" ; Times: 1
+	Query: "skeleton specificepithet:willardi county:&#34;cochise&#34;" ; Times: 1
+	Query: "ACRANTOPHIS" ; Times: 1
+	Query: "ROM 3891" ; Times: 2
+	Query: "collichthys lucidus" ; Times: 2
+	Query: "class:aves catalognumber:7319" ; Times: 1
+	Query: "Leopardus geoffroyi" ; Times: 1
+	Query: "vntype:specimen specificepithet:buccinator genus:Cygnus institutioncode:ROM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Crotalus county:&#34;Crook&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Potos flavus " ; Times: 1
+	Query: "country:Ecuador scientificname:Dasyprocta fuliginosa " ; Times: 1
+	Query: "Leiopython albertisi" ; Times: 2
+	Query: "Leopardus colocolo" ; Times: 1
+	Query: "(Cuon alpinus)" ; Times: 1
+	Query: "vipera latastei" ; Times: 2
+	Query: "gonioplectrus hispanus" ; Times: 1
+	Query: "genus:Orcinus specificepithet:orca" ; Times: 10
+	Query: "Perognathus flavus stateprovince:&#34;Texas&#34; country:&#34;USA&#34;" ; Times: 1
+	Query: "Geomys bursarius stateprovince:&#34;Texas&#34; country:&#34;USA&#34;" ; Times: 1
+	Query: "specificepithet:californicus genus:peromyscus institutioncode:ROM" ; Times: 1
+	Query: "leopardus colocolo" ; Times: 2
+	Query: "specificepithet:willardi county:&#34;cochise&#34;" ; Times: 1
+	Query: "specificepithet:minimus genus:Catharus class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Hernando&#34; stateprovince:&#34;Florida&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Kinixys nogueyi" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 93 (out of 1106 download events in this period)
+Total number of records downloaded: 2863
+Number of different countries: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 4
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 10
+	Country: Unknown ; Times: 3
+	Country: Singapore ; Times: 6
+	Country: United States ; Times: 56
+	Country: Germany ; Times: 1
+	Country: United Kingdom ; Times: 4
+	Country: Colombia ; Times: 1
+	Country: Argentina ; Times: 2
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-25 ; Times: 1
+	Date: 2020-05-24 ; Times: 4
+	Date: 2020-05-26 ; Times: 1
+	Date: 2020-05-21 ; Times: 1
+	Date: 2020-05-20 ; Times: 1
+	Date: 2020-05-23 ; Times: 5
+	Date: 2020-05-22 ; Times: 2
+	Date: 2020-05-28 ; Times: 3
+	Date: 2020-05-18 ; Times: 2
+	Date: 2020-05-19 ; Times: 7
+	Date: 2020-05-10 ; Times: 1
+	Date: 2020-05-11 ; Times: 3
+	Date: 2020-05-12 ; Times: 4
+	Date: 2020-05-13 ; Times: 1
+	Date: 2020-05-15 ; Times: 2
+	Date: 2020-05-16 ; Times: 1
+	Date: 2020-05-17 ; Times: 1
+	Date: 2020-05-30 ; Times: 8
+	Date: 2020-05-31 ; Times: 2
+	Date: 2020-05-09 ; Times: 2
+	Date: 2020-05-08 ; Times: 18
+	Date: 2020-05-07 ; Times: 2
+	Date: 2020-05-06 ; Times: 5
+	Date: 2020-05-05 ; Times: 7
+	Date: 2020-05-04 ; Times: 2
+	Date: 2020-05-03 ; Times: 3
+	Date: 2020-05-02 ; Times: 2
+	Date: 2020-05-01 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Thamnophis class:reptilia stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "Nasua nasua" ; Times: 1
+	Query: "emydoidea" ; Times: 1
+	Query: "specificepithet:rufescens genus:Elephantulus" ; Times: 1
+	Query: "Regina grahamii" ; Times: 1
+	Query: "Sphenodon" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "heloderma horridum" ; Times: 1
+	Query: "Hydromantes" ; Times: 1
+	Query: "Cynops pyrrhogaster" ; Times: 3
+	Query: "mephitis macroura" ; Times: 1
+	Query: "Perognathus flavus" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 1
+	Query: "Opheodrys aestivus" ; Times: 1
+	Query: "Agkistrodon contortrix" ; Times: 1
+	Query: "order:Squamata country:&#34;Brazil&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "mustela frenata" ; Times: 1
+	Query: "hemidactylus turcicus" ; Times: 2
+	Query: "specificepithet:texana genus:pseudemys" ; Times: 1
+	Query: "Puma concolor" ; Times: 2
+	Query: "Phoca vitulina" ; Times: 1
+	Query: "vntype:specimen specificepithet:niloticus genus:Varanus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Toxotes jaculatrix" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;tabasco&#34;" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 1
+	Query: "Enhydra lutris" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;tabasco&#34;" ; Times: 2
+	Query: "Storeria dekayi" ; Times: 1
+	Query: "Leopardus colocolo" ; Times: 1
+	Query: "Anolis cristatellus" ; Times: 1
+	Query: "lithobates catesbeianus" ; Times: 1
+	Query: "Oncorhynchus mykiss" ; Times: 1
+	Query: "caretta caretta" ; Times: 1
+	Query: "amphiuma tridactylum" ; Times: 1
+	Query: "Thamnophis radix" ; Times: 1
+	Query: "Actinemys marmorata" ; Times: 1
+	Query: "Ambystoma opacum" ; Times: 1
+	Query: "reptilia oregon" ; Times: 1
+	Query: "Leopardus geoffroyi" ; Times: 1
+	Query: "Martes zibellina" ; Times: 1
+	Query: "Coleonyx variegatus" ; Times: 1
+	Query: "gerrhonotus liocephalus" ; Times: 1
+	Query: "ctenosaura similis" ; Times: 1
+	Query: "Agkistrodon piscivorus" ; Times: 1
+	Query: "Martes americana" ; Times: 1
+	Query: "bassariscus astutus" ; Times: 1
+	Query: "peromyscus melanotis" ; Times: 1
+	Query: "coleonyx variegatus" ; Times: 1
+	Query: "specificepithet:latrans genus:canis stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Arizona elegans" ; Times: 1
+	Query: "sceloporus variabilis" ; Times: 1
+	Query: "actinemys marmorata" ; Times: 1
+	Query: "necturus maculosus" ; Times: 1
+	Query: "genus:Gulo" ; Times: 1
+	Query: "Dipsosaurus Arizona" ; Times: 1
+	Query: "Cynops" ; Times: 1
+	Query: "gymnophiona" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "Heterodon nasicus" ; Times: 1
+	Query: "Catostomus" ; Times: 1
+	Query: "Martes martes" ; Times: 1
+	Query: "Basiliscus plumifrons" ; Times: 1
+	Query: "Mirounga angustirostris" ; Times: 1
+	Query: "class:Aves institutioncode:ROM" ; Times: 1
+	Query: "cervus canadensis" ; Times: 1
+	Query: "crotalus pricei" ; Times: 1
+	Query: "ctenosaura pectinata" ; Times: 1
+	Query: "odocoileus hemionus" ; Times: 1
+	Query: "genus:Eira" ; Times: 1
+	Query: "Terrapene carolina" ; Times: 1
+	Query: "Martes pennanti" ; Times: 1
+	Query: "Basiliscus vittatus" ; Times: 1
+	Query: "NOTOPHTHALMUS VIRIDESCENS" ; Times: 1
+	Query: "phrynosoma orbiculare" ; Times: 1
+	Query: "barisia imbricata" ; Times: 1
+	Query: "Crotalus cerberus" ; Times: 2
+	Query: "genus:Martes" ; Times: 2
+	Query: "procyon lotor" ; Times: 1
+	Query: "Notophthalmus viridescens" ; Times: 3
+	Query: "order:Rodentia stateprovince:Colorado" ; Times: 1
+	Query: "vipera latastei" ; Times: 1
+	Query: "Vipera aspis" ; Times: 1
+	Query: "CROTALUS HORRIDUS" ; Times: 2
+
+
+End of report.
