@@ -1,0 +1,170 @@
+Report for Institution Code ROM, Resource vposteology
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 355
+Number of records retrieved in searches: 1037
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 98
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: Nepal ; Times: 2
+	Country: India ; Times: 12
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 228
+	Country: China ; Times: 4
+	Country: Peru ; Times: 2
+	Country: Germany ; Times: 2
+	Country: Argentina ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-20 ; Times: 2
+	Date: 2020-06-23 ; Times: 5
+	Date: 2020-06-24 ; Times: 2
+	Date: 2020-06-08 ; Times: 28
+	Date: 2020-06-09 ; Times: 1
+	Date: 2020-06-06 ; Times: 1
+	Date: 2020-06-07 ; Times: 5
+	Date: 2020-06-04 ; Times: 7
+	Date: 2020-06-05 ; Times: 5
+	Date: 2020-06-02 ; Times: 6
+	Date: 2020-06-03 ; Times: 3
+	Date: 2020-06-01 ; Times: 12
+	Date: 2020-06-15 ; Times: 41
+	Date: 2020-06-28 ; Times: 30
+	Date: 2020-06-27 ; Times: 3
+	Date: 2020-06-29 ; Times: 2
+	Date: 2020-06-10 ; Times: 75
+	Date: 2020-06-11 ; Times: 72
+	Date: 2020-06-12 ; Times: 9
+	Date: 2020-06-17 ; Times: 46
+
+List of queries that retrieved data from the resource: 
+	Query: "Priacanthus macracanthus" ; Times: 9
+	Query: "Selaroides leptolepis" ; Times: 6
+	Query: "specificepithet:erythrogaster genus:Nerodia stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:velox genus:Vulpes stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Scomber japonicus" ; Times: 6
+	Query: "genus:Tantilla stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Osphronemus goramy" ; Times: 6
+	Query: "country:Ecuador scientificname:Eira barbara " ; Times: 7
+	Query: "Trimeresurus puniceus" ; Times: 4
+	Query: "specificepithet:abacura genus:Farancia stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:miliarius genus:Sistrurus stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "vipera russelli india" ; Times: 1
+	Query: "genus:neofelis country:indonesia" ; Times: 2
+	Query: "Anabas testudineus" ; Times: 6
+	Query: "genus:trimeresurus institutioncode:rom" ; Times: 1
+	Query: "Geophagus surinamensis" ; Times: 1
+	Query: "specificepithet:erytrogramma genus:Farancia stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:leopardus institutioncode:ROM" ; Times: 1
+	Query: "Atule mate" ; Times: 6
+	Query: "Decapterus maruadsi" ; Times: 6
+	Query: "Pseudomystus siamensis" ; Times: 6
+	Query: "catalognumber:8660 institutioncode:ROM" ; Times: 1
+	Query: "Decapterus tabl" ; Times: 6
+	Query: "Ctenopharyngodon idella" ; Times: 9
+	Query: "genus:Ceratophrys specificepithet:cranwelli" ; Times: 3
+	Query: "genus:Micrurus stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Cairina moschata" ; Times: 3
+	Query: "Siganus canaliculatus" ; Times: 6
+	Query: "genus:cyclopes institutioncode:ROM" ; Times: 1
+	Query: "Anas formosa" ; Times: 6
+	Query: "Oreochromis niloticus" ; Times: 12
+	Query: "Colossoma macropomum" ; Times: 6
+	Query: "genus:trimeresurus country:indonesia" ; Times: 1
+	Query: "genus:Cemophora stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Archocentrus nigrofasciatus" ; Times: 1
+	Query: "country:Ecuador scientificname:Dasyprocta fuliginosa " ; Times: 4
+	Query: "specificepithet:sirtalis genus:Thamnophis stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Pongo abelii" ; Times: 1
+	Query: "specificepithet:simus genus:Heterodon stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Piaractus brachypomus" ; Times: 6
+	Query: "Phractocephalus hemioliopterus" ; Times: 6
+	Query: "Scomberomorus maculatus" ; Times: 6
+	Query: "sebastes mentella" ; Times: 3
+	Query: "Macrognathus siamensis" ; Times: 6
+	Query: "Oreochromis mossambicus" ; Times: 6
+	Query: "Glossogobius aureus" ; Times: 6
+	Query: "specificepithet:horridus genus:Crotalus stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "ptyas mucosus india" ; Times: 2
+	Query: "Pangasius pangasius" ; Times: 6
+	Query: "Channa micropeltes" ; Times: 12
+	Query: "catalognumber: 3742" ; Times: 1
+	Query: "genus:Theloderma specificepithet:corticale" ; Times: 4
+	Query: "genus:Opheodrys stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "Bubalus bubalis" ; Times: 3
+	Query: "Labeo rohita" ; Times: 6
+	Query: "Sillago sihama" ; Times: 6
+	Query: "oxycirrhites typus" ; Times: 1
+	Query: "Lates calcarifer" ; Times: 6
+	Query: "Panthera uncia" ; Times: 1
+	Query: "Cheilopogon agoo" ; Times: 6
+	Query: "scientificname:emydoidea blandingii" ; Times: 37
+	Query: "specificepithet:striatula genus:Virginia stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Decapterus macarellus" ; Times: 6
+	Query: "Decapterus russelli" ; Times: 6
+	Query: "country:Ecuador scientificname:Potos flavus " ; Times: 1
+	Query: "Scomber scombrus" ; Times: 1
+	Query: "Clarias batrachus" ; Times: 6
+	Query: "Otolithes ruber" ; Times: 12
+	Query: "Otocolobus manul" ; Times: 1
+	Query: "Nemipterus furcosus" ; Times: 6
+	Query: "genus:Diadophis stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "ailurus fulgens" ; Times: 12
+	Query: "Tenasserim Reptilia" ; Times: 2
+	Query: "Salvelinus malma" ; Times: 6
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 16
+	Query: "Harpadon nehereus" ; Times: 6
+	Query: "specificepithet:flagellum genus:Masticophis stateprovince:&#34;South Carolina&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 22 (out of 474 download events in this period)
+Total number of records downloaded: 132
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 12
+	Country: Brazil ; Times: 7
+	Country: Nepal ; Times: 1
+	Country: India ; Times: 1
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-08 ; Times: 2
+	Date: 2020-06-09 ; Times: 2
+	Date: 2020-06-04 ; Times: 5
+	Date: 2020-06-05 ; Times: 2
+	Date: 2020-06-02 ; Times: 3
+	Date: 2020-06-10 ; Times: 6
+	Date: 2020-06-01 ; Times: 1
+	Date: 2020-06-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:novemcinctus genus:dasypus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "dasyprocta punctata" ; Times: 1
+	Query: "sebastes mentella" ; Times: 1
+	Query: "oncorhynchus kisutch" ; Times: 1
+	Query: "Pandion haliaetus" ; Times: 1
+	Query: "Dryocopus pileatus" ; Times: 1
+	Query: "catalognumber:8660 institutioncode:ROM" ; Times: 1
+	Query: "nasua nasua" ; Times: 1
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: "specificepithet:fuscescens genus:Catharus" ; Times: 1
+	Query: "Actinemys marmorata" ; Times: 1
+	Query: "specificepithet:rubra genus:Piranga" ; Times: 1
+	Query: "Dasyprocta punctata" ; Times: 1
+	Query: "Piranga rubra" ; Times: 1
+	Query: "ailurus fulgens" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 1
+	Query: "Catharus fuscescens" ; Times: 1
+	Query: "scalopus aquaticus" ; Times: 3
+	Query: "Panthera uncia" ; Times: 1
+
+
+End of report.
