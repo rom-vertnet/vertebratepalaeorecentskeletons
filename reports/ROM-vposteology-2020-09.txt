@@ -1,0 +1,275 @@
+Report for Institution Code ROM, Resource vposteology
+Usage stats for September 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 169
+Number of records retrieved in searches: 387
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 7
+	Country: United Kingdom ; Times: 1
+	Country: Peru ; Times: 3
+	Country: Mexico ; Times: 8
+	Country: Denmark ; Times: 4
+	Country: Finland ; Times: 1
+	Country: France ; Times: 52
+	Country: United States ; Times: 74
+	Country: Colombia ; Times: 3
+	Country: Belgium ; Times: 1
+	Country: Japan ; Times: 11
+	Country: Taiwan ; Times: 2
+	Country: Venezuela ; Times: 1
+	Country: South Korea ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-09 ; Times: 3
+	Date: 2020-09-08 ; Times: 7
+	Date: 2020-09-03 ; Times: 4
+	Date: 2020-09-02 ; Times: 6
+	Date: 2020-09-07 ; Times: 1
+	Date: 2020-09-06 ; Times: 5
+	Date: 2020-09-05 ; Times: 5
+	Date: 2020-09-04 ; Times: 8
+	Date: 2020-09-21 ; Times: 6
+	Date: 2020-09-23 ; Times: 1
+	Date: 2020-09-22 ; Times: 12
+	Date: 2020-09-25 ; Times: 4
+	Date: 2020-09-24 ; Times: 3
+	Date: 2020-09-26 ; Times: 1
+	Date: 2020-09-29 ; Times: 18
+	Date: 2020-09-28 ; Times: 5
+	Date: 2020-09-30 ; Times: 2
+	Date: 2020-09-14 ; Times: 5
+	Date: 2020-09-15 ; Times: 1
+	Date: 2020-09-16 ; Times: 19
+	Date: 2020-09-17 ; Times: 19
+	Date: 2020-09-10 ; Times: 3
+	Date: 2020-09-11 ; Times: 1
+	Date: 2020-09-12 ; Times: 3
+	Date: 2020-09-13 ; Times: 9
+	Date: 2020-09-18 ; Times: 15
+	Date: 2020-09-19 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "scientificname:Peromyscus mexicanus" ; Times: 1
+	Query: "genus:Lasionycteris stateprovince:&#34;Ontario&#34;" ; Times: 1
+	Query: "Seriola rivoliana" ; Times: 1
+	Query: "country:Ecuador scientificname:Eira barbara " ; Times: 9
+	Query: "ailurus" ; Times: 1
+	Query: "genus:Trachemys stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "specificepithet:colocolo genus:Leopardus country:&#34;Peru&#34;" ; Times: 1
+	Query: "Kyphosus sectatrix" ; Times: 1
+	Query: "scientificname:Scomber japonicus" ; Times: 1
+	Query: "Seriola dumerili" ; Times: 1
+	Query: "specificepithet:surinamensis genus:Batrachoides" ; Times: 1
+	Query: "specificepithet:bison genus:bison stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Pampus argenteus" ; Times: 1
+	Query: "Mullus surmuletus" ; Times: 5
+	Query: "genus:ensatina county:&#34;san bernardino&#34;" ; Times: 1
+	Query: "Atherina boyeri" ; Times: 1
+	Query: "Nemipterus japonicus" ; Times: 1
+	Query: "Carcharhinus limbatus" ; Times: 1
+	Query: "scientificname:Peromyscus pectoralis" ; Times: 1
+	Query: "Globicephala melaena" ; Times: 10
+	Query: "Scarus ghobban" ; Times: 1
+	Query: "Carcharhinus brachyurus" ; Times: 1
+	Query: "genus:Eudyptula institutioncode:ROM skeleton" ; Times: 1
+	Query: "genus:Gavialis" ; Times: 3
+	Query: "Torpedo torpedo" ; Times: 1
+	Query: "Tetrapturus albidus" ; Times: 1
+	Query: "Geophagus surinamensis" ; Times: 1
+	Query: "scientificname:Pongo Pygmaeus" ; Times: 1
+	Query: "vntype:specimen specificepithet:cynocephalus genus:Thylacinus" ; Times: 1
+	Query: "Pseudupeneus prayensis" ; Times: 1
+	Query: "country:Ecuador scientificname:Potos flavus " ; Times: 2
+	Query: "scientificname:Loxodonta africana" ; Times: 5
+	Query: "Isurus oxyrinchus" ; Times: 1
+	Query: "Rastrelliger kanagurta" ; Times: 1
+	Query: "Cyclopterus lumpus" ; Times: 1
+	Query: "scientificname:Pan Paniscus" ; Times: 1
+	Query: "Hexanchus griseus" ; Times: 1
+	Query: "specificepithet:monoceros genus:Monodon basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Carcharhinus altimus" ; Times: 1
+	Query: "specificepithet:lagopus genus:alopex preparations:skull institutioncode:ROM" ; Times: 2
+	Query: "Carcharhinus brevipinna" ; Times: 1
+	Query: "Pristis pectinata" ; Times: 1
+	Query: "crotalus willardi arizona cochise" ; Times: 1
+	Query: "scientificname:Pongo Abelii" ; Times: 2
+	Query: "Lobotes surinamensis" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "actinemys marmorata" ; Times: 1
+	Query: "Carcharodon carcharias" ; Times: 1
+	Query: "Python molurus" ; Times: 1
+	Query: "genus:Ceratophrys specificepithet:cranwelli" ; Times: 1
+	Query: "Squatina squatina" ; Times: 1
+	Query: "Thamnophis sirtalis tetrataenia" ; Times: 1
+	Query: "&#34;Ototylomys phyllotis&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "scientificname:Peromyscus melanotis" ; Times: 1
+	Query: "Carcharhinus falciformis" ; Times: 1
+	Query: "specificepithet:lagopus genus:alopex preparations:skull" ; Times: 1
+	Query: "Thalassoma pavo" ; Times: 1
+	Query: "scientificname:Reithrodontomys fulvescens" ; Times: 2
+	Query: "scientificname:Liomys irroratus" ; Times: 1
+	Query: "Dalatias licha" ; Times: 1
+	Query: "genus:Eudyptula institutioncode:ROM" ; Times: 2
+	Query: "Prionace glauca" ; Times: 1
+	Query: "Euthynnus alletteratus" ; Times: 1
+	Query: "scientificname:Peromyscus difficilis" ; Times: 1
+	Query: "scientificname:Pongo pygmaeus" ; Times: 3
+	Query: "Leopardus colocolo" ; Times: 1
+	Query: "Sardinella aurita" ; Times: 1
+	Query: "Sillago sihama" ; Times: 1
+	Query: "Alopias vulpinus" ; Times: 1
+	Query: "Elagatis bipinnulata" ; Times: 1
+	Query: "genus:Spheniscus institutioncode:ROM" ; Times: 1
+	Query: "Decapterus russelli" ; Times: 1
+	Query: "scientificname:Pan paniscus" ; Times: 14
+	Query: "Balistes capriscus" ; Times: 1
+	Query: "scientificname:Pongo abelii" ; Times: 13
+	Query: "Fistularia commersonii" ; Times: 1
+	Query: "Helicolenus dactylopterus" ; Times: 1
+	Query: "latimeria" ; Times: 1
+	Query: "crotalus willardi arizona" ; Times: 3
+	Query: "scientificname:Lagothrix lagotricha" ; Times: 1
+	Query: "Coris julis" ; Times: 1
+	Query: "Rachycentron canadum" ; Times: 1
+	Query: "Katsuwonus pelamis" ; Times: 1
+	Query: "scientificname:Chinchilla chinchilla" ; Times: 1
+	Query: "Mycteroperca tigris" ; Times: 1
+	Query: "Pagrus pagrus" ; Times: 1
+	Query: "Heptranchias perlo" ; Times: 1
+	Query: "specificepithet:lagopus genus:Alopex preparations:skull" ; Times: 1
+	Query: "Xiphias gladius" ; Times: 1
+	Query: "Dactylopterus volitans" ; Times: 1
+	Query: "rom rhea" ; Times: 4
+	Query: "Acanthocybium solandri" ; Times: 1
+	Query: "litoria infrafrenatus" ; Times: 1
+	Query: "scientificname:Panthera onca" ; Times: 1
+	Query: "Pagrus major" ; Times: 1
+	Query: "Carcharhinus plumbeus" ; Times: 1
+	Query: "Mesocricetus auratus" ; Times: 1
+	Query: "specificepithet:colocolo country:&#34;Peru&#34;" ; Times: 1
+	Query: "specificepithet:tigris genus:Panthera institutioncode:ROM" ; Times: 1
+	Query: "scientificname:Tremarctos ornatus" ; Times: 5
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 74 (out of 976 download events in this period)
+Total number of records downloaded: 1077
+Number of different countries: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Ghana ; Times: 1
+	Country: Netherlands ; Times: 5
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: Norway ; Times: 1
+	Country: Turkey ; Times: 1
+	Country: Finland ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 49
+	Country: Australia ; Times: 1
+	Country: Uganda ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: Fiji ; Times: 1
+	Country: Venezuela ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-09 ; Times: 13
+	Date: 2020-09-03 ; Times: 3
+	Date: 2020-09-01 ; Times: 1
+	Date: 2020-09-07 ; Times: 1
+	Date: 2020-09-06 ; Times: 2
+	Date: 2020-09-04 ; Times: 2
+	Date: 2020-09-21 ; Times: 1
+	Date: 2020-09-23 ; Times: 1
+	Date: 2020-09-22 ; Times: 3
+	Date: 2020-09-25 ; Times: 2
+	Date: 2020-09-24 ; Times: 7
+	Date: 2020-09-27 ; Times: 1
+	Date: 2020-09-26 ; Times: 3
+	Date: 2020-09-29 ; Times: 2
+	Date: 2020-09-28 ; Times: 2
+	Date: 2020-09-14 ; Times: 5
+	Date: 2020-09-15 ; Times: 1
+	Date: 2020-09-30 ; Times: 2
+	Date: 2020-09-17 ; Times: 3
+	Date: 2020-09-10 ; Times: 6
+	Date: 2020-09-11 ; Times: 2
+	Date: 2020-09-12 ; Times: 2
+	Date: 2020-09-13 ; Times: 5
+	Date: 2020-09-18 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "pusa hispida" ; Times: 1
+	Query: "vntype:specimen family:Phasianidae continent:Africa" ; Times: 1
+	Query: "specificepithet:gibbsii genus:Neurotrichus" ; Times: 1
+	Query: "emydoidea" ; Times: 1
+	Query: "specificepithet:pipiens genus:Lithobates country:&#34;Canada&#34;" ; Times: 2
+	Query: "didelphis marsupialis" ; Times: 1
+	Query: "Lepus americanus" ; Times: 1
+	Query: "specificepithet:vulpes genus:vulpes" ; Times: 1
+	Query: "vntype:specimen order:Galliformes continent:Africa" ; Times: 1
+	Query: "genus:Tamiasciurus specificepithet:.*" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 5
+	Query: "Lasiurus seminolus" ; Times: 1
+	Query: "Aspidoscelis tigris" ; Times: 1
+	Query: "hirundo rustica" ; Times: 1
+	Query: "ailurus" ; Times: 1
+	Query: "specificepithet:concolor genus:puma continent:North America" ; Times: 1
+	Query: "specificepithet:moschatus genus:ovibos" ; Times: 1
+	Query: "Bucephala" ; Times: 1
+	Query: "sturnus vulgaris" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "specificepithet:americanus genus:ursus" ; Times: 1
+	Query: "chelus fimbriatus" ; Times: 1
+	Query: "genus:Eremophila" ; Times: 1
+	Query: "Hyla chrysoscelis" ; Times: 2
+	Query: "Lasionycteris noctivagans" ; Times: 1
+	Query: "Hyla cinerea" ; Times: 1
+	Query: "macrochelys temminckii" ; Times: 1
+	Query: "specificepithet:cristata genus:Condylura" ; Times: 1
+	Query: "genus:Tamiasciurus" ; Times: 1
+	Query: "Gambelia wislizenii" ; Times: 1
+	Query: "leptodactylidae" ; Times: 1
+	Query: "Tympanuchus" ; Times: 1
+	Query: "Sialia" ; Times: 1
+	Query: "Catharus" ; Times: 1
+	Query: "Tabasco" ; Times: 1
+	Query: "Geophagus surinamensis" ; Times: 1
+	Query: "specificepithet:rufus genus:Canis" ; Times: 1
+	Query: "family:emballonuridae" ; Times: 1
+	Query: "specificepithet:rufus genus:canis" ; Times: 1
+	Query: "sus scrofa continent:north america" ; Times: 1
+	Query: "genus:Martes specificepithet:americana*" ; Times: 2
+	Query: "Glaucomys sabrinus" ; Times: 1
+	Query: "nerodia fasciata" ; Times: 1
+	Query: "ambystoma opacum" ; Times: 1
+	Query: "Gavia immer OR adamsii" ; Times: 1
+	Query: "specificepithet:lupus genus:canis continent:North America" ; Times: 1
+	Query: "class:Aves country:&#34;Tanzania&#34; continent:Africa" ; Times: 1
+	Query: "hippocampus whitei" ; Times: 1
+	Query: "order:Galliformes" ; Times: 1
+	Query: "condylura cristata" ; Times: 1
+	Query: "specificepithet:americana genus:Martes" ; Times: 1
+	Query: "cervus canadensis" ; Times: 1
+	Query: "Eptesicus fuscus" ; Times: 1
+	Query: "Aplodontia" ; Times: 1
+	Query: "Cryptotis parva" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "genus:Tamiasciurus specificepithet:hudsonicus*" ; Times: 1
+	Query: "nerodia sipedon" ; Times: 1
+	Query: "Glaucomys volans" ; Times: 1
+	Query: "canis rufus" ; Times: 1
+	Query: "genus:Passerina" ; Times: 1
+	Query: "specificepithet:lagopus genus:Alopex preparations:skull" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "Passer domesticus" ; Times: 1
+	Query: "specificepithet:lupus genus:canis" ; Times: 1
+	Query: "thamnophis marcianus" ; Times: 1
+
+
+End of report.
