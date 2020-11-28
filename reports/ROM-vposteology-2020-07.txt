@@ -1,0 +1,209 @@
+Report for Institution Code ROM, Resource vposteology
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 88
+Number of records retrieved in searches: 187
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 60
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 7
+	Country: Unknown ; Times: 2
+	Country: United Kingdom ; Times: 2
+	Country: Australia ; Times: 4
+	Country: Germany ; Times: 7
+	Country: Colombia ; Times: 1
+	Country: Japan ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 5
+	Date: 2020-07-08 ; Times: 2
+	Date: 2020-07-21 ; Times: 2
+	Date: 2020-07-27 ; Times: 5
+	Date: 2020-07-26 ; Times: 1
+	Date: 2020-07-25 ; Times: 1
+	Date: 2020-07-24 ; Times: 1
+	Date: 2020-07-01 ; Times: 2
+	Date: 2020-07-03 ; Times: 5
+	Date: 2020-07-02 ; Times: 10
+	Date: 2020-07-05 ; Times: 1
+	Date: 2020-07-04 ; Times: 5
+	Date: 2020-07-07 ; Times: 4
+	Date: 2020-07-06 ; Times: 1
+	Date: 2020-07-23 ; Times: 8
+	Date: 2020-07-29 ; Times: 2
+	Date: 2020-07-28 ; Times: 1
+	Date: 2020-07-13 ; Times: 3
+	Date: 2020-07-30 ; Times: 6
+	Date: 2020-07-31 ; Times: 3
+	Date: 2020-07-14 ; Times: 3
+	Date: 2020-07-17 ; Times: 9
+	Date: 2020-07-22 ; Times: 4
+	Date: 2020-07-15 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Gavialis" ; Times: 4
+	Query: "genus:gambelia stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "thamnophis sirtalis tetrataenia" ; Times: 1
+	Query: "country:Ecuador scientificname:Eira barbara " ; Times: 10
+	Query: "catalognumber:7478" ; Times: 1
+	Query: "Lampropeltis alterna" ; Times: 1
+	Query: "genus:Antilocapra" ; Times: 3
+	Query: "Prionailurus planiceps" ; Times: 1
+	Query: "Hydromantes italicus" ; Times: 2
+	Query: "specificepithet:reginae institutioncode:ROM" ; Times: 2
+	Query: "specificepithet:callotis genus:lepus family:leporidae stateprovince:&#34;oaxaca&#34; country:&#34;mexico&#34;" ; Times: 2
+	Query: "genus:Crotalus country:&#34;venezuela&#34;" ; Times: 2
+	Query: "crotalus durissus terrificus" ; Times: 1
+	Query: "Batrachoseps pacificus" ; Times: 1
+	Query: "Hyla avivoca" ; Times: 1
+	Query: "Hydromantes ambrosii" ; Times: 2
+	Query: "okapia" ; Times: 1
+	Query: "Anolis sagrei stateprovince:&#34;Florida&#34; country:&#34;USA&#34;" ; Times: 1
+	Query: "willardi arizona" ; Times: 1
+	Query: "Crocodylus acutus 2018" ; Times: 2
+	Query: "corallus caninus" ; Times: 5
+	Query: "class:mammalia continent:africa year &gt;= 1924 year &lt;= 1924" ; Times: 1
+	Query: "Leopardus colocolo" ; Times: 1
+	Query: "crotalus lepidus klauberi" ; Times: 1
+	Query: "Crotalus willardi" ; Times: 1
+	Query: "Desmognathus quadramaculatus" ; Times: 1
+	Query: "Alopias" ; Times: 2
+	Query: "leopardus geoffroyi" ; Times: 1
+	Query: "class:Reptilia county:&#34;Vermilion&#34; stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "Anolis sagrei country:&#34;USA&#34;" ; Times: 2
+	Query: "tremarctos ornatus" ; Times: 1
+	Query: "pongo abelii" ; Times: 4
+	Query: "genus:LEPUS country:&#34;Mexico&#34; institutioncode:ROM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "leopardus colocolo" ; Times: 4
+	Query: "Leopardus colocolo hasmass:0" ; Times: 1
+	Query: "country:Ecuador scientificname:Potos flavus " ; Times: 3
+	Query: "manis pentadactyla continent:Asia" ; Times: 1
+	Query: "crotalus willardi" ; Times: 1
+	Query: "Loxodonta basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Hippocampus angustus" ; Times: 3
+	Query: "genus:Conepatus institutioncode:ROM" ; Times: 1
+	Query: "Alopias superciliosus" ; Times: 3
+	Query: "genus:okapia class:mammalia" ; Times: 1
+	Query: "Erythrocebus" ; Times: 1
+	Query: "Eunectes murinus murinus" ; Times: 1
+	Query: "crotalus mitchelli" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 66 (out of 940 download events in this period)
+Total number of records downloaded: 1170
+Number of different countries: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 14
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 5
+	Country: Peru ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: United States ; Times: 29
+	Country: Sweden ; Times: 2
+	Country: Vietnam ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 5
+	Country: Argentina ; Times: 1
+	Country: Hong Kong ; Times: 1
+	Country: Russia ; Times: 1
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 2
+	Date: 2020-07-22 ; Times: 4
+	Date: 2020-07-21 ; Times: 5
+	Date: 2020-07-20 ; Times: 1
+	Date: 2020-07-27 ; Times: 2
+	Date: 2020-07-26 ; Times: 1
+	Date: 2020-07-25 ; Times: 1
+	Date: 2020-07-03 ; Times: 3
+	Date: 2020-07-02 ; Times: 1
+	Date: 2020-07-04 ; Times: 1
+	Date: 2020-07-07 ; Times: 3
+	Date: 2020-07-06 ; Times: 3
+	Date: 2020-07-23 ; Times: 4
+	Date: 2020-07-18 ; Times: 2
+	Date: 2020-07-19 ; Times: 3
+	Date: 2020-07-12 ; Times: 1
+	Date: 2020-07-13 ; Times: 6
+	Date: 2020-07-10 ; Times: 1
+	Date: 2020-07-11 ; Times: 2
+	Date: 2020-07-30 ; Times: 2
+	Date: 2020-07-31 ; Times: 4
+	Date: 2020-07-17 ; Times: 1
+	Date: 2020-07-15 ; Times: 5
+	Date: 2020-07-16 ; Times: 3
+	Date: 2020-07-28 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:niger genus:Sciurus" ; Times: 1
+	Query: "viperidae" ; Times: 1
+	Query: "Tursiops truncatus" ; Times: 1
+	Query: "nasua nasua" ; Times: 2
+	Query: "class:Amphibia country:&#34;Argentina&#34;" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Pennsylvania&#34; month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "leopardus wiedii" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 3
+	Query: "cetacea" ; Times: 1
+	Query: "class:Mammalia country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:carolinensis genus:Sciurus" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "genus:Peromyscus" ; Times: 1
+	Query: "Amazona ochrocephala" ; Times: 1
+	Query: "elapidae" ; Times: 1
+	Query: "eira barbara" ; Times: 1
+	Query: "lutra lutra" ; Times: 1
+	Query: "Storeria dekayi" ; Times: 1
+	Query: "genus:Crotalus country:&#34;venezuela&#34;" ; Times: 1
+	Query: "Lynx canadensis" ; Times: 1
+	Query: "class:Amphibia country:&#34;Colombia&#34;" ; Times: 1
+	Query: "specificepithet:corax genus:Corvus year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "ursus maritimus" ; Times: 1
+	Query: "vntype:specimen specificepithet:ochrocephala genus:Amazona basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:pinetorum genus:Microtus" ; Times: 1
+	Query: "puma yagouaroundi" ; Times: 1
+	Query: "puma concolor" ; Times: 2
+	Query: "Tremarctos ornatus" ; Times: 1
+	Query: "genus:Conepatus institutioncode:ROM" ; Times: 1
+	Query: "Anolis sagrei" ; Times: 1
+	Query: "class:Reptilia country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Natricidae" ; Times: 1
+	Query: "Osteopilus septentrionalis" ; Times: 1
+	Query: "genus:Puma" ; Times: 1
+	Query: "Chelydra serpentina" ; Times: 1
+	Query: "spinus tristis" ; Times: 1
+	Query: "genus:Trachemys" ; Times: 1
+	Query: "genus:ochotona" ; Times: 2
+	Query: "order:Squamata stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:volans genus:Glaucomys" ; Times: 1
+	Query: "specificepithet:valliceps family:bufonidae" ; Times: 1
+	Query: "family:felidae" ; Times: 1
+	Query: "specificepithet:alvarius family:bufonidae" ; Times: 1
+	Query: "Viperidae" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "Euphagus carolinus" ; Times: 1
+	Query: "Nasua nasua" ; Times: 2
+	Query: "genus:Lasionycteris continent:North America year &gt;= 1899 year &lt;= 2020 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "class:Mammalia country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Peromyscus" ; Times: 1
+	Query: "rhinella marina" ; Times: 1
+	Query: "genus:Corvus year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "potos flavus" ; Times: 2
+	Query: "grus canadensis" ; Times: 1
+	Query: "Pseudemys texana" ; Times: 1
+	Query: "coluber constrictor" ; Times: 1
+	Query: "Colubridae" ; Times: 1
+	Query: "manis pentadactyla continent:Asia" ; Times: 1
+	Query: "Peromyscus gossypinus vntype:specimen" ; Times: 1
+
+
+End of report.
