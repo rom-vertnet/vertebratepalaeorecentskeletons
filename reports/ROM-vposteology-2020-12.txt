@@ -1,0 +1,353 @@
+Report for Institution Code ROM, Resource vposteology
+Usage stats for December 2020, generated on 2021/01/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 265
+Number of records retrieved in searches: 886
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 55
+	Country: Colombia ; Times: 4
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 4
+	Country: Panama ; Times: 1
+	Country: France ; Times: 118
+	Country: United Kingdom ; Times: 59
+	Country: Sweden ; Times: 5
+	Country: Peru ; Times: 3
+	Country: Kenya ; Times: 2
+	Country: Russia ; Times: 2
+	Country: Spain ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-30 ; Times: 39
+	Date: 2020-12-09 ; Times: 17
+	Date: 2020-12-08 ; Times: 33
+	Date: 2020-12-07 ; Times: 1
+	Date: 2020-12-05 ; Times: 3
+	Date: 2020-12-04 ; Times: 37
+	Date: 2020-12-03 ; Times: 10
+	Date: 2020-12-02 ; Times: 1
+	Date: 2020-12-01 ; Times: 36
+	Date: 2020-12-25 ; Times: 4
+	Date: 2020-12-24 ; Times: 1
+	Date: 2020-12-26 ; Times: 2
+	Date: 2020-12-21 ; Times: 1
+	Date: 2020-12-20 ; Times: 9
+	Date: 2020-12-23 ; Times: 3
+	Date: 2020-12-22 ; Times: 6
+	Date: 2020-12-28 ; Times: 1
+	Date: 2020-12-18 ; Times: 7
+	Date: 2020-12-10 ; Times: 2
+	Date: 2020-12-11 ; Times: 11
+	Date: 2020-12-12 ; Times: 1
+	Date: 2020-12-13 ; Times: 4
+	Date: 2020-12-14 ; Times: 26
+	Date: 2020-12-16 ; Times: 4
+	Date: 2020-12-17 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Ovis aries" ; Times: 1
+	Query: "scientificname:Dicologlossa cuneata" ; Times: 2
+	Query: "Carettochelyidae insculpta" ; Times: 1
+	Query: "country:Ecuador scientificname:Eira barbara " ; Times: 7
+	Query: "scientificname:Carcharias taurus" ; Times: 1
+	Query: "Oncorhynchus nerka" ; Times: 1
+	Query: "Cromileptes altivelis" ; Times: 1
+	Query: "scientificname:Kyphosus sectatrix" ; Times: 1
+	Query: "scientificname:Hippocampus hippocampus" ; Times: 2
+	Query: "scientificname:Thalassoma pavo" ; Times: 1
+	Query: "Cygnus olor" ; Times: 1
+	Query: "genus:Pituophis preparations:skeleton institutioncode:ROM" ; Times: 1
+	Query: "Felis nigripes" ; Times: 3
+	Query: "scientificname:Scomber japonicus" ; Times: 1
+	Query: "scientificname:Euthynnus alletteratus" ; Times: 2
+	Query: "Sciaenops ocellatus" ; Times: 1
+	Query: "Cairina moschata" ; Times: 1
+	Query: "Cuora amboinensis" ; Times: 1
+	Query: "scientificname:Sardina pilchardus" ; Times: 2
+	Query: "scientificname:Pristis pectinata" ; Times: 1
+	Query: "Rhinella schneideri" ; Times: 1
+	Query: "Anser cygnoides" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "pomadasys oman" ; Times: 1
+	Query: "scientificname:Spicara smaris" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Berkeley&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Auxis thazard" ; Times: 1
+	Query: "Mauremys reevesii" ; Times: 1
+	Query: "Cetengraulis edentulus" ; Times: 1
+	Query: "scientificname:Fistularia commersonii" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;Oklahoma&#34; preparations:skeleton" ; Times: 4
+	Query: "Cynoscion regalis" ; Times: 1
+	Query: "scientificname:Heptranchias perlo" ; Times: 2
+	Query: "scientificname:Conger conger" ; Times: 2
+	Query: "Cervus nippon" ; Times: 2
+	Query: "cervus nippon lifestage:adult" ; Times: 1
+	Query: "Esox masquinongy" ; Times: 1
+	Query: "scientificname:Isurus oxyrinchus" ; Times: 1
+	Query: "scientificname:Pollachius pollachius" ; Times: 1
+	Query: "Latimeria chalumnae" ; Times: 1
+	Query: "Drymarchon couperi" ; Times: 2
+	Query: "Clarias batrachus" ; Times: 2
+	Query: "scientificname:Pagrus pagrus" ; Times: 2
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "scientificname:Coris julis" ; Times: 2
+	Query: "scientificname:Alopias vulpinus" ; Times: 1
+	Query: "Pterodroma hasitata" ; Times: 1
+	Query: "Geoemyda spengleri" ; Times: 1
+	Query: "scientificname:Galeorhinus galeus" ; Times: 2
+	Query: "genus:Gavialis" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Harding&#34; stateprovince:&#34;South Dakota&#34; year &gt;= 1990 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "scientificname:Dactylopterus volitans" ; Times: 1
+	Query: "scientificname:Thunnus obesus" ; Times: 1
+	Query: "scientificname:Hexanchus griseus" ; Times: 2
+	Query: "Atherina boyeri" ; Times: 1
+	Query: "Cuora galbinifrons" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;Louisiana&#34; preparations:skeleton" ; Times: 2
+	Query: "scientificname:Pagellus bogaraveo" ; Times: 2
+	Query: "scientificname:Auxis thazard" ; Times: 1
+	Query: "scientificname:Pampus argenteus" ; Times: 1
+	Query: "specificepithet:deppei genus:Pituophis preparations:skeleton" ; Times: 2
+	Query: "Stenotomus chrysops" ; Times: 1
+	Query: "spea hammondi" ; Times: 1
+	Query: "Thunnus obesus" ; Times: 1
+	Query: "scientificname:Carcharhinus altimus" ; Times: 1
+	Query: "scientificname:Dalatias licha" ; Times: 1
+	Query: "scientificname:Boops boops" ; Times: 2
+	Query: "Axis axis" ; Times: 1
+	Query: "scientificname:Lagocephalus lagocephalus" ; Times: 1
+	Query: "Serinus canaria" ; Times: 1
+	Query: "scientificname:Carcharhinus brevipinna" ; Times: 1
+	Query: "scientificname:Dicentrarchus labrax" ; Times: 2
+	Query: "Pagellus bogaraveo" ; Times: 1
+	Query: "scientificname:Elagatis bipinnulata" ; Times: 1
+	Query: "country:Ecuador scientificname:Potos flavus " ; Times: 1
+	Query: "carettochelys insculpta" ; Times: 1
+	Query: "scientificname:Squatina squatina" ; Times: 1
+	Query: "scientificname:Petromyzon marinus" ; Times: 1
+	Query: "Ovis dalli" ; Times: 1
+	Query: "scientificname:Galeocerdo cuvier" ; Times: 1
+	Query: "Oreochromis mossambicus" ; Times: 1
+	Query: "Sphenodon punctatus" ; Times: 1
+	Query: "scientificname:Nemipterus japonicus" ; Times: 1
+	Query: "Leptonycteris sanborni" ; Times: 1
+	Query: "scientificname:Merluccius merluccius" ; Times: 2
+	Query: "Bubalus bubalis" ; Times: 1
+	Query: "scientificname:Trachurus picturatus" ; Times: 2
+	Query: "scientificname:Prionace glauca" ; Times: 1
+	Query: "scientificname:Sardinella aurita" ; Times: 1
+	Query: "scientificname:Carcharhinus limbatus" ; Times: 1
+	Query: "Felis catus" ; Times: 1
+	Query: "scientificname:Scarus ghobban" ; Times: 1
+	Query: "scarus festivus" ; Times: 1
+	Query: "scientificname:Rastrelliger kanagurta" ; Times: 1
+	Query: "scientificname:Pagellus erythrinus" ; Times: 2
+	Query: "scientificname:Coryphaena hippurus" ; Times: 1
+	Query: "scientificname:Limanda limanda" ; Times: 1
+	Query: "Bothriechis schlegelii" ; Times: 2
+	Query: "genus:Crotalus county:&#34;Harding&#34; stateprovince:&#34;South Dakota&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Rhea americana" ; Times: 1
+	Query: "genus:Dyscophus specificepithet:guineti" ; Times: 1
+	Query: "scientificname:Carcharhinus plumbeus" ; Times: 1
+	Query: "Katsuwonus pelamis" ; Times: 1
+	Query: "scientificname:Mullus surmuletus" ; Times: 2
+	Query: "scientificname:Scomber scombrus" ; Times: 2
+	Query: "Cygnus melancoryphus" ; Times: 1
+	Query: "specificepithet:catenifer genus:Pituophis country:&#34;Mexico&#34; preparations:skeleton" ; Times: 2
+	Query: "scientificname:Squalus acanthias" ; Times: 2
+	Query: "Neotoma cinerea" ; Times: 3
+	Query: "genus:Crotalus county:&#34;Pennington&#34; stateprovince:&#34;South Dakota&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Pseudupeneus maculatus" ; Times: 1
+	Query: "Thalassoma pavo" ; Times: 1
+	Query: "scientificname:Pagrus major" ; Times: 1
+	Query: "Torpedo torpedo" ; Times: 1
+	Query: "thamnophis sirtalis tetrataenia" ; Times: 1
+	Query: "Ctenopharyngodon idella" ; Times: 1
+	Query: "Vipera latastei" ; Times: 1
+	Query: "Siganus canaliculatus" ; Times: 1
+	Query: "scientificname:Auxis rochei" ; Times: 1
+	Query: "scientificname:Trachurus trachurus" ; Times: 4
+	Query: "Pterodroma hasitata vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Pan paniscus" ; Times: 5
+	Query: "Thunnus albacares" ; Times: 1
+	Query: "Equus caballus" ; Times: 1
+	Query: "specificepithet:astutus genus:bassariscus stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Chaetophractus villosus" ; Times: 1
+	Query: "scientificname:Carcharodon carcharias" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Aiken&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "scientificname:Cyclopterus lumpus" ; Times: 1
+	Query: "Bothrops neuwiedi bolivianus" ; Times: 1
+	Query: "Phractocephalus hemioliopterus" ; Times: 2
+	Query: "Phacochoerus" ; Times: 2
+	Query: "scientificname:Seriola dumerili" ; Times: 1
+	Query: "Parupeneus barberinus" ; Times: 1
+	Query: "Mycteroperca bonaci" ; Times: 1
+	Query: "Testudo hermanni" ; Times: 1
+	Query: "scientificname:Pristis pristis" ; Times: 1
+	Query: "scientificname:Sillago sihama" ; Times: 1
+	Query: "genus:Diadophis stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "scientificname:Clupea harengus" ; Times: 1
+	Query: "vandenburghi" ; Times: 1
+	Query: "scientificname:Carcharhinus falciformis" ; Times: 1
+	Query: "cervus nippon" ; Times: 1
+	Query: "genus:Pituophis preparations:skeleton" ; Times: 2
+	Query: "genus:Diadophis stateprovince:&#34;South Carolina&#34; institutioncode:ROM" ; Times: 1
+	Query: "Epinephelus drummondhayi" ; Times: 1
+	Query: "scientificname:Pseudupeneus prayensis" ; Times: 1
+	Query: "scientificname:Rhinobatos rhinobatos" ; Times: 1
+	Query: "scientificname:Caranx hippos" ; Times: 1
+	Query: "scientificname:Xiphias gladius" ; Times: 1
+	Query: "scientificname:Rachycentron canadum" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;South Dakota&#34; preparations:skeleton" ; Times: 2
+	Query: "scientificname:Echinorhinus brucus" ; Times: 1
+	Query: "scientificname:Mustelus mustelus" ; Times: 2
+	Query: "scientificname:Lobotes surinamensis" ; Times: 1
+	Query: "Crocodylus acutus mexico" ; Times: 1
+	Query: "scientificname:Melanogrammus aeglefinus" ; Times: 1
+	Query: "Pseudomystus siamensis" ; Times: 1
+	Query: "scientificname:Decapterus russelli" ; Times: 1
+	Query: "scientificname:Procyon lotor" ; Times: 8
+	Query: "scientificname:Trichiurus lepturus" ; Times: 1
+	Query: "genus:coturnicops country:&#34;canada&#34;" ; Times: 1
+	Query: "Anas formosa" ; Times: 2
+	Query: "genus:Crotalus county:&#34;Harding&#34; stateprovince:&#34;South Dakota&#34; year &gt;= 2000 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "scientificname:Acanthocybium solandri" ; Times: 1
+	Query: "scientificname:Torpedo torpedo" ; Times: 2
+	Query: "Crotalus willardi meridionalis" ; Times: 5
+	Query: "country:Ecuador scientificname:Dasyprocta fuliginosa " ; Times: 1
+	Query: "Callopistes maculatus" ; Times: 2
+	Query: "scientificname:Thunnus albacares" ; Times: 1
+	Query: "specificepithet:catenifer genus:Pituophis stateprovince:&#34;Oklahoma&#34; preparations:skeleton" ; Times: 1
+	Query: "scientificname:Balistes capriscus" ; Times: 4
+	Query: "Felis chaus" ; Times: 3
+	Query: "genus:Crotalus county:&#34;Harding&#34; stateprovince:&#34;South Dakota&#34; year &gt;= 1970 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Acanthocybium solandri" ; Times: 1
+	Query: "catalognumber:1812 institutioncode:ROM" ; Times: 1
+	Query: "scientificname:Sphyraena sphyraena" ; Times: 1
+	Query: "scientificname:Panthera onca" ; Times: 4
+	Query: "scientificname:Sarda sarda" ; Times: 1
+	Query: "scientificname:Helicolenus dactylopterus" ; Times: 3
+	Query: "scientificname:Seriola rivoliana" ; Times: 1
+	Query: "scientificname:Tetrapturus albidus" ; Times: 1
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "scientificname:Atherina boyeri" ; Times: 1
+	Query: "Lachesis muta" ; Times: 1
+	Query: "skeleton genus:pelecanus institutioncode:ROM" ; Times: 1
+	Query: "scientificname:Gadus morhua" ; Times: 1
+	Query: "scientificname:Katsuwonus pelamis" ; Times: 1
+	Query: "scientificname:Caranx crysos" ; Times: 1
+	Query: "scientificname:Carcharhinus brachyurus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 82 (out of 705 download events in this period)
+Total number of records downloaded: 2509
+Number of different countries: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Canada ; Times: 1
+	Country: Romania ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 23
+	Country: Turkey ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 37
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Panama ; Times: 1
+	Country: Spain ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-04 ; Times: 3
+	Date: 2020-12-23 ; Times: 19
+	Date: 2020-12-22 ; Times: 1
+	Date: 2020-12-03 ; Times: 6
+	Date: 2020-12-28 ; Times: 1
+	Date: 2020-12-02 ; Times: 28
+	Date: 2020-12-19 ; Times: 2
+	Date: 2020-12-09 ; Times: 2
+	Date: 2020-12-06 ; Times: 1
+	Date: 2020-12-07 ; Times: 6
+	Date: 2020-12-11 ; Times: 2
+	Date: 2020-12-12 ; Times: 2
+	Date: 2020-12-13 ; Times: 1
+	Date: 2020-12-14 ; Times: 2
+	Date: 2020-12-15 ; Times: 3
+	Date: 2020-12-01 ; Times: 2
+	Date: 2020-12-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Vipera aspis" ; Times: 1
+	Query: "Pogona vitticeps" ; Times: 1
+	Query: "genus:Anas" ; Times: 1
+	Query: "family:sciuridae" ; Times: 1
+	Query: "Hemidactylus mabouia" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 2
+	Query: "Myotis velifer" ; Times: 1
+	Query: "Hemidactylus turcicus" ; Times: 2
+	Query: "class:Mammalia country:Brazil" ; Times: 2
+	Query: "Ursus maritimus" ; Times: 1
+	Query: "Lachesis muta" ; Times: 1
+	Query: "Hydromantes italicus" ; Times: 2
+	Query: "Anguis fragilis" ; Times: 2
+	Query: "Atelerix algirus" ; Times: 1
+	Query: "Lacerta viridis" ; Times: 1
+	Query: "Ensatina eschscholtzii" ; Times: 1
+	Query: "Iguana iguana" ; Times: 1
+	Query: "Chamaeleo calyptratus" ; Times: 1
+	Query: "Cordylus cordylus" ; Times: 1
+	Query: "Moloch horridus" ; Times: 1
+	Query: "Coronella austriaca" ; Times: 1
+	Query: "Anolis cristatellus" ; Times: 1
+	Query: "Plethodon cinereus" ; Times: 8
+	Query: "Vipera latastei" ; Times: 1
+	Query: "Salamandra salamandra" ; Times: 2
+	Query: "&#34;Canis rufus&#34;" ; Times: 1
+	Query: "Tadarida brasiliensis" ; Times: 1
+	Query: "Ambystoma tigrinum" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "genus:Lepus" ; Times: 1
+	Query: "Chalcides ocellatus" ; Times: 1
+	Query: "class:Reptilia country:Brazil" ; Times: 2
+	Query: "Typhlonectes natans" ; Times: 1
+	Query: "specificepithet:breweri genus:spizella stateprovince:&#34;colorado&#34;" ; Times: 1
+	Query: "Callopistes maculatus" ; Times: 1
+	Query: "crocuta" ; Times: 1
+	Query: "genus:colinus institutioncode:ROM" ; Times: 1
+	Query: "calotes versicolor" ; Times: 1
+	Query: "taricha torosa" ; Times: 1
+	Query: "Natrix maura" ; Times: 1
+	Query: "Ameiva ameiva" ; Times: 1
+	Query: "Varanus niloticus" ; Times: 1
+	Query: "specificepithet:woodhousii family:bufonidae stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "genus:Martes specificepithet:americana*" ; Times: 1
+	Query: "Plethodon Cinereus" ; Times: 1
+	Query: "Varanus griseus" ; Times: 1
+	Query: "genus:Tamiasciurus specificepithet:.*" ; Times: 1
+	Query: "order:Squamata institutioncode:ROM" ; Times: 1
+	Query: "Viperidae" ; Times: 1
+	Query: "genus:Rangifer tarandus" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "anas platyrhynchos" ; Times: 1
+	Query: "genus:Tamiasciurus specificepithet:hudsonicus*" ; Times: 1
+	Query: "family:anatidae" ; Times: 1
+	Query: "Testudo hermanni" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "plethodon glutinosus" ; Times: 2
+	Query: "Delphinapterus leucas" ; Times: 1
+	Query: "desmognathus quadramaculatus" ; Times: 2
+	Query: "Odobenus rosmarus" ; Times: 1
+	Query: "Tiliqua scincoides" ; Times: 1
+	Query: "specificepithet:debilis stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "Sphenodon punctatus" ; Times: 1
+	Query: "caracal caracal" ; Times: 1
+	Query: "family:Felidae year &gt;= 2000 year &lt;= 2020" ; Times: 1
+	Query: "agama agama" ; Times: 1
+
+
+End of report.
